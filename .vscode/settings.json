@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 16,
+    "window.zoomLevel": 0.5,
+
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "editor.fontFamily": "Hack",
+    
+}
