@@ -8,5 +8,6 @@
     "workbench.colorTheme": "Tokyo Night",
     "editor.fontFamily": "Hack",
     "python.pythonPath": "C:\\Users\\Roy\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "jupyter.jupyterServerType": "local",
     
 }
