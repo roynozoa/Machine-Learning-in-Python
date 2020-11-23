@@ -1,0 +1,1001 @@
+,tweet_cleaned,subjectivity,polarity,sentiment
+0,key marginal constituency be target during last year general election with Facebook advert use public money,0.4083333333333333,0.012500000000000004,Positvie
+1,Day Post Election Cases Total States Active Cases Victories,0.675,-0.06666666666666667,Negative
+2,will celebrate big time if this guy go down sorosthesnake,0.19444444444444448,-0.07777777777777779,Negative
+3,the medium be just as corrupt as the Election,1.0,-0.5,Negative
+4,a group of former republican national security official be call on republican leader particularly those in Congress,0.16666666666666666,0.08333333333333333,Positvie
+5,every sane american know this election be rig against President Trump,0.0,0.0,Positvie
+6,President Trump and other Republicans have file over lawsuit across swing state in attempt to contest election result,0.375,-0.125,Negative
+7,Lara Trump admit Trump be try to get state legislature to steal the election via,0.0,0.0,Positvie
+8,Abe Lincoln would have approve of this article explain the election dispute as honest as be maybe more so,0.7,0.55,Positvie
+9,Georgia approve emergency rule for absentee ballot,0.0,0.0,Positvie
+10,NEW GOP Sen Rob Portman of Ohio write in Cincinnati Enquirer op ed that there be no evidence as of now of any widesp,0.45454545454545453,0.13636363636363635,Positvie
+11,ElectionGuard Microsoft VotingWorks amp Arlo Soros Zuckerburg Bezos Gates Google etc Dominion Canada Scytl Irel,0.0,0.0,Positvie
+12,trump campaign take Pennsylvania election fight to federal appeal court,0.0,0.0,Positvie
+13,the Supreme Court will ultimately decide this election the election be not even until December the SC rule against Gore in in a ruling when the low blue court toss case be a win for with the President supermajority of start worry now,0.45000000000000007,0.2,Positvie
+14,POR FAVOR COMPARTE PARA QUE LAS PERSONAS PUEDAN TOMAR CONCIENCIA DE LO QUE REALMENTE está ACONTECIE,0.0,0.0,Positvie
+15,wait the election be still go on,0.0,0.0,Positvie
+16,Republicans believe some vague voter fraud cost pa in very first presidential election in a period of fea,0.4666666666666667,-0.0875,Negative
+17,Loeffler steal the election from should have be Collins write in Collins,0.0,0.0,Positvie
+18,George Soros ARRESTADO en Filadelfia por Interferencia Electoral,0.0,0.0,Positvie
+19,,0.0,0.0,Positvie
+20,republican national security expert demand GOP admit trump loss,0.0,0.0,Positvie
+21,bbg Pennsylvania Republicans sue to block certification of election result,0.0,0.0,Positvie
+22,a dozen compelling allegation of voting irregularity in election just the News,0.6,0.3,Positvie
+23,this man be do honest skillful hard decent work to feed amp earn such little money to also feed family but in America a crooked like Giuliani defend Trump amp help to steal election can make k per day what this unfairness say about country,0.5347222222222222,0.04791666666666666,Positvie
+24,either there be a vast conspiracy to steal the election from Trump involve Germans and Soros anf the ghost of Hugo Cha,1.0,0.0,Positvie
+25,big deal union election petition file at Fulfillment Center in Alabama by potential worker in the b,0.39999999999999997,-0.03333333333333333,Negative
+26,medium gaslighte that widespread fraud must have occur to doubt election outcome that be not the legal standard,0.1,0.1,Positvie
+27,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+28,Can acknowledge how pathetic be be even in the position where certify valid election result be an open q,0.75,-0.5,Negative
+29,Michigan Bureau of Elections Board meet to certify the state election result live at ET on C SPAN,0.5,0.13636363636363635,Positvie
+30,the news media use to defend freedom of speech as essential to maintain republic now the idea that conservative,0.3,0.0,Positvie
+31,break State Elections Board in Georgia adopt new rule require county to start scan absentee ballot at least,0.42727272727272725,-0.08181818181818182,Negative
+32,Hay what happen to all the election interference guess Trump get another problem fix add that to the check box,0.0,0.0,Positvie
+33,be possible be try to circumvent SCOTUS by prevent certification with a monkey wrench approach thereby throw the election to the House or force SCOTUS to intervene at a later stage on a different question more palatable to the trump bloc on SCOTUS,0.42000000000000004,0.09,Positvie
+34,not long until the election for the next mayor of London not that be count the day or anything,0.2,0.0125,Positvie
+35,good to know show trump how much support and not the deep state by refuse to participate in this corrupt election God be good,0.56,0.21999999999999997,Positvie
+36,George Soros arrest in Philadelphia for Election Interference Judge Orders Media blackout,0.0,-0.05,Negative
+37,each follow example by leave office peacefully no matter how contentious the election campaign may have be,0.5,-0.125,Negative
+38,with all of the lie about voter fraud be seditiously spread by MAGA regime to overturn an election no one talk ab,0.0,0.0,Positvie
+39,Certifying Detroit and Michigan election become national battle,0.0,0.0,Positvie
+40,breaking Mohave County a very red Trump county have just unanimously vote to certify canvass all Arizona count,0.0,0.0,Positvie
+41,election fraud be too important to be leave to conspiracy theorist,1.0,0.4,Positvie
+42,Michigan Bureau of Elections Board meet to certify the state election result live at ET on C SPAN,0.5,0.13636363636363635,Positvie
+43,trump news live top ally break rank and demand transition as ceo and defence expert turn on White House SmartNews,0.475,-0.04090909090909092,Negative
+44,Isko koe samja doe kashmir nahi milega Aur na hi congress election jeet payega pkmkb,0.0,0.0,Positvie
+45,Milwaukee County election official say the recount be move slowly because Trump attorney have be constantly interrup,0.36666666666666664,-0.15000000000000002,Negative
+46,the only fraud involve with this election be the fraud have commit by claim massive voter fraud,1.0,0.0,Positvie
+47,Destroyed Election the big picture Goggle Earth More Evidence of Corruption mile outside of each Voting location switching Votes do remotely inside park truck or empty home apt amp warehouse equip with computer screen flip and Changing vote,0.39166666666666666,0.15,Positvie
+48,Cindy McCain the election have happen election have consequence Biden have win Biden will be next President htt,0.2,0.4,Positvie
+49,make no mistake Donald Trump know lose the election just want to destroy democracy before leave office a,0.0,-0.2,Negative
+50,Unos de los titiriteros del mal cayó ante la luz de el mundo cayo tu padre envíale una cartita de navidad por viejo podrido George Soros arrest in Philadelphia for Election Interference Judge Orders Media blackout,0.0,-0.05,Negative
+51,all aboard come join to support demand transparency and protect election integrity Fight,0.0,0.0,Positvie
+52,the problem be not just trump or enabler who refuse to stand up to attempt overthrow of an election have turn te,0.0,0.0,Positvie
+53,emergency if live in Georgia especially if be an african american woman CHECK your voter registration t,0.16666666666666666,0.04545454545454545,Positvie
+54,yep the excuse that the snorter will use for max effect when in actual fact have have several year and countless option to get this sorted early election in Defo vote of no confidence in BoJo come,0.19,0.01,Positvie
+55,except Russia do hack the election and this should not be news to a former DNI,0.0,0.0,Positvie
+56,George Soros ARRESTADO por interferencia electoral bajo custodia federal George Soros ARRESTED for electi,0.0,0.0,Positvie
+57,can not match ballot back to envelope because quite literally impossible and the law in Georgia to have a secure election to protect voter identity after the ballot have be separate,0.5333333333333333,-0.08888888888888886,Negative
+58,George Soros arrest in Philadelphia for Election Interference Judge Orders Media blackout,0.0,-0.05,Negative
+59,emergency if live in Georgia especially if be an african american woman CHECK your voter registration t,0.16666666666666666,0.04545454545454545,Positvie
+60,be not possible to disagree more with this misguided Trump Hater look at just the hellacious statistical anomaly o,0.75,0.25,Positvie
+61,the medium be just as corrupt as the Election,1.0,-0.5,Negative
+62,message to and come the next election no one be go to worry that the government act too aggr,0.0,0.0,Positvie
+63,so frustrating to watch this Cindy McCain react to GOP lawmaker not publicly acknowledge the election result,0.48333333333333334,-0.2,Negative
+64,EFF will never win an election because do not listen to South Africans South Africa want EFF in power but EFF seem,0.4,-0.4,Negative
+65,right after the election be supposedly alarmist fantasy even to suggest that Trump be try to steal the electi,0.5357142857142857,0.2857142857142857,Positvie
+66,the medium be just as corrupt as the Election,1.0,-0.5,Negative
+67,hope see the election certify be so sick of the GOP traitorous action,0.47857142857142854,-0.30714285714285716,Negative
+68,call for the resignation of South Carolina Senator Lindsey Graham for the crime of election interference if sta,0.0,0.0,Positvie
+69,the White House say Trump be deny a peaceful transfer of power reminder Hillary Clinton concede the day after Elec,0.25,0.125,Positvie
+70,do not care about the fact want to delay to cast doubt and undermine democracy there be no legal basis,0.2,-0.1,Negative
+71,sell out the country be exactly what try to overturn an election be,0.25,0.25,Positvie
+72,these baseless challenge to the election combine with Trump attempt to burn thing down on way out the door be the only attack on democracy go on right now perhaps need to pay well attention,0.6082010582010583,0.04338624338624337,Positvie
+73,Georgia voting system manager say in press conference will remind everybody that Krakens be myth,0.0,0.0,Positvie
+74,do not get why Trump cut Sidney Powell loose how be any less warped or tragic than any other of case or at,0.36522435897435895,-0.2796474358974359,Negative
+75,no but there should be a mp pay freeze until the next election,0.0,0.0,Positvie
+76,Stephen Schwarzman President Donald Trump most high profile supporter on Wall Street say today that time for,0.52,0.33,Positvie
+77,can all just sit and ponder the power of Destiel be such that pierce through the most vicious election night amp,0.6666666666666666,-0.16666666666666666,Negative
+78,Sleepy Joe do not have the spine for the election fraud fight and Amazing ACB,0.9,0.6000000000000001,Positvie
+79,Mike Pompeo help cover up the Khashoggi murder assist in the Ukraine extortion plot support Trump attempt t,0.0,0.0,Positvie
+80,make no mistake Donald Trump know lose the election just want to destroy democracy before leave office a,0.0,-0.2,Negative
+81,icymi the three ex governor who appoint all four current state canvasser agree Michigan should certify election,0.4,0.0,Positvie
+82,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+83,so be correct that the GOP official position be the Dems carry out a massive sophisticated multi state election fra,1.0,0.25,Positvie
+84,Ur husband seem to think have win some election pls tell the media be not wait outside to congratu,0.225,0.4,Positvie
+85,,0.0,0.0,Positvie
+86,Bill Pascrell have file legal complaint in five state seek to disbar Rudy Giuliani and other attorney who h,0.25833333333333336,-0.075,Negative
+87,if China think will forget by arrest forget as Wong say be persuade that neith,0.0,-0.05,Negative
+88,bbg Pennsylvania Republicans sue to block certification of election result,0.0,0.0,Positvie
+89,THREATS in an election that be PERFECT the election include now threat between lawyer,1.0,1.0,Positvie
+90,a few month before the Election be at a baggage claim at an airport near Naples FL and overheard two affluent look,0.48333333333333334,0.18333333333333332,Positvie
+91,do not wanna certify this election candidate actually win,0.4,0.8,Positvie
+92,President Trump and other Republicans have file over lawsuit across swing state in attempt to contest election result,0.375,-0.125,Negative
+93,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+94,election fight in MI amp GA boil down vote in DET amp ATL basically will not change the outcome will not win but thi,0.34444444444444444,-0.2777777777777778,Negative
+95,common sense do not destroy ballot refuse audits and have big tech censor citizen because act hone,0.19999999999999998,-0.06666666666666667,Negative
+96,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+97,look forward to the election integrity fight ahead COUNT all LEGAL vote,0.2,0.2,Positvie
+98,арестован Джордж Сорос,0.0,0.0,Positvie
+99,,0.0,0.0,Positvie
+100,the Left have be shout about the need for evidence in these election fraud claim agree that evidence be need,0.0,0.0,Positvie
+101,گلگت چنار باغ میں شدید ہوائی فارئنگ حالات خراب on the directive of FederalMinister AliAminGandapur amp Election Commis,0.0,0.0,Positvie
+102,every sane american know this election be rig against President Trump,0.0,0.0,Positvie
+103,late from Gilgit Baltistan protester set vehicle on fire after be forcibly evict from protest site outside Ele,0.55,0.06666666666666667,Positvie
+104,why be not trump use of phony election fraud claim to incite the public against the elect government see a,0.48333333333333334,0.4,Positvie
+105,after of Wayne County precinct be unbalanced in August DEMOCRATS on the Michigan Board of Canvassers call,0.0,0.0,Positvie
+106,have say this after every election amp will keep say the people who reject this bullshit entirely be the large,0.5267857142857143,0.10714285714285714,Positvie
+107,business leader be urge trump to acknowledge Biden as the winner of the election and start a transition process,0.0,0.0,Positvie
+108,in Nevada when stop count on election night be close other state stop trump lead pa k,0.375,-0.125,Negative
+109,have reach a point where depend on what time of day be watch Fox News may or not know Joe Biden win the elec,0.4,0.8,Positvie
+110,how bad do something have to be in order to register as an embarrassment to Chris Christie,0.6666666666666666,-0.6999999999999998,Negative
+111,have be hear that the GOP be purge voter in Georgia especially black woman bc fear that will lose co,0.8666666666666667,-0.3333333333333333,Negative
+112,America need a special counsel to investigate election integrity Stat,0.5714285714285714,0.35714285714285715,Positvie
+113,dear medium another reason to cover the Michigan certification as a potential criminal conspiracy to overturn an election,0.775,-0.2,Negative
+114,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+115,dear Georgia Dems please defy the expactation of the voter suppression thug the way do in the general electio,0.5,0.05000000000000002,Positvie
+116,really hope do other newly elect Senator be already a laugh stock only take two day after the election could have have Doug Jones,0.515,0.23500000000000001,Positvie
+117,GupkarGang अब,0.0,0.0,Positvie
+118,election be not hack in stop push fake news Russians once again push propaganda largely in so,0.5095238095238096,-0.12857142857142856,Negative
+119,Fox News favorability have tumble among Republicans since Election Day from late Dec thru November of Republicans,0.6,-0.3,Negative
+120,Former Trump official John Bolton need all of leader,0.0,0.0,Positvie
+121,do see the Plot against America miniserie adapt from the philip roth novel john turturro character play this exact role a fame seeking rabbi whose endorsement of the regime be highly publicize give white moderate permission to vote nazi in the election,0.37249999999999994,0.10250000000000001,Positvie
+122,Ojalá que sea así y que le cierren sus operacione sucia George Soros arrestado en Filadelfia por interferencia electora,0.0,0.0,Positvie
+123,Benjamin Ginsberg represent George Bush in Michigan must certify for Biden duty be clear and tear,0.3833333333333333,0.10000000000000002,Positvie
+124,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+125,the former governor speak about the pathetic and cowardly unwillingness to contradict Trump who still refuse,0.5,-0.5,Negative
+126,honor the voice of Pennsylvania voter this lawsuit be desperate,1.0,-0.6,Negative
+127,BREAKING gbwatch Govt vehicle amp property attack to protest election rig in Gilgit Baltistan GB g,0.0,0.0,Positvie
+128,George Soros arrêté à Philadelphie pour ingérence dan les élection américaine Le juge demande la totale confident,0.8333333333333334,0.5,Positvie
+129,medium gaslighte that widespread fraud must have occur to doubt election outcome that be not the legal standard,0.1,0.1,Positvie
+130,this have be build before the election this be TRUMP America,0.0,0.0,Positvie
+131,how many time can one man lose before concede the election the answer friend be golf yet again the answer be gol,0.5,0.5,Positvie
+132,election Dholpur नगर आज Dholpurmodel Rajasth,0.0,0.0,Positvie
+133,sign of the Times post election Medicare for All and SCOTUS packing be now fringe element of the Democratic Party w,0.0,0.0,Positvie
+134,Georgia Republicans if be worried about Trumps behavior since lose the election and the Republicans unwillingness,0.0,0.0,Positvie
+135,if Charlie be interested in heal would acknowledge the result of the election amp support a smooth transition instead Charlie promote fake conspiracy fascism have no home in America Charlie the people will not slake Republican thirst for power BidenWon GetOverIt,0.6666666666666666,0.05000000000000001,Positvie
+136,Trump have month to start a nuclear war must always remember that the mentally damage potu who have turn unpre,0.2,-0.1,Negative
+137,Michigan GOP congressman Mitchell and Upton be blast party leader attempt to pressure state canvasser to de,0.0,0.0,Positvie
+138,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+139,think Sidney Powell be go after Democrats only nah be about to blow up some prominent Republicans too coug,1.0,0.25,Positvie
+140,do no such thing before the leadership election lot scream at Anyone but Corbyn would be point ahead and do not deny be all over twitter so be Anyone but Corbyn point ahead be be that just centrist whitenoise as usual,0.375,-0.125,Negative
+141,election fight in MI amp GA boil down vote in DET amp ATL basically will not change the outcome will not win but thi,0.34444444444444444,-0.2777777777777778,Negative
+142,just in Philadelphia county will certify election today accord to and,0.0,0.0,Positvie
+143,Day Post Election Cases Total States Active Cases Victories,0.675,-0.06666666666666667,Negative
+144,so be correct that the GOP official position be the Dems carry out a massive sophisticated multi state election fra,1.0,0.25,Positvie
+145,if fraud continue without consequence the United States entire system for the peaceful transfer of power be threaten by t,0.5625,0.125,Positvie
+146,George Soros link election software company lie about tie with Dominion oann,0.0,0.0,Positvie
+147,this be why want mail in voting only way could steal the election,1.0,0.0,Positvie
+148,liberal pre biden election no MORE kids in cages liberal post biden election no MORE caring about KIDS in c,0.5,-0.25,Negative
+149,President Trump and other Republicans have file over lawsuit across swing state in attempt to contest election result,0.375,-0.125,Negative
+150,so be correct that the GOP official position be the Dems carry out a massive sophisticated multi state election fra,1.0,0.25,Positvie
+151,wonder how many observer have conclude that Giuliani and Sidney Powell be participate in a conspiracy to commit fr,0.5,0.5,Positvie
+152,this election cycle organize veteran across the nation to defend democracy yet be build something bigg,0.0,0.0,Positvie
+153,the news media use to defend freedom of speech as essential to maintain republic now the idea that conservative,0.3,0.0,Positvie
+154,GOP say there no evidence of widespread fraud vote for President Trump also believe that there,0.0,0.0,Positvie
+155,clear that the voter of Michigan have speak and make a choice Michigan Sec of State Jocelyn Benson say to Jason John,0.49166666666666664,6.938893903907228e-18,Positvie
+156,this be all a bunch of crap all about power and evil this gov be a supporter of the want of BLM destroy the family burn down the city marxist GOV no middle class People need to wake up and wake up now the media be the virus and just have a fraud election,0.4177777777777778,-0.4311111111111111,Negative
+157,double check be still register to vote for the Jan Runoff Election REQUEST absentee ballot now,0.0,0.0,Positvie
+158,national security expert call on GOP leader to rebuke Trump election claim,0.0,0.0,Positvie
+159,trump just tweet also win the election what the hell do that mean be try to carve out some delusional mi,0.54375,0.24375000000000002,Positvie
+160,vote for President Trump be a co chair of campaign in Ohio but also believe that there be no more sacred constitut,0.5,-0.25,Negative
+161,attention GEORGIA dem the last day to register to vote in the most important runoff election to flip the SENATE be Dece,0.5222222222222223,0.3,Positvie
+162,be only cheat if trump lose,1.0,0.0,Positvie
+163,just so be aware Trump lawyer Sidney Powell position be that Georgia republican governor conspire with the,0.25,0.25,Positvie
+164,for year the political press give Donald Trump and republican ilk unlimited airtime to propagate birtherism the exact sa,0.175,0.125,Positvie
+165,that would have do win or lose the election take out pass the bill present on Jan,0.2,0.4,Positvie
+166,will not make a great deal of difference at the next election anyway as represent little more than of the UK electorate,0.4375,0.278125,Positvie
+167,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+168,widespread freakout over thing that be never go to happen have dominate Twitter trump stage a successful co,0.95,0.75,Positvie
+169,meanwhile amp have commit felony election tampering,0.0,0.0,Positvie
+170,a pro trump Attorney just call on Republicans to not vote for Kelly Loeffler R GA and David Perdue R GA,0.0,0.0,Positvie
+171,yeah lame duck trump look directly at solar eclipse but smart enough to know can do anything amp all Republicans w,0.5732142857142857,-0.04642857142857144,Negative
+172,Georgia voter even though just vote many people have suddenly be purge if want to vote in the runoff elect,0.6333333333333333,0.43333333333333335,Positvie
+173,TVによるインタビューの際に本件について事実検証をせずにコメントしたと認めているとのこと,0.0,0.0,Positvie
+174,as President Trump continue to fundraise off legal fight with email send since election night a reminder t,0.2,0.2,Positvie
+175,dam breaking weigh in portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+176,be so damn tired of Twitter amp Facebook give warning about election post may think be dumb but be not dumb e,0.5666666666666667,-0.19583333333333333,Negative
+177,recognize the damage do by Trump crazier and crazier election conspiracy theory but also appreciate the clarity,0.0,0.0,Positvie
+178,this story from Fox say blame Floyd County uncounted ballot on a memory card however video link b,0.0,0.0,Positvie
+179,election fraud be too important to be leave to conspiracy theorist,1.0,0.4,Positvie
+180,,0.0,0.0,Positvie
+181,jealousy be peek through Mueller and Senate Intel Committee confirm the Russians hack election Mueller and charge a bunch of Russians,0.0,0.0,Positvie
+182,where be Scott win the election,0.4,0.8,Positvie
+183,there be no democratic election fraud,0.0,0.0,Positvie
+184,republican Rob Portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+185,while the result of the presidential election have give something to be extremely thankful for there still one,1.0,-0.125,Negative
+186,there be those who say Trump should gracefully concede leave office amp prepare to run again in be not one of,0.0,0.0,Positvie
+187,those ballot have no effect on the outcome of the election so be not moot either way just ask,0.0,0.0,Positvie
+188,George Soros Arrestado en Philadelphia por intervención Electoral Esta noticia alegro el día este Globa,0.0,0.0,Positvie
+189,but be persuade that neither prison bar nor election ban nor any other arbitrary power would stop from act,0.4875,-0.1125,Negative
+190,trump campaign file an appeal after a federal judge dismiss attempt to block the certification of vote in Pennsylvania htt,0.0,0.0,Positvie
+191,non aucun soupçon a part ceux qui ont été prouvés depuis comme Cambridge Analytica et russe en la Floride faisait basculer Rien de tel Il a rien dan le dossier en France on appelle cela de la calomnie,0.0,0.0,Positvie
+192,even if elect Republicans want to speak truth to the MAGA crowd be not certain many will listen true and there,0.6553571428571429,0.3857142857142858,Positvie
+193,confirm ACB so close to the election seem not to have hurt GOP be doubtful that any would be trump voter break the other way due to that power play and McConnell well oil confirmation machine likely net vote down ballot CatoSCOTUS,0.48981481481481476,-0.20092592592592595,Negative
+194,get the popcorn ready Emily Murphy the head of GSA who refuse to sign off on the election to appease Trump face q,0.5,0.2,Positvie
+195,USA election,0.0,0.0,Positvie
+196,dam breaking weigh in portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+197,the Electoral Map as stand with in depth info about the contest state Election via,0.0,0.0,Positvie
+198,if be responsible for certify an election would want to read this column by two law professor refuse to Certi,0.55,0.2,Positvie
+199,this be day ago just the other day be the darling of the Strike out force yet y,0.375,-0.125,Negative
+200,medium gaslighte that widespread fraud must have occur to doubt election outcome that be not the legal standard,0.1,0.1,Positvie
+201,the Kraken and Bigfoot still miss the bad guy be hunt and update election prediction,0.6666666666666666,-0.6999999999999998,Negative
+202,when that little girl grow up go to learn all about how mother lie to a nation enable a would be dictator and push conspiracy theory in order to overturn an election,0.5,-0.1875,Negative
+203,BASELGA BASELGA baselga Sidney Powell ha sido suspendida en Twitter por compartir una información que demuestra la conexión entre la empresa de fraude,0.0,0.0,Positvie
+204,Lindsey Graham continue to weigh in on Georgia election after be accuse of interference via,0.0,0.0,Positvie
+205,Should lead in space be a priority for the United States Y n,0.0,0.0,Positvie
+206,no matter how this election turn out Joe Biden will not be run the country,0.0,0.0,Positvie
+207,for the love of God can please add constructively to the conversation until Trump Dems always acknowledge the result of the election even when the Dems win the popular vote year after year and exactly no one have pull this crap ever,0.5900000000000001,0.19499999999999998,Positvie
+208,this number be now fundraise email from the trump campaign since election night,0.0,0.0,Positvie
+209,see a lot of people demand evidence from a how quickly turn on own b pls show one high p,0.68,0.3644444444444444,Positvie
+210,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+211,break if Pennsylvania and Michigan certify election result as should today Trump claim of voter fraud,0.0,0.0,Positvie
+212,portman no proof of mass fraud that would change election result via,0.0,0.0,Positvie
+213,a few month before the Election be at a baggage claim at an airport near Naples FL and overheard two affluent look,0.48333333333333334,0.18333333333333332,Positvie
+214,on or before December any ongoing effort to ensure an accurate count must be conclude and the election bring to a close,0.6333333333333334,0.4000000000000001,Positvie
+215,all these MP be arse about be get the good deal for council not constituent remember this during the next election the trickle down economic be push do not and have never work,0.27222222222222225,0.18611111111111112,Positvie
+216,in January Dominion tell Congress there be a back door to software that allow vote to be upload via a memory stick after the election be over boom the Gang of eight know and do nothing,0.0,0.0,Positvie
+217,never imagine would sit worried that state legislature may try to subvert election result to appease a dictator wannab,0.0,0.0,Positvie
+218,Stephen Schwarzman President Donald Trump most high profile supporter on Wall Street say today that time for,0.52,0.33,Positvie
+219,between that and the conspiracy theory run rampant on Parler that the election be a ploy for dem to get,0.0,0.0,Positvie
+220,the Radical Left have use the coronavirus as an excuse to change election law a massive number of violation have be report due to the social distance imposition this have be a global operation but have be sponsor by lead liberal in the US OBiden Care,0.24861111111111112,-0.02361111111111111,Negative
+221,do not put out to make fun and try to steal a legal election what s next,0.13333333333333333,0.16666666666666666,Positvie
+222,be wrong about Mitt Romney this article be horseshit outright bigotry and racism in the trump campaign trump be the reality check need all politician get fire in election need real people not Mitt Joe or any other corrupt joker,0.64375,-0.23125,Negative
+223,the takeaway from the election should not be if trump lose there must be illegal vote the takeaway SHOULD be trump l,0.5,-0.5,Negative
+224,this normally may be a time when folk reflect on the outgoing President achievement the Middle East peace deal op,0.32499999999999996,0.075,Positvie
+225,the White House say Trump be deny a peaceful transfer of power reminder Hillary Clinton concede the day after Elec,0.25,0.125,Positvie
+226,zo Wel een dingetje dit Republikeinse nationale veiligheidsexpert vragen hun partij indringend Trumps verlie toe,0.0,0.0,Positvie
+227,Democrats have not accept the legitimacy of a GOP president since but Trump should not toop to level Acce,0.0,0.0,Positvie
+228,wake up this morning and be more convinced than ever before that this election have be st len not from President Trump,0.5,0.5,Positvie
+229,see way too many flip flopper stay true to what believe in stop care so much about what people think about,0.44999999999999996,0.35000000000000003,Positvie
+230,Biden expect to tap Jake Sullivan as national security adviser Linda Thomas Greenfield for ambassador,0.0,0.0,Positvie
+231,big deal union election petition file at Fulfillment Center in Alabama by potential worker in the b,0.39999999999999997,-0.03333333333333333,Negative
+232,there be no credible opposition for year mate labour have not pull in the same direction for last year at least these mug would probably get in again if there be an election tomorrow,0.32291666666666663,-0.125,Negative
+233,Democrats steal the election,0.0,0.0,Positvie
+234,be not the media call be in favor of immediate measure to address the issue this should be the least partisan time of year be the holiday and the next election could not be far away except for Georgia,0.4666666666666666,-0.06666666666666667,Negative
+235,Un jury pour de pour célébrer le centenaire des concour de beauté en France htt,0.0,0.0,Positvie
+236,even if Joe Biden win the election fairly of Republicans do not think do but let entertain the notion that h,0.65,0.75,Positvie
+237,Pesquisa Rasmussen mostra que além dos de Republicanos que acreditam que a eleição foi roubada do presidente Donald T,0.0,0.0,Positvie
+238,this seem surgical on d the USPS process of ballot on time the expect rate be but in the po,0.0,0.0,Positvie
+239,so original annoying home sell election America realestate,0.825,-0.21250000000000002,Negative
+240,this be what the final POTUS election map will look like,1.0,0.0,Positvie
+241,a group of lead GOP national security expert include former homeland security secretary Tom Ridge urge congressi,0.0,0.0,Positvie
+242,corporate executive and lobbyist do not belong in the administration need leader who be ground in the need of the,0.0,0.0,Positvie
+243,if live in Georgia and a so call Republican tell to boycott the January runoff election tell no thanks still have a function brain,0.35,0.018181818181818174,Positvie
+244,Leia aqui a informação Abra no Google chrome e traduza,0.0,0.0,Positvie
+245,be to busy steal the election Steve do not have time to do what be right for Deplorables,0.4178571428571428,0.19285714285714284,Positvie
+246,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+247,breaking Mohave County a very red Trump county have just unanimously vote to certify canvass all Arizona count,0.0,0.0,Positvie
+248,why be Joe Biden so quickly form a Cabinet when investigator have find hundred of thousand of fraudulent vot,0.5,0.3333333333333333,Positvie
+249,Maryland GOP Governor on CNN re Trump refusal to concede the election be begin to look like be,0.0,0.0,Positvie
+250,dam breaking weigh in portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+251,with this late bus tour be send a strong message across the state of Georgia black voter make history on El,0.5888888888888889,-0.011111111111111118,Negative
+252,the game change will may be Georgia election but be expect an avalanche of bumfukkery go to be hard,0.4708333333333333,-0.3458333333333333,Negative
+253,a pro biden drive for democracy car caravan be gather this morning at the Meridian Mall near Lansing Michigan prepare to head to the Capitol for the State Board of Canvassers vote on certify the election result Michigan lansing,0.4,0.1,Positvie
+254,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+255,election fraud be too important to be leave to conspiracy theorist,1.0,0.4,Positvie
+256,bbg Pennsylvania Republicans sue to block certification of election result,0.0,0.0,Positvie
+257,HS bqqm,0.0,0.0,Positvie
+258,pray everyday that will be victorious and give the EVIL DS player can not steal this election from and the american people criminal and must be stop,0.5375000000000001,-0.4,Negative
+259,national security expert call on GOP leader to rebuke Trump election claim,0.0,0.0,Positvie
+260,go from year of Russia rig the election to election can not be rig really fast do not,0.6,0.2,Positvie
+261,refer specifically to Jim Clyburn and the South Carolina democratic primary in after Bernie be the likely nominee after Nevada and the Super Tuesday dominant majority for Hillary in southern state that democrats rarely win in the general election Truth reveal,0.5111111111111111,0.2638888888888889,Positvie
+262,the dominion Algorithm use to steal the election via,0.0,0.0,Positvie
+263,this sure be a happy day Black Detroit voter sue trump campaign over effort to invalidate election result ABC New,0.6941919191919191,0.3174242424242424,Positvie
+264,by the end of today election result will be certify in enough state to remove any and every far fetched hypothet,0.75,0.05,Positvie
+265,Anti Globalism be literally against the planet can not have a USA without a planet earth and lose the election by one of the large margin of victory ever Congrats President Elect Biden at least can now end the shit show call the Trump Administration,0.6321428571428571,0.12857142857142856,Positvie
+266,half of Americans believe this election be steal while the other half know this election be steal,0.23611111111111108,-0.15277777777777776,Negative
+267,thank Garu for bring this violation of Model Code of Conduct to notice today register a comp,0.0,0.0,Positvie
+268,breaking news Allegheny County Board of Elections vote to certify the election result,0.0,0.0,Positvie
+269,have the power no President have ever have million Americans vote for except can not all,0.0,0.0,Positvie
+270,will not let steal the vote and take freedom will take up arm and fight if must speaker at t,0.0,0.0,Positvie
+271,big deal union election petition file at Fulfillment Center in Alabama by potential worker in the b,0.39999999999999997,-0.03333333333333333,Negative
+272,RCN tell to update election rule follow independent review,0.125,0.0,Positvie
+273,just as the obsession with Russia inhibit many dem from reach a critical understanding of the election the obsessi,0.65,0.25,Positvie
+274,day ago Biden win the election today give republican Kevin Cramer minute on to push t,0.4,0.8,Positvie
+275,quand je vois tout ce qui se passe en France en ce moment jme dis a intérêt à bien voter au prochaine élection présidentielle,0.0,0.0,Positvie
+276,Georgia voter even though just vote many people have suddenly be purge if want to vote in the runoff elect,0.6333333333333333,0.43333333333333335,Positvie
+277,national security expert call on GOP leader to rebuke Trump election claim,0.0,0.0,Positvie
+278,how many time can one man lose before concede the election the answer friend be golf yet again the answer be gol,0.5,0.5,Positvie
+279,GA voter need to check if have be purge or not even if vote on Nov the GOP do this before Stacy Ab,0.0,0.0,Positvie
+280,break State Elections Board in Georgia adopt new rule require county to start scan absentee ballot at least,0.42727272727272725,-0.08181818181818182,Negative
+281,go to run again claim falsely that the election be steal from and if there any threat of prosecution afte,0.6,-0.4000000000000001,Negative
+282,read this shortly after the election and resonate so much help explain some of the reaction go on,0.25,0.1,Positvie
+283,opinion Dean Obeidallah why Biden should stop parse word and call President Trump lie a coup,0.0,0.0,Positvie
+284,Última hora Soros ha sido arrestado y se encuentra bajo custodia federal en Filadelfia Según una acusación formal presen,0.0,0.0,Positvie
+285,breaking GOP election lawyer tell Michigan Republicans to do job and certify Biden win,0.4,0.8,Positvie
+286,the TrumpCampaign appeal the dismissal of Election lawsuit in Pennsylvania accord to a notice file in federal,0.0,0.0,Positvie
+287,ATENCIÓN,0.0,0.0,Positvie
+288,portman be a potential canary in the coal mine unlike other Republicans who have break with Trump on the election result,0.6875,-0.0625,Negative
+289,McDaniel be brag about how the GOP pander to minority while completely overlook that Trump lose some white worki,0.2,0.05,Positvie
+290,national security expert call on GOP leader to rebuke Trump election claim,0.0,0.0,Positvie
+291,trump begin political career with the racist claim that President Obama be not bear here be end with th,0.1,0.0,Positvie
+292,restaurant owner have go from close in March to almost finally open to possibly get loot this summe,0.75,0.0,Positvie
+293,election nonsense voluntaryism,0.0,0.0,Positvie
+294,Giuliani the Case for election fraud be make by american via,0.0,0.0,Positvie
+295,as President Trump continue to fundraise off legal fight with email send since election night a reminder t,0.2,0.2,Positvie
+296,GOP State Legislatures want to certify the fraud FFS do job stand for something or you WILL fall for anything like this fraud election,0.0,0.0,Positvie
+297,how do know be a legitimate election Atlanta Philly Detroit and Milwaukee all stop counting at the same time in the middle of the night be very highly suspicious,0.27566666666666667,0.06933333333333334,Positvie
+298,Sorry but amp the absurd mouthpiece that defend amp BS reflection on the election be live in unreality all need to go,0.8333333333333334,-0.2878787878787879,Negative
+299,George Soros ARRESTADO por interferencia electoral bajo custodia federal George Soros ARRESTED for electi,0.0,0.0,Positvie
+300,datum Anti Globalism Pro police message win over Hispanics via great,0.575,0.8,Positvie
+301,Stephen Schwarzman President Donald Trump most high profile supporter on Wall Street say today that time for,0.52,0.33,Positvie
+302,guarantee the week after the election suddenly all those democratic governor all those democratic mayor will s,0.5,0.0,Positvie
+303,Bill Pascrell have file legal complaint in five state seek to disbar Rudy Giuliani and other attorney who h,0.25833333333333336,-0.075,Negative
+304,fix computer glitch turn lose Republican into a winner in Oakland County via,0.0,0.0,Positvie
+305,a few month before the Election be at a baggage claim at an airport near Naples FL and overheard two affluent look,0.48333333333333334,0.18333333333333332,Positvie
+306,the White House say Trump be deny a peaceful transfer of power reminder Hillary Clinton concede the day after Elec,0.25,0.125,Positvie
+307,as President Trump continue to fundraise off legal fight with email send since election night a reminder t,0.2,0.2,Positvie
+308,PA County by County vote certification be happen today Allegheny County have certify vote for Joseph Bide,0.0,0.0,Positvie
+309,MAGA Lunatic brigadier Sydney Powell be fail so bad that now accuse Bernie Sanders and Georgia fraud,0.4833333333333333,-0.5999999999999999,Negative
+310,portman be a potential canary in the coal mine unlike other Republicans who have break with Trump on the election result,0.6875,-0.0625,Negative
+311,be incredibly common to have small discrepancy between these number be not a sign of fraud just inevitable hum,0.6333333333333333,-0.18333333333333335,Negative
+312,President Trump and other Republicans have file over lawsuit across swing state in attempt to contest election result,0.375,-0.125,Negative
+313,portman no proof of mass fraud that would change election result via,0.0,0.0,Positvie
+314,,0.0,0.0,Positvie
+315,medium gaslighte that widespread fraud must have occur to doubt election outcome that be not the legal standard,0.1,0.1,Positvie
+316,on average in Trump speak word in public daily on the last day of the campaign alone utter more than,0.33888888888888885,0.05833333333333333,Positvie
+317,ATENCIÓN George Soros arrest in Philadelphia for Election Interference Judge Orders Media blackout,0.0,-0.05,Negative
+318,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+319,the election come amid an inflection point be bipoc who bear the brunt of the pandemic the deep inequity in sy,0.4,0.0,Positvie
+320,general election LAB LDM combine now LAB LDM combine have Keir Starmer do anything but collect up Lib Dem voter who refuse to vote a social democrat like Jeremy Corbyn even to stop a horrific Tory Brexit,0.5222222222222223,-0.3055555555555555,Negative
+321,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+322,lose the fair fucking election and so much more,0.7333333333333334,0.19999999999999998,Positvie
+323,Bill Pascrell have file legal complaint in five state seek to disbar Rudy Giuliani and other attorney who h,0.25833333333333336,-0.075,Negative
+324,just in Pennsylvania Republicans sue in last ditch effort to stop election certification,0.06666666666666667,0.0,Positvie
+325,there be a big difference between want and need Donald Trump want to have win the election Americans need COVID r,0.25,0.4,Positvie
+326,do not know why the American Bar Association be tolerate these embarrassing amp dangerous tactic by these trump lawyer ha,0.45,-0.3,Negative
+327,Michigan Board of State Canvassers be due to meet at one Republican be expect to vote against certification another,0.375,-0.125,Negative
+328,the Kentucky election there be more vote for McConnel than register voter in one county,0.5,0.5,Positvie
+329,CSPC write on the importance of preserve the tradition of democracy amidst the election result read the full op ed here,0.55,0.35,Positvie
+330,no a good thing what FL TX and NC already do and why largely know the outcome,0.5142857142857143,-0.06785714285714285,Negative
+331,some info on election rule and law by state,0.0,0.0,Positvie
+332,in the stand up comedian and great actor Coluche be for a time one of the candidate at the presidential election in France be funny and a good man later create the Restos du Cœur a fantastic charity he be funny Donald Trump be a hobble disaster,0.7083333333333334,0.39999999999999997,Positvie
+333,get the popcorn ready Emily Murphy the head of GSA who refuse to sign off on the election to appease Trump face q,0.5,0.2,Positvie
+334,new the Allegheny County Board of Elections certify the November election result this morning ballot be tie,0.45454545454545453,0.13636363636363635,Positvie
+335,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+336,election live update trump legal team distance from lawyer Sidney Powell biden tap Blinken as secretary of state via,0.35,0.16818181818181818,Positvie
+337,in other news a longshot republican candidate in Maryland who lose by over point claim that Larry Hogan be part of a,0.375,-0.125,Negative
+338,do not believe in conspiracy believe in watch the result of action Pennsylvania Legislature have already agree to a private audit of the election after certification this be like Barr fake investigation that keep the hope of trump supporter alive,0.46875,-0.07500000000000001,Negative
+339,Though Election Day have pass thefightcontinue be time to focus on state and municipal election because every,0.0,0.0,Positvie
+340,as President Trump continue to fundraise off legal fight with email send since election night a reminder t,0.2,0.2,Positvie
+341,Il ne manquait plus que Gate maintenant je pense les à tous Que les condamnations com,0.0,0.0,Positvie
+342,Lisa Murkowski describe Trump lean on state legislator as a pressure campaign that be not only unprecedented,0.95,0.3,Positvie
+343,after of Wayne County precinct be unbalanced in August DEMOCRATS on the Michigan Board of Canvassers call,0.0,0.0,Positvie
+344,let see Georgie invite Christie on show predictably christie trash Trump lawyer and Hogan the Marylan,0.5,-0.2,Negative
+345,former Special Counsel Robert Mueller defend the investigation into russian election interference and say Roger Stone rema,0.19047619047619047,0.11904761904761905,Positvie
+346,,0.0,0.0,Positvie
+347,be confusing which cult work to put the Tories into power and succeed StarmerOut ht,0.4,-0.3,Negative
+348,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+349,new Pennsylvania Republicans file an emergency request to block the certification of election result for Joe Biden,0.45454545454545453,0.13636363636363635,Positvie
+350,Texas Louie Gohmert be call for an armed insurrection to overthrow the election the lawlessness and out in the,0.0,0.0,Positvie
+351,and other GOP should look to publicly demand that President Trump cease anti democratic assault on the integrity of the presidential election,0.22083333333333333,-0.0625,Negative
+352,the truth be tell Trump have exhaust all resource in a failed attempt to defraud the american people and derail this election be time for to concede put away pettiness amp greed and handover the rein to PresidentElectBiden ByeDon byebyetrump thetruthbetold,0.15,-0.25,Negative
+353,a pro trump Attorney just call on Republicans to not vote for Kelly Loeffler R GA and David Perdue R GA,0.0,0.0,Positvie
+354,Μας καθησυχάζουν ότι θα κάνουμε το ίδιο εμβόλιο που είχε αποτέλεσμα και στον Τραμπ Εν τω μεταξύ αν δεις τώρα τον Τραμπ,0.0,0.0,Positvie
+355,datum Trump Anti Globalism Pro police message win over Hispanics UFDT,0.4,0.8,Positvie
+356,President Trump and other Republicans have file over lawsuit across swing state in attempt to contest election result,0.375,-0.125,Negative
+357,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+358,Rob Portman Ohio Republican say there be no evidence as of now of any widespread fraud or irregularity that would ch,0.0,0.0,Positvie
+359,push election conspiracy GOP Rep claim that President Obama be President elect Joe Biden overlor,0.9,0.8,Positvie
+360,call for the resignation of South Carolina Senator Lindsey Graham for the crime of election interference if sta,0.0,0.0,Positvie
+361,Filadelfia George Soros ARRESTADO por interferencia electoral bajo custodia federal,0.0,0.0,Positvie
+362,election fraud be too important to be leave to conspiracy theorist,1.0,0.4,Positvie
+363,Democrats and RINOS have be steal and use tax dollar to rig the election against million dollar c,0.0,0.0,Positvie
+364,just in Philadelphia county will certify election today accord to and,0.0,0.0,Positvie
+365,key GOP Michigan canvass board member expect to vote against certifying result,1.0,0.0,Positvie
+366,never imagine would sit worried that state legislature may try to subvert election result to appease a dictator wannab,0.0,0.0,Positvie
+367,day after the election swoon at bravery,0.0,0.0,Positvie
+368,about to participate in election fraud be,0.0,0.0,Positvie
+369,wait now be tell Hugo Chavez DIDNT steal the election,0.0,0.0,Positvie
+370,President Trump and other Republicans have file over lawsuit across swing state in attempt to contest election result,0.375,-0.125,Negative
+371,Kasich be a KochNetwork DarkMoney member the same that ensure trump election d,0.125,0.0,Positvie
+372,be now day after the election be call and have yet to see an op ed analysis commentary in a major newspaper on wh,0.5,0.0625,Positvie
+373,there be no evidence as of now of any widespread fraud or irregularity that would change the result in any state for Electi,0.0,0.0,Positvie
+374,election fight in MI amp GA boil down vote in DET amp ATL basically will not change the outcome will not win but thi,0.34444444444444444,-0.2777777777777778,Negative
+375,so frustrating to watch this Cindy McCain say of GOP lawmaker not publicly acknowledge the election result the fact,0.48333333333333334,-0.2,Negative
+376,,0.0,0.0,Positvie
+377,trump lawyer be imbecile and deserve all the derision get for try to overturn a free and fair election spare the pity party for liar and cheat,0.7250000000000001,0.04999999999999998,Positvie
+378,story from Sundown Texas a small town outside Lubbock,0.225,-0.125,Negative
+379,Michigan Sup Ct canvassing board wield purely ministerial power must tabulate vote submit by county but have no power to go behind the return and recount the vote even in the face of allegation that election law be most grossly violate,0.425,0.07857142857142857,Positvie
+380,forget Russia forget Impeachment arguably the big political scandal have ever see in this country be play right b,0.24523809523809526,0.09523809523809523,Positvie
+381,with nearly all vote count the presidential election be not that close,0.4,0.1,Positvie
+382,day election mode shameless party,0.0,0.0,Positvie
+383,this week see usd on weak footing and explain why expect to see further dollar depreciation Derek also look at sentiment shift which mean Emerging Markets have see significant inflow in the week since the election,0.671875,-0.078125,Negative
+384,please make sure trump do not steal this election from President elect be count on,0.8944444444444444,0.65,Positvie
+385,Cindy McCain the election have happen election have consequence Biden have win Biden will be next President,0.2,0.4,Positvie
+386,if Democrats be try to steal an election like be do right now Rush would be so hot the golden EIB mic would h,0.6285714285714286,0.2785714285714285,Positvie
+387,recognize the damage do by Trump crazier and crazier election conspiracy theory but also appreciate the clarity,0.0,0.0,Positvie
+388,a majority of GOP voter in a new poll would support another trump presidential bid,0.45454545454545453,0.13636363636363635,Positvie
+389,LATINO vote Biden trump national vote biden trump the guy who win more,0.45,0.65,Positvie
+390,so frustrating to watch this Cindy McCain say of GOP lawmaker not publicly acknowledge the election result the fact,0.48333333333333334,-0.2,Negative
+391,Bill Pascrell have file legal complaint in five state seek to disbar Rudy Giuliani and other attorney who h,0.25833333333333336,-0.075,Negative
+392,Q say not another year election say be big Sidney Powell will be biblical Jes US J US tice http,0.1,0.0,Positvie
+393,this be truly painful to watch the trump campaign just declare that Sidney Powell who be feature by the Trump camp,0.9,-0.7,Negative
+394,get the popcorn ready Emily Murphy the head of GSA who refuse to sign off on the election to appease Trump face q,0.5,0.2,Positvie
+395,Filadelfia George Soros ARRESTADO por interferencia electoral bajo custodia federal,0.0,0.0,Positvie
+396,let be very clear about this refuse to certify the result of a legitimate election be a completely unacceptable,0.44916666666666666,0.11500000000000002,Positvie
+397,look forward to the election integrity fight ahead COUNT all LEGAL vote,0.2,0.2,Positvie
+398,the right have accuse Democrats of be out of touch bubble dweller for half a century but this post election tantrum,0.35119047619047616,0.05952380952380952,Positvie
+399,a majority of GOP voter in a new poll would support another trump presidential bid,0.45454545454545453,0.13636363636363635,Positvie
+400,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+401,a majority of GOP voter in a new poll would support another trump presidential bid,0.45454545454545453,0.13636363636363635,Positvie
+402,a majority of GOP voter in a new poll would support another trump presidential bid,0.45454545454545453,0.13636363636363635,Positvie
+403,datum Anti Globalism Pro police message win over Hispanics via great,0.575,0.8,Positvie
+404,datum Anti Globalism Pro police message win over Hispanics via great,0.575,0.8,Positvie
+405,the US Presidential Election result from present as a cartogram by a nice way of show the rural,0.3333333333333333,0.19999999999999998,Positvie
+406,Can acknowledge how pathetic be be even in the position where certify valid election result be an open q,0.75,-0.5,Negative
+407,two more unhinged Democrats and Russia hoaxer dress up as news people burp up demand to drop lawful cha,0.25,0.25,Positvie
+408,,0.0,0.0,Positvie
+409,More than ceo plan to send a memo today demand that Murphy head of the General Services Administration affirm that Biden have win the election and issue the paperwork require for team to begin a transition,0.4666666666666666,0.45,Positvie
+410,here a misogynistic woman Laura Cox be nothing but vile amp foul to Michigan Governor Gretchen Whi,0.0,0.0,Positvie
+411,President Trump and other Republicans have file over lawsuit across swing state in attempt to contest election result,0.375,-0.125,Negative
+412,a few month before the Election be at a baggage claim at an airport near Naples FL and overheard two affluent look,0.48333333333333334,0.18333333333333332,Positvie
+413,you are so concerned about FAIRNESS have you checked on all the GA DEMOCRATS that be purged since the presidential election be sooo CONCERNED about a FAIR election CHECK into that TRAITOR,0.9,0.7,Positvie
+414,Trump election lie be an attempt coup biden and other Democrats should say so,0.375,-0.125,Negative
+415,Trump raise money for charity then spend on Trump be now raise money for election lawsuit but,0.0,0.0,Positvie
+416,all in the grifting and how long can sustain be not about overturn an election but make gullible voter think can do with enough money,0.45,-0.025,Negative
+417,never underestimate this be the story of how use voter file and social medium to mobilize Democrat,0.06666666666666667,0.03333333333333333,Positvie
+418,Affect be the Action verb and effect be the noun effective be the adjective Ex the effect of this election will affect all effective immediately,0.5666666666666668,0.4333333333333333,Positvie
+419,as President Trump continue to fundraise off legal fight with email send since election night a reminder t,0.2,0.2,Positvie
+420,have investigate russian interference in the election Peter Strock testify before the Senate that there be indeed russian interference in,0.0,0.0,Positvie
+421,count all the vote lose count all the LEGAL vote lose be go to court l,0.2,0.2,Positvie
+422,to win election will take back india in,0.2,0.4,Positvie
+423,this normally may be a time when folk reflect on the outgoing President achievement the Middle East peace deal op,0.32499999999999996,0.075,Positvie
+424,Can acknowledge how pathetic be be even in the position where certify valid election result be an open q,0.75,-0.5,Negative
+425,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+426,Russia really do not care who win election as long as a large number of Americans doubt the legitimacy of the resu,0.35714285714285715,0.21607142857142858,Positvie
+427,Biden may win but there will always be an asterisk next to name of democrats know this election be steal that be just the one who will admit big business and China desperately want too and have a tendency to get what want sadly,0.5,-0.059999999999999984,Negative
+428,NEW GOP Sen Rob Portman of Ohio write in Cincinnati Enquirer op ed that there be no evidence as of now of any widesp,0.45454545454545453,0.13636363636363635,Positvie
+429,datum Anti Globalism Pro police message win over Hispanics via great,0.575,0.8,Positvie
+430,be all sad be probably trump lose the will pass hope feel well crack the fuck up be great xx,0.7833333333333333,-0.033333333333333326,Negative
+431,Biden Harris say have the meeting on a Contract Black America which be Ice Cube plan after the election maybe drop a note,0.43333333333333335,-0.16666666666666666,Negative
+432,medium gaslighte that widespread fraud must have occur to doubt election outcome that be not the legal standard,0.1,0.1,Positvie
+433,فوری جورج سوروس به دلیل دخالت در انتخابات دستگیر شد,0.0,0.0,Positvie
+434,Americans of today would never have earn independence from King George amp England just have an election steal from and out of million people maybe be fight back against Election Fraud and Cheating be face tyranny this be what see,0.0,0.0,Positvie
+435,George Soros Arrestado en Philadelphia por intervención Electoral Esta noticia alegro el día este Globa,0.0,0.0,Positvie
+436,translation the encouraging news about the election be Biden just may steal this election but so long as Trump be POTUS ass may hang so keep mouth shut and all may survive this storm,0.4,-0.05,Negative
+437,Voici le jury pour la élection de MissFrance Iris Mittenaere sera présidente Muguette Fabris Patricia Barzyk Nathalie Marquay Mareva Georges Linda Hardy Sonia Rolland Elodie Gossuin Flora Coquerel,0.0,0.0,Positvie
+438,the only crime commit be win the election fair and square,0.7666666666666666,0.5,Positvie
+439,Sooo Michigan be set to try and steal the election again Bullshit WokeAF,0.0,0.0,Positvie
+440,真假看谷歌了 它会否很快会阻止 删除这条消息,0.0,0.0,Positvie
+441,,0.0,0.0,Positvie
+442,ok let compare November to November in Nov of Detroit precinct be out of balance due to cl,0.4375,0.1875,Positvie
+443,do realize two GOP election official refuse to certify one county in PA that fucking win can not make this shit up,0.6000000000000001,0.30000000000000004,Positvie
+444,Kelly Loeffler R ga be sideline from the campaign trail in the crucial Senate run off election after te,1.0,0.0,Positvie
+445,need election news break too early for this ahhhhhhhhh,0.3,0.1,Positvie
+446,guarantee the week after the election suddenly all those democratic governor all those democratic mayor will s,0.5,0.0,Positvie
+447,breaking Mohave County a very red Trump county have just unanimously vote to certify canvass all Arizona count,0.0,0.0,Positvie
+448,and if manage to hijack this election and stay in office be not leave Old Maxine W,0.2,0.1,Positvie
+449,proud to join this group of national security expert call on GOP leader to rebuke Trump election claim the wash,1.0,0.8,Positvie
+450,GOP effort to cast doubt on the election outcome be not about mollify Trump ego be an organized strategic attempt,0.0,0.0,Positvie
+451,the vicious medium miss to explain that be represent America public interest to fair and honest el,0.7166666666666667,0.07499999999999998,Positvie
+452,republican Rob Portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+453,,0.0,0.0,Positvie
+454,breaking Pennsylvania Republicans file an emergency request to block certification of the presidential election result fo,0.0,0.0,Positvie
+455,Michigan should not allow to become a partner in President Donald Trump delusional quest to retain the preside,0.0,0.0,Positvie
+456,Attention GA voter Kelly be warn support and hopeless mission to cheat on the national election support corruption,0.0,0.0,Positvie
+457,Trump have very very few positive option if leave the White House be a desperate man surround by desperate people Am,0.5350909090909091,-0.24654545454545454,Negative
+458,Mike Pompeo help cover up the Khashoggi murder assist in the Ukraine extortion plot support Trump attempt t,0.0,0.0,Positvie
+459,after the GOP BETRAYED President on election night now expect trump supporter to dutifully vote in the Georgia,0.0,0.0,Positvie
+460,Grove and the House State Government Committee have hold zero public hearing issue zero subpoena and as far as w,0.5333333333333333,0.05,Positvie
+461,datum Anti Globalism Pro police message win over Hispanics via great,0.575,0.8,Positvie
+462,have anyone get a reasonable plausible measure explanation as to why Mike Pompeo top trump foreign policy official amp,0.43125,0.26875,Positvie
+463,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+464,be a con artist who use insider trading to save million be rich but can not buy an election,0.75,0.375,Positvie
+465,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+466,if China think will forget by arrest forget as Wong say be persuade that neith,0.0,-0.05,Negative
+467,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+468,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+469,WATCH Senator on the GOP push to delay the certification of election result in Michigan be aski,0.0,0.0,Positvie
+470,have not attempt to illegally interfere enough with an election not even in state,0.5,-0.25,Negative
+471,along with system from Election System amp Software and Hart InterCivic key individual at dominion be associate w,0.7,0.0,Positvie
+472,Republicans believe some vague voter fraud cost pa in very first presidential election in a period of fear of urban immigrant also that dead people vote in Chicago help JFK win have win without Illinois trump be just play the great hit,0.4119047619047619,0.2892857142857143,Positvie
+473,Lindsey know exactly what do bad faith request let take a look at the election result in SC,0.4583333333333333,-0.22499999999999992,Negative
+474,medium gaslighte that widespread fraud must have occur to doubt election outcome that be not the legal standard,0.1,0.1,Positvie
+475,Florida voter switch political party ahead of Election Day via,0.1,0.0,Positvie
+476,ok let compare November to November in Nov of Detroit precinct be out of balance due to cl,0.4375,0.1875,Positvie
+477,President Trump and other Republicans have file over lawsuit across swing state in attempt to contest election result,0.375,-0.125,Negative
+478,never follow to begin with so block after the election hope more people be do the same,0.3125,0.25,Positvie
+479,emergency if live in Georgia especially if be an african american woman CHECK your voter registration t,0.16666666666666666,0.04545454545454545,Positvie
+480,big deal union election petition file at Fulfillment Center in Alabama by potential worker in the b,0.39999999999999997,-0.03333333333333333,Negative
+481,let be very clear about this refuse to certify the result of a legitimate election be a completely unacceptable,0.44916666666666666,0.11500000000000002,Positvie
+482,Scott Baio here be laugh of the day after Mitt Romney R UT rebuke President trump for not concede the pre,0.1,0.3,Positvie
+483,Texas Louie Gohmert be call for an armed insurrection to overthrow the election the lawlessness and out in the,0.0,0.0,Positvie
+484,the literal coup be what the Biden campaign be attempt with this fraudulent election have literally be plan all year and think this be a trump coup sorry but that be really truly dumb,0.5666666666666667,-0.225,Negative
+485,never imagine would sit worried that state legislature may try to subvert election result to appease a dictator wannab,0.0,0.0,Positvie
+486,future statement from at least million people be soryy that do not win the election but do vote choose to exclude and vote x y z etc ExcludedUK forgottenLtd,0.30833333333333335,-0.2333333333333333,Negative
+487,late episode of the Voice of Retail podcast be about innovation with Tal Zvi Nathanel CEO of and Danie,0.6,-0.3,Negative
+488,breaking Pennsylvania Republicans sue in last ditch effort to stop election certification,0.06666666666666667,0.0,Positvie
+489,bet everything have that actually win the election in a landslide Would,0.4,0.8,Positvie
+490,the only ASSAULT on Democracy be by LIBERAL hack like who REFUSE to acknowledge AN unconstitutional election,1.0,0.0,Positvie
+491,More than chief executive concern that the president refusal to accept the election result be hurt the u,0.5,0.5,Positvie
+492,this be sad tell biden be senile but keep say win an election that clearly do not and can not buy the baby in charge have lose mind,0.5944444444444444,0.08333333333333336,Positvie
+493,even if elect Republicans want to speak truth to the MAGA crowd be not certain many will listen true and there,0.6553571428571429,0.3857142857142858,Positvie
+494,wonder how many observer have conclude that Giuliani and Sidney Powell be participate in a conspiracy to commit fr,0.5,0.5,Positvie
+495,POR FAVOR COMPARTE PARA QUE LAS PERSONAS PUEDAN TOMAR CONCIENCIA DE LO QUE REALMENTE está ACONTECIE,0.0,0.0,Positvie
+496,Pero los medio dicen que no hubo fraude en marzo de la Junta Electoral de Chicago aprobó proporcionar acceso remoto,0.0,0.0,Positvie
+497,have every right to be suspicious about an election that be suspicious as Hell,0.5357142857142857,0.2857142857142857,Positvie
+498,have be hear that the GOP be purge voter in Georgia especially black woman bc fear that will lose co,0.8666666666666667,-0.3333333333333333,Negative
+499,have be publicly open about this the gop may have retain some value be clear that the power hungry way of the gop know no boundary instead let constituent die have right strip go hungry amp have aid in try to overturn an election disgraceful,0.47301587301587295,0.1285714285714286,Positvie
+500,national security expert call on GOP leader to rebuke Trump election claim,0.0,0.0,Positvie
+501,ok let compare November to November in Nov of Detroit precinct be out of balance due to cl,0.4375,0.1875,Positvie
+502,in order to justify delay the presidential transition process General Service Administration Administrator Emily Murphy h,0.5,0.05000000000000002,Positvie
+503,Georgia Voting System Implementation Manager a Republican say be worried about the trump campaign,0.0,0.0,Positvie
+504,trump campaign file an appeal after a federal judge dismiss attempt to block the certification of vote in Pennsylvania htt,0.0,0.0,Positvie
+505,no judge ever find any evidence of election fraud in Pennsylvania or any other state where the campaign sue not in m,0.375,-0.125,Negative
+506,Pennsylvania court decision against be a miscarriage of justice and nakedly political again under the Con,0.1,0.0,Positvie
+507,Kelly Loeffler R ga be sideline from the campaign trail in the crucial Senate run off election after test positive for coronaviru the Georgia Republican be face a January runoff in the state twin Senate race,0.7727272727272727,0.11363636363636363,Positvie
+508,once the election result be certify will then concede lose by a lot will no one tell the truth,0.0,0.0,Positvie
+509,datum Anti Globalism Pro police message win over Hispanics via great,0.575,0.8,Positvie
+510,this normally may be a time when folk reflect on the outgoing President achievement the Middle East peace deal op,0.32499999999999996,0.075,Positvie
+511,Day Post Election Cases Total States Active Cases Victories,0.675,-0.06666666666666667,Negative
+512,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+513,as President Trump continue to fundraise off legal fight with email send since election night a reminder t,0.2,0.2,Positvie
+514,Graham know and do not care be operate in bad faith try good to delegitimize the election result,0.6333333333333333,5.551115123125783e-17,Positvie
+515,Sorry Liz can not accept the result of an election with hundred of thousand of fraudulent vote cast enough to easi,0.75,-0.25,Negative
+516,and also win the election,0.4,0.8,Positvie
+517,Georgia Dec voter registration deadline Dec early voting start Jan election day,0.3,0.1,Positvie
+518,after the GOP BETRAYED President on election night now expect trump supporter to dutifully vote in the Georgia,0.0,0.0,Positvie
+519,so if want the Tories go why be support the Tory that cost Labo,0.0,0.0,Positvie
+520,either Giant News or giant hoax now Americans taste own sweet medicine which have be dole out very enthusiastically to Africa in every Presidential Election of the past two decade,0.6999999999999998,0.15,Positvie
+521,,0.0,0.0,Positvie
+522,this normally may be a time when folk reflect on the outgoing President achievement the Middle East peace deal op,0.32499999999999996,0.075,Positvie
+523,Ohio GOP Rob Portman there be no evidence as of now of any widespread fraud or irregularity that would change th,0.0,0.0,Positvie
+524,George Soros arrest in Philadelphia for Election Interference Judge Orders Media blackout News wire,0.0,-0.05,Negative
+525,George Soros ARRESTED for election interference in federal custody,0.0,0.0,Positvie
+526,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+527,Bill Pascrell have file legal complaint in five state seek to disbar Rudy Giuliani and other attorney who h,0.25833333333333336,-0.075,Negative
+528,republican Rob Portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+529,how many time will one man lose the same election before finally grasp what a loser be,0.5416666666666666,0.16666666666666666,Positvie
+530,so be correct that the GOP official position be the Dems carry out a massive sophisticated multi state election fra,1.0,0.25,Positvie
+531,George Soros arrest in Philadelphia for Election Interference Judge Orders Media blackout not sure if this be verify but if so would be enormous,0.5962962962962962,-0.09999999999999999,Negative
+532,Arrestaron a Soros,0.0,0.0,Positvie
+533,why do want an honest as possible election go for Donny will go as far as do for Gore an Hillary till then end,0.9666666666666667,0.2333333333333333,Positvie
+534,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+535,the medium be just as corrupt as the Election,1.0,-0.5,Negative
+536,you lose the election but still BOWS to your erection,0.0,0.0,Positvie
+537,no accept election result do not always like but accept be just worried Trump will not,0.0,0.0,Positvie
+538,election fraud be too important to be leave to conspiracy theorist,1.0,0.4,Positvie
+539,election fraud be too important to be leave to Conspiracy theorist,1.0,0.4,Positvie
+540,,0.0,0.0,Positvie
+541,breaking Mohave County a very red Trump county have just unanimously vote to certify canvass all Arizona count,0.0,0.0,Positvie
+542,this seem surgical on d the USPS process of ballot on time the expect rate be but in the po,0.0,0.0,Positvie
+543,outrageous Congress leave town for holiday this weekend without pass covid relief but Republicans already set th,1.0,-1.0,Negative
+544,if fraud continue without consequence the United States entire system for the peaceful transfer of power be threaten by t,0.5625,0.125,Positvie
+545,NBC confirm Joe Biden be expect to nominate Linda Thomas Greenfield as ambassador Thomas Greenfield serve as,0.0,0.0,Positvie
+546,be how conspiracy be normalize in front of everyone without notice what be do be lay the seed of a lost Cause and will bang the narrative of steal election illegitimate illegal biden presidency over the next year,0.25,-0.25,Negative
+547,agree and think about what take to win an election leader personally remember be Callaghan then Foot Kinnock Smith etc have a loyalty to the Labour Party not to Blair or to Corbyn but have only be in power for of year not good enough,0.5599999999999999,0.09000000000000001,Positvie
+548,if fraud continue without consequence the United States entire system for the peaceful transfer of power be threaten by t,0.5625,0.125,Positvie
+549,some begin to think defend the president lie be patriotic some become excited by the lie because break so many taboo write when the president begin to lie about the election result be ready to defend,0.5833333333333334,0.35833333333333334,Positvie
+550,if reality be reverse if pre Trump could barely get people to rally amp if Joe Biden have ten of thousand of,0.05,0.025,Positvie
+551,इस गहन कर अगर,0.0,0.0,Positvie
+552,George Soros arrêté à Philadelphie pour ingérence dan les élection américaine Le juge demande la totale confident,0.8333333333333334,0.5,Positvie
+553,election fraud be too important to be leave to conspiracy theorist,1.0,0.4,Positvie
+554,here be preview of today meeting include possible outcome from and,1.0,0.0,Positvie
+555,Republicans the election be rig and vote do not count and the Governor of Georgia be in on also Republ,0.0,0.0,Positvie
+556,dear medium another reason to cover the Michigan certification as a potential criminal conspiracy to overturn an election,0.775,-0.2,Negative
+557,proud to join this group of national security expert call on GOP leader to rebuke Trump election claim the wash,1.0,0.8,Positvie
+558,Rudi Giuliani on News Conference blah blah blah trump blah blah blah blah blah mah blah blah win blah blah ELECTION chichi hi hi hi win hi fraud have chichochi but in courthouse before a judge actually be not a case of fraud Judge case dismiss,0.3,0.5333333333333333,Positvie
+559,ElectionGuard Microsoft VotingWorks amp Arlo Soros Zuckerburg Bezos Gates Google etc Dominion Canada Scytl Irel,0.0,0.0,Positvie
+560,as President Trump continue to fundraise off legal fight with email send since election night a reminder t,0.2,0.2,Positvie
+561,make no mistake Donald Trump know lose the election just want to destroy democracy before leave office a,0.0,-0.2,Negative
+562,those statistic be from extreme right wing medium amp internet opinion pundit be not relevant can not simply re do an election just because impeached criminal vulgar lie malevolent vengeful weak leader do not win that s not how life work lose fairly,0.7067857142857144,-0.20142857142857143,Negative
+563,GOP Portman on or before December any ongoing effort to ensure an accurate count must be conclude and the elect,0.7666666666666667,0.6000000000000001,Positvie
+564,dam breaking weigh in portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+565,this be not recent news this happen before the election,0.25,0.0,Positvie
+566,medium gaslighte that widespread fraud must have occur to doubt election outcome that be not the legal standard,0.1,0.1,Positvie
+567,to GA voter please heed this recommendation may have be purge from GA voter roll even though vote in the Gen,0.0,0.0,Positvie
+568,can not believe that russian Agent Donald Trump will not just accept the election result,0.0,0.0,Positvie
+569,More than chief executive concern that the president refusal to accept the election result be hurt the pla,0.5,0.5,Positvie
+570,let be perfectly clear even trump legal team have admit in court that there be no evidence of fraud in this election LOST must ConcedeNow,0.29166666666666663,0.15000000000000002,Positvie
+571,be not comforting to know that Government top cybersecurity expert believe that Windows base voting system,0.75,-0.15000000000000002,Negative
+572,a majority of GOP voter in a new poll would support another trump presidential bid,0.45454545454545453,0.13636363636363635,Positvie
+573,have anyone get a reasonable plausible measure explanation as to why Mike Pompeo top trump foreign policy official amp,0.43125,0.26875,Positvie
+574,certify an election today good way to help nurse,0.6000000000000001,0.7,Positvie
+575,half of Americans believe this election be steal while the other half know this election be steal,0.23611111111111108,-0.15277777777777776,Negative
+576,have no shame President lie have only escalate since clearly lose the election attempt to usurp the will of the people have fail timetoconcedetrump,0.561111111111111,-0.13333333333333333,Negative
+577,believe only appoint for senate seat house seat be a special election,0.7857142857142857,0.17857142857142858,Positvie
+578,still wait for to concede to since think the election be a fraud,0.0,0.0,Positvie
+579,medium gaslighte that widespread fraud must have occur to doubt election outcome that be not the legal standard,0.1,0.1,Positvie
+580,a few month before the Election be at a baggage claim at an airport near Naples FL and overheard two affluent look,0.48333333333333334,0.18333333333333332,Positvie
+581,liberal pre biden election no MORE kids in cages liberal post biden election no MORE caring about KIDS in c,0.5,-0.25,Negative
+582,a group of former republican national security official be call on republican leader particularly those in Congress,0.16666666666666666,0.08333333333333333,Positvie
+583,Michigan Bureau of Elections Board meet to certify the state election result live at ET on C SPAN,0.5,0.13636363636363635,Positvie
+584,this be a very interesting Twitter feed to look at this guy actively support Trump during the election have now realize what be support,0.625,0.25833333333333336,Positvie
+585,Can anyone out there confirm if this be true,0.65,0.35,Positvie
+586,disagree with the suggestion that whatever fraud occur may have cost trump the election but otherwise yes exactly right,0.5357142857142857,0.2857142857142857,Positvie
+587,a quick list of the all issue in election vote than people register city be the core of the probl,0.5,0.3333333333333333,Positvie
+588,Ben Ginsberg represent George Bush in Florida Michigan must certify for Biden,0.0,0.0,Positvie
+589,trump try to steal the election and succeed trump try to steal the election and lose FACTS,0.0,0.0,Positvie
+590,recognize the damage do by Trump crazier and crazier election conspiracy theory but also appreciate the clarity,0.0,0.0,Positvie
+591,Most republican run in and will have be supportive of a very public scheme to steal an election by throw o,0.5288888888888889,0.3333333333333333,Positvie
+592,be make the point that any election observer volunteer political hack with access co,0.1,0.0,Positvie
+593,same journos who be so certain that Trump be part of an international conspiracy with the Kremlin to steal the elec,0.23214285714285712,0.07142857142857142,Positvie
+594,now be a good time to remind everyone that Trump and elite strike force team whoever be have lose case in,0.6000000000000001,0.7,Positvie
+595,GupkarGang अब,0.0,0.0,Positvie
+596,Dominion Voting Systems found in in Toronto be a company that sell electronic voting hardware and software in the,0.0,0.0,Positvie
+597,Bolivia have international organization investigate the election as go on to see if there be fraud and there be enough evidence to redo the election trump people have not find anything no one have find anything be a first world country and be a third huge diff,0.3466666666666667,0.13000000000000003,Positvie
+598,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+599,just as the obsession with Russia inhibit many dem from reach a critical understanding of the election the obsessi,0.65,0.25,Positvie
+600,after of Wayne County precinct be unbalanced in August DEMOCRATS on the Michigan Board of Canvassers call,0.0,0.0,Positvie
+601,election outcome unclear amid pende recount amp legal challenge the election be not over amp no winner have be officially announce be not President elect be not VP elect Election fraud CORRUPTION,0.6666666666666666,0.6,Positvie
+602,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+603,be so hell bent on throw out mail in ballot need to investigate Mitch for get kickback for,0.0,0.0,Positvie
+604,this election should come go so can face front will help do architectural drawing,0.0,0.0,Positvie
+605,Master tactician Pelosi could have have a trillion deal pre election and now will be lucky to get McConnell bil,0.8333333333333334,0.3333333333333333,Positvie
+606,break State Elections Board in Georgia adopt new rule require county to start scan absentee ballot at least,0.42727272727272725,-0.08181818181818182,Negative
+607,Mamata Banerjee Launches Government at Doorstep Scheme Poll Stunt say BJP,0.0,0.0,Positvie
+608,hear so many Congress veteran demand that the need to be an election machine like BJP more active how,0.4,0.21666666666666667,Positvie
+609,there be accusation of fraud by dominion voting the claim be dispute let release the code provide public ac,0.06666666666666667,0.0,Positvie
+610,emergency if live in Georgia especially if be an african american woman CHECK your voter registration t,0.16666666666666666,0.04545454545454545,Positvie
+611,trump attorney Lin Wood tell republican supporter not to back GOP candidate in the Georgia runoff election because,0.0,0.0,Positvie
+612,New Jersey lawmaker push to disbar Giuliani for deceitful absurd election case,0.7272727272727273,-0.18181818181818182,Negative
+613,YEEESSSSS,0.0,0.0,Positvie
+614,let be very clear about this refuse to certify the result of a legitimate election be a completely unacceptable,0.44916666666666666,0.11500000000000002,Positvie
+615,block a long time ago before the election process begin have be fun to wonder what the hell just tweet when someone would retweet with the phrase WTH be this guy on,0.30000000000000004,0.125,Positvie
+616,dam breaking weigh in portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+617,former New Jersey Chris Christie call Trump legal team a national embarrassment,0.21818181818181817,0.11212121212121212,Positvie
+618,republican Rob Portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+619,recognize the damage do by Trump crazier and crazier election conspiracy theory but also appreciate the clarity,0.0,0.0,Positvie
+620,Sidney Powell slam by critic for allege election conspiracy involve Kemp Hillary Clinton Bernie Sanders h,0.0,0.0,Positvie
+621,GupkarGang अब,0.0,0.0,Positvie
+622,be weaponize all out of context John Fugelsang say about the new attack against Raphael Warnock faith and,0.45454545454545453,0.13636363636363635,Positvie
+623,before the election,0.0,0.0,Positvie
+624,DHS cybersecurity director Chris Krebs be oust after vouch for the security of the election seek re,0.0,0.0,Positvie
+625,Mark word Franklin just blow the GA election for the Repubs choose the wrong person to go after be a fall white man that just go after a rise black man be on the wrong side of God and history,0.5583333333333333,-0.29166666666666663,Negative
+626,guarantee the week after the election suddenly all those democratic governor all those democratic mayor will s,0.5,0.0,Positvie
+627,the Donald Rumsfeld theory of the election,0.0,0.0,Positvie
+628,in order to justify delay the presidential transition process General Service Administration Administrator Emily Murphy h,0.5,0.05000000000000002,Positvie
+629,the trump campaign effort to invalidate vote from Detroit be an attempt to disenfranchise the african american vote a,0.0,0.0,Positvie
+630,the Twitter thread answer question about the presidential election have get a bit long so against well jud,0.4,-0.05,Negative
+631,update on the election of the serbian patriarch apart from metropolitan Porfirije another possible candidate of the regime could be bishop Jovan of Sumadija Bishop Irinej Bulovic of Backa remain an option but one Vucic would not be able to fully control,0.8125,0.25,Positvie
+632,Depuis Day son agenda officiel allégé trahit un Donald Trump terré à la Maison Blanche mais bien loin de la gestion des affaire courante ou de la crise sanitaire,0.0,0.0,Positvie
+633,for the TRILLIONTH time Donald Trump be the fully own property of Transnational Organized Crime and hostile foreign ene,0.5625,0.2375,Positvie
+634,GOP demand for election audit in Michigan before certification be a baseless stall tactic Law do not permit audit until,0.0,0.0,Positvie
+635,be behave badly dishonestly unfairly be violate the Constitution of the United States of America by refusi,1.0,-0.5,Negative
+636,Allegheny County Pittsburgh just certify election,0.0,0.0,Positvie
+637,NEW so frustrating to watch this Cindy McCain say of GOP lawmaker not publicly acknowledge the election resu,0.47373737373737373,-0.08787878787878789,Negative
+638,dear medium another reason to cover the Michigan certification as a potential criminal conspiracy to overturn an election,0.775,-0.2,Negative
+639,hate but come on really not like can be with probably the good time to go golf other than not concede an election keep the country in transition turmoil and just be a clown,0.51875,-0.08125000000000002,Negative
+640,Allegheny County certify election result,0.0,0.0,Positvie
+641,Nauman question be for an educate person not for this Qabza Mafia Kashif Mirza who have occupy people property through school employee have no value and no one give a about be just try to make private school owner happy for next election,0.4583333333333333,0.26666666666666666,Positvie
+642,Pennsylvania Republicans sue in last ditch effort to stop election certification,0.06666666666666667,0.0,Positvie
+643,after clinch Pennsylvania Joe Biden win the Presidential Election however President Trump have not concede the race,0.4,0.8,Positvie
+644,when the receiver know make the catch not afraid of a review when the director make a good movie not af,0.75,0.5,Positvie
+645,this would be the only good thing to come out of Trump baseless claim of rig election BidenWon,0.8,0.35,Positvie
+646,Texas Louie Gohmert be call for an armed insurrection to overthrow the election the lawlessness and out in the,0.0,0.0,Positvie
+647,since when do fit a narrative on social medium supercede US court for adjudicate election law,0.23333333333333334,0.21666666666666667,Positvie
+648,breaking Mohave County a very red Trump county have just unanimously vote to certify canvass all Arizona count,0.0,0.0,Positvie
+649,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+650,please do not call a Tory enabler a so call socialist a Corbot or bad if do not do all could to ensure,0.6666666666666666,-0.6999999999999998,Negative
+651,major victory now in stop outlandish attack on democracy and election by the PA House GOP Electio,0.5,0.0625,Positvie
+652,if fraud continue without consequence the United States entire system for the peaceful transfer of power be threaten by t,0.5625,0.125,Positvie
+653,the turkey refuse to concede lose the election,0.0,0.0,Positvie
+654,election fraud be too important to be leave to conspiracy theorist,1.0,0.4,Positvie
+655,liberal in election election election system be break the Russians rig interference,0.0,0.0,Positvie
+656,big deal union election petition file at Fulfillment Center in Alabama by potential worker in the b,0.39999999999999997,-0.03333333333333333,Negative
+657,Michigan Board of State Canvassers be due to meet at one Republican be expect to vote against certification another,0.375,-0.125,Negative
+658,never underestimate this be the story of how use voter file and social medium to mobilize Democrat,0.06666666666666667,0.03333333333333333,Positvie
+659,trump campaign file an appeal after a federal judge dismiss attempt to block the certification of vote in Pennsylvania htt,0.0,0.0,Positvie
+660,be persuade that neither prison bar nor election ban nor any other arbitrary power will stop from activism say a,0.4875,-0.1125,Negative
+661,why do stop count on election night in key swing state tired need a break hummm let ask friend at,0.85,-0.2,Negative
+662,break State Elections Board in Georgia adopt new rule require county to start scan absentee ballot at least,0.42727272727272725,-0.08181818181818182,Negative
+663,child grandson dog job and be intelligent enough to know that have a fair election,0.7666666666666666,0.5,Positvie
+664,trump campaign file an appeal after a federal judge dismiss attempt to block the certification of vote in Pennsylvania htt,0.0,0.0,Positvie
+665,fix computer glitch turn lose Republican into a winner in Oakland County via,0.0,0.0,Positvie
+666,as President Trump continue to fundraise off legal fight with email send since election night a reminder t,0.2,0.2,Positvie
+667,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+668,news FLASH there be no such thing as a computer glitch only deliberate code execution to achieve a desire output,0.75,0.0,Positvie
+669,if try to burn the country down before the next administration begin to serve and just because lose the election be that consider treason or just a simple temper tantrum be just curious,0.4115079365079365,-0.0638888888888889,Negative
+670,love to believe as do that there be no corruption in election process but unfortunately there be and not in small proportion evidence be come all part of the process that will take down people from both party the corruption do not just fall on the Dems,0.5722222222222222,-0.10138888888888889,Negative
+671,address during SBC Election Campign lawyer those be part of fraternity program be arrange by KLF with Ment,0.0,0.0,Positvie
+672,there be no evidence as of now of any widespread fraud or irregularity that would change the result in any state for accord to via,0.0,0.0,Positvie
+673,MAGA Lunatic brigadier Sydney Powell be fail so bad that now accuse Bernie Sanders and Georgia fraud,0.4833333333333333,-0.5999999999999999,Negative
+674,a few month before the Election be at a baggage claim at an airport near Naples FL and overheard two affluent look,0.48333333333333334,0.18333333333333332,Positvie
+675,the medium be just as corrupt as the Election,1.0,-0.5,Negative
+676,election fraud be too important to be leave to conspiracy theorist,1.0,0.4,Positvie
+677,yes Sir Mr President Media seem to think have power to act as though decide who Won state or decide sleepy Slow Joe be President Election when nothing have be decide only one PRESIDENT AT a time bless heart hero,0.7,-0.15000000000000002,Negative
+678,soros ha sido ARRESTADO y se encuentra bajo custodia federal en Filadelfia Según acusación formal presentada en el distr,0.0,0.0,Positvie
+679,as President Trump continue to fundraise off legal fight with email send since election night a reminder t,0.2,0.2,Positvie
+680,Republicans for example do not want anyone but rich people to have healthcare how then be Republicanism and Trumpism any different trump want to overturn the election Republicans want to overturn the election see be the same,0.4916666666666667,0.125,Positvie
+681,GOP leader want Wayne County audit before Michigan election result be certify just the News,0.0,0.0,Positvie
+682,MICHIGAN Detroit election worker state in affidavit that personally witness and be instruct to falsify th,0.3,0.0,Positvie
+683,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+684,clear that the voter of Michigan have speak and make a choice Michigan Sec of State Jocelyn Benson say to Jason John,0.49166666666666664,6.938893903907228e-18,Positvie
+685,George Soros link election software company lie about tie with Dominion oann,0.0,0.0,Positvie
+686,bbg Pennsylvania Republicans sue to block certification of election result,0.0,0.0,Positvie
+687,Would not vote be steal GOP say rig because lose and the election be unfair get a life vote Democratic and help save Americans,1.0,-0.5,Negative
+688,走起,0.0,0.0,Positvie
+689,fanciful bad faith claim of fraud notwithstanding the fact that the election go as smoothly as do and with record,0.5833333333333333,-0.1499999999999999,Negative
+690,Christopher Krebs be a deeply respect cybersecurity expert who work diligently to safeguard election instead o,0.4,0.0,Positvie
+691,if the claim about election fraud be dispute would not that mean the claim that the Election be fair be also dispute,0.79375,0.19374999999999998,Positvie
+692,and what do call swear affidavit under penalty of perjury excessive over voting across several state and county massive provisional vote cast across several state and several state break both state and constitutional election law bozo,0.4,-0.05,Negative
+693,the US Presidential Election result from present as a cartogram by a nice way of show the rural,0.3333333333333333,0.19999999999999998,Positvie
+694,TRUMP lose this election its over,0.0,0.0,Positvie
+695,after of Wayne County precinct be unbalanced in August DEMOCRATS on the Michigan Board of Canvassers call,0.0,0.0,Positvie
+696,More state election regulator have the duty to certify the winner of the popular vote in state in all election do not have the discretion to ignore the vote that have be cast,0.7,0.55,Positvie
+697,datum Anti Globalism Pro police message win over Hispanics via great,0.575,0.8,Positvie
+698,dam breaking weigh in portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+699,Can acknowledge how pathetic be be even in the position where certify valid election result be an open q,0.75,-0.5,Negative
+700,Carl Bernstein be call the roll here and should if these people do not wake up and start do job,0.0,0.0,Positvie
+701,some republican jackass in Michigan do not want to certify the election result the Governor need to have trashy ass,0.9,-0.5,Negative
+702,Trump suffer major defeat in legal battle to overturn election,0.35,0.13125,Positvie
+703,all want for be a peaceful transition of power to the guy who indisputablely win the election also the recount,0.45,0.525,Positvie
+704,Texas Louie Gohmert be call for an armed insurrection to overthrow the election the lawlessness and out in the,0.0,0.0,Positvie
+705,be expect a lot of public comment which will be limit to three minute each but will likely still result in a v,0.5333333333333333,0.0,Positvie
+706,so be correct that the GOP official position be the Dems carry out a massive sophisticated multi state election fra,1.0,0.25,Positvie
+707,this normally may be a time when folk reflect on the outgoing President achievement the Middle East peace deal op,0.32499999999999996,0.075,Positvie
+708,woh phir se ki Election main ho payega,0.3333333333333333,0.16666666666666666,Positvie
+709,be suck back into the election for this,0.0,0.0,Positvie
+710,the medium may do the court may do but good luck try to get million voter to turn a blind eye to election,0.6333333333333333,0.09999999999999998,Positvie
+711,ok for dem to steal the election who wud need to help republican governor republican in all the state judge in all the suit that have be throw out even the trump nominee be the only one that know the truth really,0.5666666666666667,0.2333333333333333,Positvie
+712,let be very clear about this refuse to certify the result of a legitimate election be a completely unacceptable,0.44916666666666666,0.11500000000000002,Positvie
+713,Ted Cruz guarantee democratic mayor and governor would stop care about the week after the election LA Coun,0.0,0.0,Positvie
+714,two more unhinged Democrats and Russia hoaxer dress up as news people burp up demand to drop lawful cha,0.25,0.25,Positvie
+715,half of Americans believe this election be steal while the other half know this election be steal,0.23611111111111108,-0.15277777777777776,Negative
+716,national security expert call on GOP leader to rebuke Trump election claim,0.0,0.0,Positvie
+717,half of Americans believe this election be steal while the other half know this election be steal,0.23611111111111108,-0.15277777777777776,Negative
+718,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+719,a few month before the Election be at a baggage claim at an airport near Naples FL and overheard two affluent look,0.48333333333333334,0.18333333333333332,Positvie
+720,the Senate Intelligence Committee identify around state where russian hacker surveille election system in b,0.0,0.0,Positvie
+721,breaking Mohave County a very red Trump county have just unanimously vote to certify canvass all Arizona count,0.0,0.0,Positvie
+722,so all feel hopeless right but guess what do not despair because there be MORE of after every national election okay so maybe there be not as many more as think which be scary as shit but still there be more,0.6044642857142857,0.2607142857142857,Positvie
+723,Ted Cruz guarantee democratic mayor and governor would stop care about the week after the election LA Coun,0.0,0.0,Positvie
+724,go to run again claim falsely that the election be steal from and if there any threat of prosecution afte,0.6,-0.4000000000000001,Negative
+725,Monsieur Poutine refuse toujour de reconnaître de Joe Biden que seul les médias anti trump ont élu,0.0,0.0,Positvie
+726,this normally may be a time when folk reflect on the outgoing President achievement the Middle East peace deal op,0.32499999999999996,0.075,Positvie
+727,trump attorney Lin Wood tell republican supporter not to back GOP candidate in the Georgia runoff election because,0.0,0.0,Positvie
+728,new Pennsylvania Republicans file an emergency request to block the certification of election result for Joe Biden,0.45454545454545453,0.13636363636363635,Positvie
+729,Destroyed Election the big picture Goggle Earth More Evidence of Corruption mile outside of each Voting location switching Votes do remotely inside park truck or empty home apt amp warehouse equip with computer screen flip and Changing vote,0.39166666666666666,0.15,Positvie
+730,lust for POWER be why Mitch Lindsey be not only silent but prop up LIES Trump be push,0.55,0.0,Positvie
+731,,0.0,0.0,Positvie
+732,guarantee the week after the election suddenly all those democratic governor all those democratic mayor will s,0.5,0.0,Positvie
+733,a pro trump Attorney just call on Republicans to not vote for Kelly Loeffler R GA and David Perdue R GA,0.0,0.0,Positvie
+734,CIA election fraud be too important to Masters so should not be leave to conspiracy theorist,1.0,0.4,Positvie
+735,TRANSITION LATEST MI PA official set to meet to certify vote despite last ditch effort by pre Tr,0.48333333333333334,0.25,Positvie
+736,believe more than million people or more vote for Trump this election,0.5,0.5,Positvie
+737,Bill Pascrell have file legal complaint in five state seek to disbar Rudy Giuliani and other attorney who h,0.25833333333333336,-0.075,Negative
+738,for those send tweet that GeorgeSoros be arrest by the FBI in Philadelphia for election interference that story be,0.0,-0.05,Negative
+739,AIMIM Mehdipatnam Candidate Mohammed Majid Hussain Sahab address GHMC Election Public Meeting for AIMIM Redhills d,0.06666666666666667,0.0,Positvie
+740,wrong,0.9,-0.5,Negative
+741,thank a practice attorney for the clear explanation of the independent state legislature doctrine and the,0.25416666666666665,0.05000000000000001,Positvie
+742,this be an attempt coup by the administration and should be call out by every member of Congress Country before party this be a national emergency and an attack on democracy,0.0,0.0,Positvie
+743,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+744,the new pac make can use for personal expense so be essentially a slush fund this be where the new donation be go,0.37727272727272726,0.06818181818181818,Positvie
+745,get the popcorn ready Emily Murphy the head of GSA who refuse to sign off on the election to appease Trump face q,0.5,0.2,Positvie
+746,dear medium another reason to cover the Michigan certification as a potential criminal conspiracy to overturn an election,0.775,-0.2,Negative
+747,never imagine would sit worried that state legislature may try to subvert election result to appease a dictator wannab,0.0,0.0,Positvie
+748,that because Putin have be whisper in trump ear all along about how to steal an election,0.0,0.0,Positvie
+749,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+750,when the president begin to lie about the election result be ready to defend,0.5,0.2,Positvie
+751,treason doth never prosper what be the reason why if prosper none dare call treason remember these name h,0.0,0.0,Positvie
+752,treason doth never prosper what be the reason why if prosper none dare call treason remember these name h,0.0,0.0,Positvie
+753,if do not fo this be gift the next election to the Tories,0.0,0.0,Positvie
+754,a few month before the Election be at a baggage claim at an airport near Naples FL and overheard two affluent look,0.48333333333333334,0.18333333333333332,Positvie
+755,George Soros Arrestado en Philadelphia por intervención Electoral Esta noticia alegro el día este Globa,0.0,0.0,Positvie
+756,be request a recount Cob win this election and by a lot,0.4,0.8,Positvie
+757,datum Anti Globalism Pro police message win over Hispanics via great,0.575,0.8,Positvie
+758,this normally may be a time when folk reflect on the outgoing President achievement the Middle East peace deal op,0.32499999999999996,0.075,Positvie
+759,be the President of the United States have trouble pronounce lose the election by a landslide try Duoli,0.2,-0.2,Negative
+760,election fraud be too important to be leave to conspiracy theorist,1.0,0.4,Positvie
+761,national security expert call on GOP leader to rebuke Trump election claim,0.0,0.0,Positvie
+762,in the same breath accuse dem of act as though a switch be flip that all problem be go while also proclaim a switch be flip that everyone life and livelihood be destroy on election day Yutz,0.0625,-0.1,Negative
+763,only wish that during absence can continue to stand with the people of Hong Kong by follow closely to th,0.5,-0.00625,Negative
+764,new Pennsylvania Republicans file an emergency request to block the certification of election result for Joe Biden,0.45454545454545453,0.13636363636363635,Positvie
+765,Filadelfia George Soros ARRESTADO por interferencia electoral bajo custodia federal,0.0,0.0,Positvie
+766,Koch fund alec plan since February to Claim the election be steal from trump,0.0,0.0,Positvie
+767,medium gaslighte that widespread fraud must have occur to doubt election outcome that be not the legal standard,0.1,0.1,Positvie
+768,President elect Joe Biden be expect to name Linda Thomas Greenfield as pick for ambassador to the source tell,0.9,0.8,Positvie
+769,Ohio GOP Rob Portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+770,People who be guilty of Post Election violence should actually live in fear no one be instill fear among innocent people of Rift Valley if be innocent why complain let the culprit face justice these people who be guilty should actually live in fear,0.7333333333333334,0.04545454545454545,Positvie
+771,why be Joe Biden so quickly form a Cabinet when investigator have find hundred of thousand of fraudulent vot,0.5,0.3333333333333333,Positvie
+772,Monday the Michigan Board of State Canvassers be suppose to certify the election result the board have Republicans and,0.0,0.0,Positvie
+773,datum Anti Globalism Pro police message win over Hispanics via great,0.575,0.8,Positvie
+774,some republican jackass in Michigan do not want to certify the election result the Governor need to have trashy ass,0.9,-0.5,Negative
+775,break State Elections Board in Georgia adopt new rule require county to start scan absentee ballot at least,0.42727272727272725,-0.08181818181818182,Negative
+776,Manipulateur Soros dan Américaine,0.0,0.0,Positvie
+777,,0.0,0.0,Positvie
+778,a few month before the Election be at a baggage claim at an airport near Naples FL and overheard two affluent look,0.48333333333333334,0.18333333333333332,Positvie
+779,Pennsylvania court decision against be a miscarriage of justice and nakedly political again under the Con,0.1,0.0,Positvie
+780,currently be donate time amp expertise mean be not Trumps payroll but definitely releasethekraken Ju,0.5291666666666667,-0.10416666666666667,Negative
+781,if turn by January GA youngster can vote in the upcoming Senate runoff election but must register by December can make a difference by take the stock sellin crook out if Congress,0.0,0.0,Positvie
+782,hi an election be not fraud just because do not win ok can keep scroll,0.45,0.04999999999999999,Positvie
+783,here be where thing stand as vote certification loom in key state CNNPolitics,1.0,0.0,Positvie
+784,break le confirme Le soir du novembre a suivi en temp réel la fraude électorale,0.0,0.0,Positvie
+785,this normally may be a time when folk reflect on the outgoing President achievement the Middle East peace deal op,0.32499999999999996,0.075,Positvie
+786,election fraud be too important to be leave to conspiracy theorist,1.0,0.4,Positvie
+787,a pro trump Attorney just call on Republicans to not vote for Kelly Loeffler R GA and David Perdue R GA,0.0,0.0,Positvie
+788,over the weekend be ask to read Bad Kitty for President in this work Bad Kitty run for office and be defeat,0.6666666666666666,-0.6999999999999998,Negative
+789,the PA state legislative term all expire on November if trumpist refuse to certify the election the Democrati,0.0,0.0,Positvie
+790,so the big election rig case President Trump want to tee up for the Supreme Court be actually whether lawyer shoul,0.1,0.0,Positvie
+791,make no mistake Donald Trump know lose the election just want to destroy democracy before leave office a,0.0,-0.2,Negative
+792,Trump have abdicate in the Face of disaster of course have be a bitter little toddler who barely do job befo,0.3666666666666667,-0.07916666666666666,Negative
+793,the other commitment on which have win the election be an amazing deal with the EU where be,0.5583333333333333,0.42500000000000004,Positvie
+794,President Trump and other Republicans have file over lawsuit across swing state in an attempt to contest the elect,0.6375,0.3375,Positvie
+795,Blackwell the Greatest Electoral Heist in American History via,0.5,0.5,Positvie
+796,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+797,get the popcorn ready Emily Murphy the head of GSA who refuse to sign off on the election to appease Trump face q,0.5,0.2,Positvie
+798,think the impotus pretty well take care of own disgraceful behavior since the election nail,1.0,0.425,Positvie
+799,dam breaking weigh in portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+800,just in Pennsylvania Republicans sue in last ditch effort to stop election certification,0.06666666666666667,0.0,Positvie
+801,MICHIGAN directly observe on a daily basis City of Detroit election worker and employee coach and try,0.2,0.05,Positvie
+802,never underestimate this be the story of how use voter file and social medium to mobilize Democrat,0.06666666666666667,0.03333333333333333,Positvie
+803,republican Rob Portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+804,photo president in Post Election Transition WSJ,0.0,0.0,Positvie
+805,Hicbiryerde bulanamayan ve yayimlandiktan maksimum gun sonra silinen haberlerden Trump son kozlarini oynuyor,0.0,0.0,Positvie
+806,the White House say Trump be deny a peaceful transfer of power reminder Hillary Clinton concede the day after Elec,0.25,0.125,Positvie
+807,trump campaign take Pennsylvania election fight to federal appeal court,0.0,0.0,Positvie
+808,George Soros link election software company lie about tie with Dominion oann,0.0,0.0,Positvie
+809,the president can offer whatever want to throw the election if take the deal will be wi,0.0,0.0,Positvie
+810,just in Pennsylvania Republicans sue in last ditch effort to stop election certification,0.06666666666666667,0.0,Positvie
+811,Michigan Board of State Canvassers be set to vote today on ballot result though the Republican National Committee,0.0,0.0,Positvie
+812,refuse to certify legitimate vote be a and that may help explain why have rarely hear of official refusi,0.9,0.3,Positvie
+813,allege threat to some of the victim of the post election violence in a medium briefing at the County Headquarters in Eldoret town Mandago say for the year have be in charge of the County largely affect by the violence be not aware of any case,0.24285714285714285,0.0047619047619047545,Positvie
+814,hope this be true,0.65,0.35,Positvie
+815,be underwhelme with lack of leadership in the fair election process,0.9,0.7,Positvie
+816,this will blow out the left then in a court of law if the Judge so rule the election null and void be possible could have Trump for year total not as per the Constitution,0.5833333333333334,0.0,Positvie
+817,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+818,MICHIGAN Detroit election worker state in affidavit that personally witness and be instruct to falsify th,0.3,0.0,Positvie
+819,,0.0,0.0,Positvie
+820,labour in TURMOIL Labour Party membership number have fall by around a day since Keir Starmer election as lead,0.0,0.0,Positvie
+821,Dude be such an idiot the election be over and trump get smoke by Biden time for Michigan to do job and certify this election then can start campaign to vote out next,0.43333333333333335,-0.26666666666666666,Negative
+822,so many of these right wing think tank guy act like be above lie about election result but organization have be lie about climate science voting right and economic for year definitely do not like when ask to think about that baby,0.39523809523809517,0.2119047619047619,Positvie
+823,outrageous Congress leave town for holiday this weekend without pass covid relief but Republicans already set th,1.0,-1.0,Negative
+824,last election ld pc Greens form a pact to stand down for each other lab refuse to join cite internal party ru,0.1826388888888889,-0.07013888888888889,Negative
+825,never imagine would sit worried that state legislature may try to subvert election result to appease a dictator wannab,0.0,0.0,Positvie
+826,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+827,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+828,big deal union election petition file at Fulfillment Center in Alabama by potential worker in the b,0.39999999999999997,-0.03333333333333333,Negative
+829,,0.0,0.0,Positvie
+830,break State Elections Board in Georgia adopt new rule require county to start scan absentee ballot at least,0.42727272727272725,-0.08181818181818182,Negative
+831,Most republican run in and will have be supportive of a very public scheme to steal an election by throw o,0.5288888888888889,0.3333333333333333,Positvie
+832,precinct in Wayne County Michigan have voter turn out time more vote than there a,0.5,0.5,Positvie
+833,Would not be nice if have the decency to stop tweet about the fraudulent election and work ass off to get COVID,1.0,0.6,Positvie
+834,exactly happen can debate the impact or quibble over how to parse the word,0.25,0.25,Positvie
+835,Trump request a vote recount in Georgia which will be do at taxpayer expense plus election board just extend emerg,0.0,0.0,Positvie
+836,bbg Pennsylvania Republicans sue to block certification of election result,0.0,0.0,Positvie
+837,work as an election judge on Nov in state everything be above board there be no way could have switch anyone vote nor would do so this crap from trump be complete bullshit and the cowardly must call out fat ass to concede,0.43333333333333335,-0.23333333333333336,Negative
+838,guarantee the week after the election suddenly all those democratic governor all those democratic mayor will s,0.5,0.0,Positvie
+839,trump attorney Lin Wood tell republican supporter not to back GOP candidate in the Georgia runoff election because,0.0,0.0,Positvie
+840,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+841,Greenfield a retire foreign service officer be currently lead the State Department agency review team for the biden transiti,0.2625,-0.0625,Negative
+842,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+843,MICHIGAN work at the election headquarter along with other poll worker be instruct by superviso,0.375,-0.125,Negative
+844,fix computer glitch turn lose Republican into a winner in Oakland County via,0.0,0.0,Positvie
+845,after of Wayne County precinct be unbalanced in August DEMOCRATS on the Michigan Board of Canvassers call,0.0,0.0,Positvie
+846,datum Anti Globalism Pro police message win over Hispanics via great,0.575,0.8,Positvie
+847,have be hear that the GOP be purge voter in Georgia especially black woman bc fear that will lose co,0.8666666666666667,-0.3333333333333333,Negative
+848,Buddy the trump legal team lose case in court since the election and most of the judge be some even be appoint could not produce evidence of fraud peace buddy,0.35,0.35,Positvie
+849,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+850,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+851,,0.0,0.0,Positvie
+852,Ojalá que sea así y que le cierren sus operacione sucia George Soros arrestado en Filadelfia por interferencia electora,0.0,0.0,Positvie
+853,,0.0,0.0,Positvie
+854,Can acknowledge how pathetic be be even in the position where certify valid election result be an open q,0.75,-0.5,Negative
+855,a critical time in the pandemic and the election have get to read this article about the election dispute explain so well,0.8,0.0,Positvie
+856,almost half of Americans believe Democrats steal the Election Poll say,0.16666666666666666,-0.16666666666666666,Negative
+857,tired old argument own legal team admit to federal court judge that no fraud exist the fact that will say to the public but will not say to a judge show be in fact the one try to steal the ELECTION so stoptrumpfromsteale,0.4333333333333334,0.09999999999999999,Positvie
+858,if be any of these Democrat official involve in this colossal election fraud would be seek asylum in a non extr,0.8,0.3,Positvie
+859,seriously Sean be go down the hypocrisy rabbit hole the people deserve a voice in the next Supreme Court Justice the people do not deserve a voice why can not the dem just accept the election result well know,0.3185185185185185,-0.16296296296296298,Negative
+860,GOP leader want Wayne County audit before Michigan election result be certify just the News,0.0,0.0,Positvie
+861,look forward to the election integrity fight ahead COUNT all LEGAL vote,0.2,0.2,Positvie
+862,this be the mushiest op ed have ever read use a lot of word to say absolutely nothing still can not say that Joe Biden win the election there have be no election fraud Trump own administration have say so live in fear of Trump base coward,0.76,0.18727272727272726,Positvie
+863,after the GOP BETRAYED President on election night now expect trump supporter to dutifully vote in the Georgia,0.0,0.0,Positvie
+864,More than chief executive concern that the president refusal to accept the election result be hurt the pla,0.5,0.5,Positvie
+865,Perdue skip the final debate of the election to do a superspreader rally with Trump,1.0,0.0,Positvie
+866,Bill Pascrell have file legal complaint in five state seek to disbar Rudy Giuliani and other attorney who h,0.25833333333333336,-0.075,Negative
+867,when the president begin to lie about the election result be ready to defend,0.5,0.2,Positvie
+868,Pennsylvania court decision against be a miscarriage of justice and nakedly political again under the Con,0.1,0.0,Positvie
+869,the kind of thing may expect to come out of Russia instead come out of Phoenix or more,0.7,0.55,Positvie
+870,protest in Gilgit Baltistan Pak occupy Kashmir over rig of poll Imran Khan PTI have stake claim of win e,0.4,0.8,Positvie
+871,what a surprise who oversee own election do this in against be,1.0,0.6,Positvie
+872,as President Trump continue to fundraise off legal fight with email send since election night a reminder t,0.2,0.2,Positvie
+873,President elect Joe Biden be expect to name Linda Thomas Greenfield as pick for ambassador to the source tell,0.9,0.8,Positvie
+874,Rob Portman Ohio Republican say there be no evidence as of now of any widespread fraud or irregularity that would ch,0.0,0.0,Positvie
+875,if be responsible for certify an election would want to read this column by two law professor refuse to Certi,0.55,0.2,Positvie
+876,Ur husband seem to think have win some election pls tell the media be not wait outside to congratu,0.225,0.4,Positvie
+877,opinion why Biden should stop parse word and call Trump lie an attempt coup via,0.0,0.0,Positvie
+878,medium gaslighte that widespread fraud must have occur to doubt election outcome that be not the legal standard,0.1,0.1,Positvie
+879,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+880,during an election update press conference defend Georgia election integrity want to remind ev,0.0,0.0,Positvie
+881,Mamata Banerjee Launches Government at Doorstep Scheme Poll Stunt say BJP,0.0,0.0,Positvie
+882,remember prediction on american election for president,0.0,0.0,Positvie
+883,Nancy Pelosi should call the House back into session and impeach Trump for election interference for Abuse of Powe,0.0,0.0,Positvie
+884,Republicans the election be rig and vote do not count and the Governor of Georgia be in on also Republ,0.0,0.0,Positvie
+885,why Trump election fraud claim be not show up in lawsuit challenge the result via,0.0,0.0,Positvie
+886,rt join each day as pray for nation until the election crisis have resolve will be read the daily give,0.0,0.0,Positvie
+887,yup the GOP be do do all this fly think day be not go to come stupid will remember this BS Will vote every election even dog catcher to get out will donate and help mobilize work tirelessly make a lifelong goal to get out,0.8333333333333334,-0.0333333333333333,Negative
+888,outrageous Congress leave town for holiday this weekend without pass covid relief but Republicans already set th,1.0,-1.0,Negative
+889,no NEED for DEMOCRACY nor LEGAL PROCESS,0.2,0.2,Positvie
+890,Blackwell the Greatest Electoral Heist in American History via,0.5,0.5,Positvie
+891,keep fighting Biden even admit to the fraud prior to the election as well know,0.0,0.0,Positvie
+892,Nigerian politician before during and after election,0.0,0.0,Positvie
+893,George Soros detenido por el FBI varias fuentes lo confirman Corte Pensylvania Caso Criminal N,0.55,-0.4,Negative
+894,there be derisive snorting from some anti anti trumper quarter when say on election night that look like millio,0.0,0.0,Positvie
+895,the only thing plan since be trump know be go to lose and plant conspiracy theory for people like to believe who be spew election fraud back then trump why because know be go to lose,0.5,0.0,Positvie
+896,have get lawsuit likely to be file in Georgia on either Monday or Tuesday can not get into the detail President,1.0,0.0,Positvie
+897,corporate executive and lobbyist do not belong in the administration need leader who be ground in the need of the,0.0,0.0,Positvie
+898,GOP Election Board Member Mulls Blocking Certification of Michigan Election Results,0.0,0.0,Positvie
+899,the takeaway from the election should not be if trump lose there must be illegal vote the takeaway SHOULD be trump l,0.5,-0.5,Negative
+900,NOW Mohave County Board certify election result at special Monday meeting last AZ county to canvass by today deadlin,0.319047619047619,0.17857142857142858,Positvie
+901,or no one have the right to break election law to overturn the will of the people who want to debate this,0.5357142857142857,0.2857142857142857,Positvie
+902,,0.0,0.0,Positvie
+903,liberal pre biden election no MORE kids in cages liberal post biden election no MORE caring about KIDS in c,0.5,-0.25,Negative
+904,as President Trump continue to fundraise off legal fight with email send since election night a reminder t,0.2,0.2,Positvie
+905,republican Rob Portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+906,sure except do not because expect any attorney litigate a case like this to bring in an election law,0.8888888888888888,0.5,Positvie
+907,speak of grift have donate to Donald Trump Election Defense Fund where the money do not even get use for election defense and go straight into Donny pocket via slush fund account when read the fine print,0.45,0.30833333333333335,Positvie
+908,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+909,liberal pre biden election no MORE kids in cages liberal post biden election no MORE caring about KIDS in c,0.5,-0.25,Negative
+910,medium gaslighte that widespread fraud must have occur to doubt election outcome that be not the legal standard,0.1,0.1,Positvie
+911,get the popcorn ready Emily Murphy the head of GSA who refuse to sign off on the election to appease Trump face q,0.5,0.2,Positvie
+912,except Russia do hack the election and this should not be news to a former DNI,0.0,0.0,Positvie
+913,no matter how this election turn out Joe Biden will not be run the country,0.0,0.0,Positvie
+914,so weird that this be all over the country but only in place Biden win and ONLY focus on the presidential portion of the election so be only diabolical enough to steal the presidency but not the senate which would make way more sense,0.7714285714285715,0.1142857142857143,Positvie
+915,new Pennsylvania Republicans file an emergency request to block the certification of election result for Joe Biden,0.45454545454545453,0.13636363636363635,Positvie
+916,how much longer can the VichyRepublicans kowtow to the corrupt and seditious pos,0.6,-0.15,Negative
+917,republicans really believe that would rig the election and then choose JOE BIDEN,0.2,0.2,Positvie
+918,bar any evidence to the contrary the election be hold freely fairly and openly with bipartisan observation and the election result should be certify today,0.7,0.35,Positvie
+919,George Soros arrest in Philadelph,0.0,-0.05,Negative
+920,all this fraud why do judge keep dismiss claim for lack of evidence guess the judge be in on too huh how be that the only GOP member that really lose be trump if the election be fraudulent would not that mean the GOP member that win win by fraud,0.5375,0.2975,Positvie
+921,never imagine would sit worried that state legislature may try to subvert election result to appease a dictator wannab,0.0,0.0,Positvie
+922,just as the obsession with Russia inhibit many dem from reach a critical understanding of the election the obsessi,0.65,0.25,Positvie
+923,never underestimate this be the story of how use voter file and social medium to mobilize Democrat,0.06666666666666667,0.03333333333333333,Positvie
+924,with all of the lie about voter fraud be seditiously spread by MAGA regime to overturn an election no one talk ab,0.0,0.0,Positvie
+925,recognize the damage do by Trump crazier and crazier election conspiracy theory but also appreciate the clarity,0.0,0.0,Positvie
+926,all people should want a fair election regardless of the out come fraud should not be tolerate Biden be fraudulently elect will not have the respect a fairly elect president would,0.9,0.7666666666666666,Positvie
+927,be arrange ride for Georgia dem to get to the poll to help elect Reverend Warnock amp Jon Ossoff we CAN FLIP the s,0.9,0.8,Positvie
+928,out and about with today get leaflet deliver for Ian McPherson in Perth City South Council bye,0.0,0.0,Positvie
+929,this be how the trump campaign be try to steal this election be try to manifest a coup against the duly elect Joe Biden by mostly disenfranchise black voter,0.611111111111111,0.37777777777777777,Positvie
+930,founder talk with about the look TVNews use during and beyond include a fascinating look at the early day of broadcasting,0.5750000000000001,0.39999999999999997,Positvie
+931,GOP Portman on or before December any ongoing effort to ensure an accurate count must be conclude and the elect,0.7666666666666667,0.6000000000000001,Positvie
+932,Destroyed Election the big picture Goggle Earth More Evidence of Corruption mile outside of each Voting location switching Votes do remotely inside park truck or empty home apt amp warehouse equip with computer screen flip and Changing vote,0.39166666666666666,0.15,Positvie
+933,after year Birsa Munda Sate Holiday declaration be election purpose,0.0,0.0,Positvie
+934,Michigan Board of State Canvassers be due to meet at one Republican be expect to vote against certification another,0.375,-0.125,Negative
+935,dam breaking weigh in portman no proof of mass fraud that would change election result,0.0,0.0,Positvie
+936,this normally may be a time when folk reflect on the outgoing President achievement the Middle East peace deal op,0.32499999999999996,0.075,Positvie
+937,a extension of Arizona voter registration deadline allow new voter to register and partake in the general,0.4772727272727273,0.09318181818181819,Positvie
+938,a group of former republican national security official be call on republican leader particularly those in Congress,0.16666666666666666,0.08333333333333333,Positvie
+939,election fraud be too important to be leave to conspiracy theorist,1.0,0.4,Positvie
+940,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+941,portman be a potential canary in the coal mine unlike other Republicans who have break with Trump on the election result,0.6875,-0.0625,Negative
+942,two more unhinged Democrats and Russia hoaxer dress up as news people burp up demand to drop lawful cha,0.25,0.25,Positvie
+943,have Trump win last month US presidential election Cummings would surely still be in Downing Street whether the pri,0.4518518518518519,0.43333333333333335,Positvie
+944,former New Jersey Chris Christie call Trump legal team a national embarrassment,0.21818181818181817,0.11212121212121212,Positvie
+945,because Donald Trump refuse to concede the election have to fund the transition chip in whatever can,0.0,0.0,Positvie
+946,election duty bhilwara,0.0,0.0,Positvie
+947,otra fuente lo confirma,0.0,0.0,Positvie
+948,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+949,get the popcorn ready Emily Murphy the head of GSA who refuse to sign off on the election to appease Trump face q,0.5,0.2,Positvie
+950,just remember Mitch McConnell Kevin McCarthy and most Republicans in Congress be fully on board with this soon to be unsuc,0.5,0.5,Positvie
+951,how be the working out for election fraud lawsuit so far be legally bind to release transition fund to the newly elect president team can dick around until the elector college vote once Biden be confirm there withholding fund become illegal,0.65,0.15000000000000002,Positvie
+952,Hey Jr vote almost time in Wisconsin for Biden steal the election and there be nothing can do about,0.0,0.0,Positvie
+953,honor the voice of Pennsylvania voter this lawsuit be desperate,1.0,-0.6,Negative
+954,do not take all judge rule down the line in favor if even of rule in favor neither candidate w,0.2888888888888889,-0.15555555555555559,Negative
+955,how Biden steal the election,0.0,0.0,Positvie
+956,this normally may be a time when folk reflect on the outgoing President achievement the Middle East peace deal op,0.32499999999999996,0.075,Positvie
+957,will be honest be President of YD senior year of highschool and be ROUGH give be an election year,0.65,0.25,Positvie
+958,the President who say do so much winning America would get tired of now seem determined to lose the elec,0.725,0.04999999999999999,Positvie
+959,Michigan Board be under pressure to Delay Election Results Republicans do block or reverse those vote that Trump win in and tell why not be those vote accurate in the state win in be anyone address that check,0.47777777777777786,0.6666666666666666,Positvie
+960,More than chief executive concern that the president refusal to accept the election result be hurt the pla,0.5,0.5,Positvie
+961,fix computer glitch turn lose Republican into a winner in Oakland County via,0.0,0.0,Positvie
+962,for the record statement regard Detroit be utter bullshit the election be certify on tim,1.0,0.0,Positvie
+963,Sidney Powell be allege election fraud involve Hillary Clinton and Bernie Sanders as well as Georgia Republican br,0.0,0.0,Positvie
+964,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+965,expert find unusual change in vote election reverse traditional via,0.875,0.1,Positvie
+966,FLASHBACK in President Trump attack Carrots the turkey for refuse to concede have lose the vote on the White House,0.0,0.0,Positvie
+967,President Trump and other Republicans have file over lawsuit across swing state in attempt to contest election result,0.375,-0.125,Negative
+968,this indeed be true the people vote have NEVER matter or count to ZANUPF be always violence election rig an,0.65,0.35,Positvie
+969,exhibit f sabotage the Post Office Trump and Postmaster General have attack USPS to deliberately delay American,0.25,0.02500000000000001,Positvie
+970,after of Wayne County precinct be unbalanced in August DEMOCRATS on the Michigan Board of Canvassers call,0.0,0.0,Positvie
+971,fix computer glitch turn lose Republican into a winner in Oakland County via,0.0,0.0,Positvie
+972,the White House say Trump be deny a peaceful transfer of power reminder Hillary Clinton concede the day after Elec,0.25,0.125,Positvie
+973,Bon je pas le temps là de remonter la source mais si vous trouvez source je suis preneur George Soros,0.0,0.0,Positvie
+974,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+975,the Democrats rig a United States election in the middle of the night by dump mail in ballot there would be no,0.0,0.0,Positvie
+976,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+977,be a TrumpSupporter that think the election case be go to SCOTUS,0.0,0.0,Positvie
+978,student Liz McElvain explain MI election law canvasser be to tally vote from all county and certify the,0.0,0.0,Positvie
+979,seem to that when trump say if lose be rig mean the election be rig for biden vote to flip to trump,0.6875,-0.3125,Negative
+980,when will each state have certify election result the official process to finalize result in each state can last anywh,0.06666666666666667,0.0,Positvie
+981,sorry to be the one to tell but the election be already over Biden win,0.7,0.15000000000000002,Positvie
+982,Ce serait faux héla Mais qui croire désormai ça part dan tous les sens,0.0,0.0,Positvie
+983,Voter purge from Georgia voter registration poll People that vote in general election be no long regist,0.45,0.037500000000000006,Positvie
+984,DHS cybersecurity director Chris Krebs be oust after vouch for the security of the election seek re,0.0,0.0,Positvie
+985,completely agree should be bring up on election tampering,0.4,0.1,Positvie
+986,for all the gop say be a step too far seem like a Banana Republic a year ago learn that POTUS try to blackma,1.0,0.1,Positvie
+987,yeah do say China release the virus to force mail in voting GONG do not realize how stupid that sound Moronic put everyone include official and the country of China at risk over an election in our country say TRUMP WON double Gong,0.4666666666666666,-0.1333333333333333,Negative
+988,hope the United States understand that this massive fraud exhibit in election have make to lose all moral justification for to have a say in the outcome of any election in the world good or bad period unless Trump reverse the fraud,0.6291666666666667,2.7755575615628914e-17,Positvie
+989,George Soros ARRESTADO en Filadelfia por Interferencia Electoral,0.0,0.0,Positvie
+990,on a call with GOP donor David Perdue and Kelly Loeffler privately describe President as a political b,0.2375,0.0,Positvie
+991,at almost year old be sorry to see that a sit president who lose the election be now try to steal the election from the legitimate winner Joe Biden bad of all be Republican Woman so that hurt even more because though the republican party play fair,0.6533333333333333,0.020000000000000018,Positvie
+992,trump falsely claim fraudulent vote be more than enough for to win the presidential election from President elect Joe Biden need to go back on med via,0.48333333333333334,0.2833333333333333,Positvie
+993,Pennsylvania court decision against be a miscarriage of justice and nakedly political again under the Con,0.1,0.0,Positvie
+994,one of the thing be surprised not more people do not bring up be Trump have to prove be not that there be fraud need to prove be either on a scale which effect the outcome which so far nobody on trump legal have even try tie to Biden election campaign,0.65,0.037500000000000006,Positvie
+995,will not let steal the vote and take freedom will take up arm and fight if must speaker at the NASHVILLE rally on Saturday explicitly threaten violence if the election be steal from trump by more people vote against,0.5,0.5,Positvie
+996,for the record statement regard Detroit be utter bullshit the election be certify on tim,1.0,0.0,Positvie
+997,the location company and timing of this election petition make a big deal a victory would be massive,0.55,0.0,Positvie
+998,a group of Pennsylvania Republicans have file an emergency lawsuit seek to block certification of the election result,0.0,0.0,Positvie
+999,have be hear that the GOP be purge voter in Georgia especially black woman bc fear that will lose co,0.8666666666666667,-0.3333333333333333,Negative

@@ -1,0 +1,2702 @@
+,Tweets
+0,"RT @adjunctprofesor: What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dom…"
+1,"RT @svpino: Here is one of the best resources I've found to learn some of the math behind Machine Learning!
+
+And it's free!
+
+""Introduction…"
+2,RT @TDataScience: Generative vs Discriminative Classifiers in Machine Learning by @snr14 https://t.co/FsqrTF8PmY
+3,"To get some background on AI in the entertainment industry, we asked some of our clients how they are using or planning to use these technologies in the future to maximize their business profits.
+
+https://t.co/vOk88jqIDh"
+4,".#Sensyne’s machine learning model will help Bristol Myers Squibb’s research into disease progression and patient stratification for patients with various rare #blooddiseases. Find out more: https://t.co/Cc8zafchry
+
+#research #BMS #raredisease #SensyneHealth https://t.co/61wB2mzaDw"
+5,"RT @okomis: What is Automated #MachineLearning?
+https://t.co/IKpun4P1jL
+
+#AutoML #ML #AI #IoT #BigData #ArtificialIntelligence #IoT #DataSc…"
+6,"RT @adjunctprofesor: What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dom…"
+7,"RT @omarsar0: Python has become extremely popular. I feel that data science and machine learning have a lot to do with it.
+
+Lots of people…"
+8,RT @TDataScience: Multiple regression as a machine learning algorithm by Mahbubul Alam https://t.co/cU2auebX9t
+9,"RT @PrasoonPratham: Here's what your first 30 days of Machine Learning should look like.
+
+(I wish I had this before)
+🧵👇 https://t.co/7LsR7V…"
+10,machine learning in Bash
+11,RT @indigi2: RT @noikeanolife: Keeping #machinelearning⚙️#algorithms humble and honest in the ‘#ethics⚖️first’ era @TechNative https://t.co…
+12,"RT @miouantoinette: [1/11] Recently, I got a question about which machine learning seminars/reading groups are open to the public. I couldn…"
+13,"RT @adjunctprofesor: What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dom…"
+14,"anaconda 3 για machine learning, python 3 για programming, πολλά φίδια στο technology κι'όλα είναι 3"
+15,"RT @iamkarlrock: ""@whitehatjunior claims to teach kids as young as 6-year-olds Artificial Intelligence, Machine Learning, Space Tech. And t…"
+16,"RT @betanalpha: It's the weekend so I'm going to rant a little bit about degenerate inferences, why they're so common in machine learning,…"
+17,so people have switched from excel macros to Jupiter python to produce HTML output with images and now calling it Machine Learning !
+18,RT @TDataScience: All Machine Learning Algorithms You Should Know in 2021  https://t.co/0Yl057FAHu
+19,RT @issaaiissa: @omarsar0 What language (besides python) do you think data scientist or machine learning engineer should be experts in now…
+20,"RT @BCG: “It’s a roller-coaster ride” says Walmart’s Vice President of Machine Learning, Prakhar Mehrotra, about leading AI teams and works…"
+21,"“Rules of Machine Learning” should be a mandatory monthly refresher course. Change my mind 📖
+
+https://t.co/3wy9k51mx3"
+22,"RT @karlrohe: Tenure track position at UW Madison Stat Dept!
+
+Applied, theoretical, statistics, data science, machine learning, other, etc…"
+23,RT @TDataScience: What ‘no free lunch’ really means in machine learning by Amol Mavuduru https://t.co/1UR2eFgsX7
+24,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+25,@omarsar0 What language (besides python) do you think data scientist or machine learning engineer should be experts in now or maybe in the near future?
+26,RT @TDataScience: Beyond CUDA: GPU Accelerated Python for Machine Learning in Cross-Vendor Graphics Cards Made Simple by @AxSaucedo https:/…
+27,Some excerpts from my thesis on video compression. Many moons ago...Machine learning was still new and not yet fashionable. https://t.co/sCjcF0eDZx
+28,RT @serik0411: The way we train AI is fundamentally flawed #Learning via https://t.co/bQq9jqbHuf https://t.co/HMEnqGm3NE
+29,RT @TDataScience: Beyond CUDA: GPU Accelerated Python for Machine Learning in Cross-Vendor Graphics Cards Made Simple by @AxSaucedo https:/…
+30,The way we train AI is fundamentally flawed #Learning via https://t.co/bQq9jqbHuf https://t.co/HMEnqGm3NE
+31,"RT @svpino: Don't start your career in Machine Learning by writing a lot of code. You should start by learning to think about problems. 
+
+I…"
+32,"RT @TDataScience: Reasons why surrogate loss functions are pivotal for classification in machine learning by @JaimeDantas_
+https://t.co/Pi6…"
+33,"NICE Actimize has announced the latest version of its IFM-X platform that delivers one of the industry’s most advanced detection capabilities powered by AI and machine learning.
+Learn more &gt;&gt; https://t.co/roNSZ95rQg
+#IFMX #fraud #frauddetection #AI #machinelearning https://t.co/EwNmUdPbhJ"
+34,RT @picardonhealth: Can an Algorithm Prevent #Suicide? The U.S. Department of Veterans Affairs has turned to machine-learning to help ident…
+35,"RT @TDataScience: Regularization in Machine Learning by Göktuğ Güvercin
+https://t.co/U9PSKZpslF"
+36,"RT @RichardEudes: The way we train AI is fundamentally flawed https://t.co/kgiRVQ7oR8 #artificialintelligence, #businessanalytics #ba, #dat…"
+37,RT @TDataScience: From research to production: scaling a state-of-the-art machine learning system by Lester Solbakken https://t.co/BF9pUfpg…
+38,"RT @PrasoonPratham: Here's what your first 30 days of Machine Learning should look like.
+
+(I wish I had this before)
+🧵👇 https://t.co/7LsR7V…"
+39,RT @elonmusk: Deus ex machine learning https://t.co/5ZSYalVczx
+40,"RT @omarsar0: Python has become extremely popular. I feel that data science and machine learning have a lot to do with it.
+
+Lots of people…"
+41,RT @AWSstartups: Join two AWS #ML experts @alliekmiller &amp; Sean Wilkinson to hear the rundown of the newest AWS #machinelearning releases. Y…
+42,"Knowledge Update:
+
+🤖 MACHINE LEARNING INTERVIEW QUESTIONS AND ANSWERS 2020 🤩
+
+https://t.co/DOhIwbus0a
+
+#machinelearning #deeplearning #interview #learning #jobsearch #machinelearningtraining #machinelearningcourse #machinelearningjobs #machinelearningtools @slashML @MLjobscom https://t.co/9TaJY9qTol"
+43,"RT @omarsar0: Python has become extremely popular. I feel that data science and machine learning have a lot to do with it.
+
+Lots of people…"
+44,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+45,"RT @omarsar0: Python has become extremely popular. I feel that data science and machine learning have a lot to do with it.
+
+Lots of people…"
+46,RT @TDataScience: Beginner-friendly resources for Machine Learning by @TejasMorkar https://t.co/1RDfwxTOKN
+47,Can an Algorithm Prevent #Suicide? The U.S. Department of Veterans Affairs has turned to machine-learning to help identify vets at risk of taking their own lives https://t.co/O6QtyRvORV via @NYThealth #MentalHealth
+48,"RT @TDataScience: The 4 ways of doing Machine Learning by Markus Schmitt
+https://t.co/OamAFkiI2M"
+49,"In 2018, @ZSLconservation deployed acoustic recording devices in the Dja Faunal Reserve. Learn how using #MachineLearning to classify gunshots can protect wildlife → https://t.co/PHCrxpeMBS"
+50,"RT @nerkar_krish: Best Places To Find Datasets For Your Next Machine Learning Project
+
+https://t.co/B8r03QUN8q
+https://t.co/Hvocxw2RL8
+http…"
+51,"RT @nerkar_krish: Best Places To Find Datasets For Your Next Machine Learning Project
+
+https://t.co/B8r03QUN8q
+https://t.co/Hvocxw2RL8
+http…"
+52,"RT @adjunctprofesor: What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dom…"
+53,"RT @PrasoonPratham: Data cleaning is a very important part of machine learning, recently I came across @trymito which was a game changer.…"
+54,"RT @adjunctprofesor: What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dom…"
+55,"RT @222_skawngur: หลังจากทำงานในบ.อินแจ ดัลมีก็ออกมาตั้งบ.ใหม่เอง ใช้ชื่อว่า ""ชองมยอง คอมปานี"" (ชื่อของพ่อดัลมี) ซึ่งดัลมีเป็นCEO 
+เอาโปรเจ…"
+56,Researchers Use Machine Learning to Study Palladium-Copper Alloy for Better Catalyst Des... https://t.co/Ievh0R3XE0 https://t.co/6cvAqxSuhr
+57,"ne learning, 5G, IoT will be most important tech in 2021: Study -  https://t.co/n0qcT6h7kO #machinelearning #intoAInews"
+58,"We are proud to announce our participation in this year’s Artificial Intelligence Virtual Summit @IOTSWC with our session - Machine Learning to the Extreme: Teaching AI to Sail the 2nd December at 11:00 AM
+Register free here https://t.co/nSAKNfYAxG
+
+#IOT #DigitalTwin #AI #IOTSWC https://t.co/mgVNMj43SX"
+59,Potential of AI and Machine Learning to Stop Bot Attacks https://t.co/FnGKadmusK  #MachineLearning
+60,"The real question is can we get past the now invalid assumption that most humans can work for a decent wage going forward.
+https://t.co/vgi0ngetqT
+#machinelearning #ML #AI #artificialintelligence https://t.co/3r6h4PCihu"
+61,"Healthcare Cloud Computing Market | Constantly Developing Technologies of IoT, Machine Learning, and AI Drive the Market Growth https://t.co/UOXxysD6Va"
+62,RT @into_AI: Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill -  https://t.co/485iN7kIpf #machinelearning…
+63,"RT @nathanpsmad: Preparing a talk on machine learning to predict bacterial resistance. Any nice refs? 
+
+My favourite by far is Yelin et al.…"
+64,RT @kpodnar: #ML models often fail and then need to be tweaked or tuned. The reason is the data used to train and test the AI is fundamenta…
+65,"RT @into_AI: Global AI/ Machine Learning Market Top Manufacturers : GOOGLE, IBM, BAIDU, -  https://t.co/CPvmIHHpYV #machinelearning #intoAI…"
+66,RT @k21academy: The DP-100 #Microsoft #Azure Data Scientist Certification is for those who apply their knowledge of #datascience &amp; #machine…
+67,Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill -  https://t.co/485iN7kIpf #machinelearning #intoAInews
+68,RT @TDataScience: 5 Types of Machine Learning Algorithms You Need to Know by @SaraMetwalli  https://t.co/9zcEwC24xW
+69,#ML models often fail and then need to be tweaked or tuned. The reason is the data used to train and test the AI is fundamentally different to what the AI encounters in the real world. Now we know the problem is bigger due to how #AI is trained and tuned. https://t.co/OtAD36pRPL
+70,RT @iacus: Forecasting asylum applications in the European Union with machine learning and data at scale w/ @MCarammia @teddy_wilkin https:…
+71,RT @k21academy: The DP-100 #Microsoft #Azure Data Scientist Certification is for those who apply their knowledge of #datascience &amp; #machine…
+72,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+73,"RT @nerkar_krish: Best Places To Find Datasets For Your Next Machine Learning Project
+
+https://t.co/B8r03QUN8q
+https://t.co/Hvocxw2RL8
+http…"
+74,"RT @nerkar_krish: Best Places To Find Datasets For Your Next Machine Learning Project
+
+https://t.co/B8r03QUN8q
+https://t.co/Hvocxw2RL8
+http…"
+75,RT @k21academy: The DP-100 #Microsoft #Azure Data Scientist Certification is for those who apply their knowledge of #datascience &amp; #machine…
+76,"Best Places To Find Datasets For Your Next Machine Learning Project
+
+https://t.co/B8r03QUN8q
+https://t.co/Hvocxw2RL8
+https://t.co/LiWCMvhB7W
+https://t.co/aV55rb4QY9
+https://t.co/yJUKdKYuji
+
+#100DaysOfCode #100DaysOfMLCode #CodeNewbie #Data #machinelearning"
+77,"The DP-100 #Microsoft #Azure Data Scientist Certification is for those who apply their knowledge of #datascience &amp; #machinelearning to implement &amp; run machine learning workloads on Azure.
+
+Explore its benefits &amp; Exam details by reading this blog👉https://t.co/YA7xe7ir4O"
+78,"Bayar zakat
+- Tasbih digital
+- Streaming radio Islam, bisa mendengarkan kajian dimana sj kapan sj.
+Dan fitur unggulannya yaitu Fasih, sbuah fitur yg memungkinan bljr tajwid dimana sj dg menggunakan bantuan machine learning dg validasi qari profesional, sehingga bacaan qur'an"
+79,"Global AI/ Machine Learning Market Top Manufacturers : GOOGLE, IBM, BAIDU, -  https://t.co/CPvmIHHpYV #machinelearning #intoAInews"
+80,Vaguely sinister virtuoso Elon Musk spills the beans on his newest brainwave: perpetual machine learning
+81,"RT @karlrohe: Tenure track position at UW Madison Stat Dept!
+
+Applied, theoretical, statistics, data science, machine learning, other, etc…"
+82,"Tenure track position at UW Madison Stat Dept!
+
+Applied, theoretical, statistics, data science, machine learning, other, etc
+
+We are looking broadly.
+
+Please apply! Open rank!
+
+Individuals from underrepresented groups are particularly encouraged to apply
+
+https://t.co/BWKf4aSntD"
+83,"RT @adjunctprofesor: What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dom…"
+84,How might we reinvent machine learning for fun and profit?
+85,"RT @_life_examined_: ML problem solving framework.
+
+Before you dive in to modeling, consider these:
+
+(from Geron's book ""Hands-on Machine L…"
+86,"RT @_life_examined_: ML problem solving framework.
+
+Before you dive in to modeling, consider these:
+
+(from Geron's book ""Hands-on Machine L…"
+87,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+88,"RT @stpiindia: #AI &amp; #ML can play a pivotal role in transforming logistic sector by automating warehouse operations, increasing productivit…"
+89,RT @Bariiiiiq: Anyone want to do my machine learning homework for me 🥺
+90,"RT @sjmgarnier: While everyone is showing off their fancy machine-learning-based tracking systems (looking at you @DanielKronauer), @englis…"
+91,"RT @NinaFuture: People learning plays an enormous role in building smarter orgs. Check out my ""Machine Learning x People Learning"" talk at…"
+92,Anyone want to do my machine learning homework for me 🥺
+93,"People learning plays an enormous role in building smarter orgs. Check out my ""Machine Learning x People Learning"" talk at AI World https://t.co/SfIkalABGY #AI #leadershipbydesign #futureofwork #peoplefirst"
+94,"RT @omarsar0: Python has become extremely popular. I feel that data science and machine learning have a lot to do with it.
+
+Lots of people…"
+95,"今日の積み上げ
+ Statistical Inference 4ページ
+ プログラマーのための線形代数 11ページ
+ practical sql (postgresql) 1章分
+ python machine learning
+ マーケティング検定2級問題集 1章分
+
+＊有益なものに時間を使い、無駄なものは手抜きしてすぐ終わらす
+
+#今日の積み上げ
+#データサイエンス"
+96,RT @TDataScience: Emerging Problems in Data Science and Machine Learning  https://t.co/dkMWHxC6Da
+97,"RT @omarsar0: Python has become extremely popular. I feel that data science and machine learning have a lot to do with it.
+
+Lots of people…"
+98,"Python has become extremely popular. I feel that data science and machine learning have a lot to do with it.
+
+Lots of people are interested to learn Python.
+
+I learned mainly using 3 resources:
+- Codecademy
+- HackerRank
+- Official documentation
+
+Avoid the noise, just get started."
+99,RT @TDataScience: SHAP: How to Interpret Machine Learning Models With Python by Dario Radečić https://t.co/nWqgE3W5Zg
+100,RT @TDataScience: Emerging Problems in Data Science and Machine Learning  https://t.co/dkMWHxC6Da
+101,RT @TDataScience: Emerging Problems in Data Science and Machine Learning  https://t.co/dkMWHxC6Da
+102,"RT @ValaAfshar: Top technology investments for CIOs and IT:
+
+1. Security
+2. Big data and analytics
+3. Internet of things
+4. Multi-cloud str…"
+103,RT @TDataScience: Is Your Machine Learning Model Likely to Fail? by @Nicole_Janeway  https://t.co/SWO0qPiRyK
+104,RT @fescobar96: Decision trees are flexible Machine Learning models that can perform regression and classification tasks. They are powerful…
+105,RT @TDataScience: Is Your Machine Learning Model Likely to Fail? by @Nicole_Janeway  https://t.co/SWO0qPiRyK
+106,RT @fescobar96: Decision trees are flexible Machine Learning models that can perform regression and classification tasks. They are powerful…
+107,"RT @adjunctprofesor: What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dom…"
+108,Halo Leaves! Ada yang tertarik untuk belajar trading dengan machine learning? Berikut adalah artikel tentang pengenalan reinforcement learning untuk trading dari @dennybritz https://t.co/KLc1OmN1E3. Silahkan dibaca :) #MachineLearning
+109,"RT @PrasoonPratham: 𝘐𝘵 𝘵𝘰𝘰𝘬 𝘮𝘦 2 𝘺𝘦𝘢𝘳𝘴 𝘵𝘰 𝘨𝘦𝘵 𝘪𝘯𝘵𝘰 𝘮𝘢𝘤𝘩𝘪𝘯𝘦 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨.
+
+Yes, 2 years.
+
+Here some takeaways from my machine learning journey w…"
+110,"RT @PrasoonPratham: Data cleaning is a very important part of machine learning, recently I came across @trymito which was a game changer.…"
+111,RT @TDataScience: Why 90 percent of all machine learning models never make it into production by @RheaMoutafis  https://t.co/v1eeDedQQr
+112,"RT @adjunctprofesor: What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dom…"
+113,"RT @_aylien: Scanning worldwide news to identify the biggest product recall events of the last two months.
+We utilized a combination of AYL…"
+114,Google AI Blog : The Machine Learning Behind Hum to Search #MachineLearning  -  https://t.co/Nq4gZt6zjK via @GoogleAI
+115,"Scanning worldwide news to identify the biggest product recall events of the last two months.
+We utilized a combination of AYLIEN’s #NLP enrichments and machine learning to identify the relevant news.
+
+#productrecall #newsintelligence #NLProc
+https://t.co/4nEZmOH2UE https://t.co/IoihjJRknS"
+116,"RT @adjunctprofesor: What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dom…"
+117,"RT @WileyEd: Handling Imbalanced Data – Machine Learning, Computer Vision and NLP  https://t.co/C9xPso1PWC | #DataScience #MachineLearning…"
+118,"RT @DILUCAJobs: Machine learning can fill in missing information in public health data, U of A research shows https://t.co/XpucWAggnc #ai"
+119,RT @dius_au: We're seeing increasing interest from organisations wanting to drive new value from #machinelearning. So what's stopping adopt…
+120,Interpretability in Machine Learning: An Overview https://t.co/805GjZNoBa
+121,RT @DavidMezzetti: Applying machine learning to solve everyday problems. In more programming languages! https://t.co/CozmUXpG3l
+122,"ML problem solving framework.
+
+Before you dive in to modeling, consider these:
+
+(from Geron's book ""Hands-on Machine Learning"")
+
+#MachineLearning #DataScience #Python https://t.co/XWaHEGIZvt"
+123,"RT @ThinkGoogleUK: Automation can help retailers offer better, personalised services, but there’s a fine line between what customers find h…"
+124,"🐱🐶🐱 Best of https://t.co/cXLlhpkfdJ for AI, Machine Learning, and Deep Learning – October 2020 - insideBIGDATA  https://t.co/fGNibNhJbD #CuttingEdge #DeepLearning #AI https://t.co/WGmIIDmHKn"
+125,RT @elonmusk: Deus ex machine learning https://t.co/5ZSYalVczx
+126,"[8/11] The Models, Inference &amp; Algorithms (MIA) Initiative (Topic: Machine Learning in Biology and Medicine)
+👥 @broadinstitute
+🔗 https://t.co/e6LeCwFaao 
+📅 weekly"
+127,"[4/11] Physics Meets Machine Learning
+🔗 https://t.co/NUOcvr3lzU 
+📅 bi-weekly"
+128,"@camandro @tomahock @apambiente (mais ingenuidade)
+Pode ser também para lançar investigação (machine learning, …) sobre impactos no ambiente resultantes do confinamento. Mas isso provavelmente não seria feito in-house (infelizmente!)."
+129,"[3/11] Trustworthy Machine Learning Initiative
+👥 @trustworthy_ml
+🔗 https://t.co/o6rdUxeNOu
+📅 bi-weekly"
+130,"[1/11] Recently, I got a question about which machine learning seminars/reading groups are open to the public. I couldn't find a list, so I decided to create one. It's great to see that there are so many! 📖🧵👇"
+131,"RT @svpino: Here is one of the best resources I've found to learn some of the math behind Machine Learning!
+
+And it's free!
+
+""Introduction…"
+132,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+133,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+134,"@KernelFreeze @nategentile7 No sé mucho del tema de IAs, pero el chip M1 tiene un apartado de Machine Learning. Imagino que podrían usarse esos 16 núcleos para ello."
+135,"RT @adjunctprofesor: What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dom…"
+136,"RT @adjunctprofesor: What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dom…"
+137,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+138,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+139,Machine Learning Solution Architecture #Learning #machinelearning  https://t.co/Ze7EtGl8ey
+140,RT @elonmusk: Deus ex machine learning https://t.co/5ZSYalVczx
+141,RT @McKinsey_MGI: How can we take machine learning out of the lab and make it shine in the real world? The key lies in “underspecification.…
+142,"RT @Devils_Iawyer: Llevo varios años trabajando en el sector de la tecnología, la programación, Big Data, IoT, Machine Learning, Inteligenc…"
+143,GCPのProfessional Machine Learning Engineer受けてみようかしら(GCP使ったことないけど、これを機に勉強しようと思ってます)
+144,"RT @InnovationIncu: A Gentle Introduction to PyCaret for Machine Learning
+https://t.co/O5gSoMRfSh
+PyCaret is a Python open source #machinel…"
+145,"RT @adjunctprofesor: What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dom…"
+146,"RT @stpiindia: #AI &amp; #ML can play a pivotal role in transforming logistic sector by automating warehouse operations, increasing productivit…"
+147,RT @DavidMezzetti: Applying machine learning to solve everyday problems. In more programming languages! https://t.co/CozmUXpG3l
+148,لا يفوتكم التسجيل في هذا اللقاء: https://t.co/1LtLqmLN6n #Sentiment #AI
+149,RT @DavidMezzetti: Applying machine learning to solve everyday problems. In more programming languages! https://t.co/CozmUXpG3l
+150,RT @DavidMezzetti: Applying machine learning to solve everyday problems. In more programming languages! https://t.co/CozmUXpG3l
+151,Applying machine learning to solve everyday problems. In more programming languages! https://t.co/CozmUXpG3l
+152,@NESbot_feed I hope machine learning based temporal image reconstruction comes fast to all nextgen consoles. Native 4K is waste of GPU resources.
+153,"RT @adjunctprofesor: What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dom…"
+154,"So Machine Learning more like 
+Kuyabheda oku kusweleka ndinelishwa unyoko umgqakhwe"
+155,I'd rather get started with game development than learn machine learning. :D
+156,"RT @BrankoBoro: Top Google AI, Machine Learning Tools for Everyone #MachineLearning #learning via https://t.co/JTOOTycanK https://t.co/0qFl…"
+157,"Top Google AI, Machine Learning Tools for Everyone #MachineLearning #learning via https://t.co/JTOOTycanK https://t.co/0qFlaTtMMD"
+158,How Machine Learning Works for Social Good #MachineLearning #learning via https://t.co/mEs8GUBxIB https://t.co/tTeiSIg3er
+159,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+160,"@chidinmaekile Am getting a sewing machine
+Have finished learning tailoring and have been using others tool.
+Please remember me today
+#JarabyDerek"
+161,"RT @ipfconline1: 50 Million Artificial Neurons to Facilitate #MachineLearning Research 
+
+https://t.co/KFzWguT4Q3 by 
+@SandiaLabs via @techx…"
+162,One of the techs that never fails to amaze me is TikTok. (I don't use it tho). Look at their filters - I'm familiar coz some vids appear on my FB timeline. I'm pretty sure they utilize machine learning.
+163,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+164,RT @neumll: This is a major milestone release. Python is fantastic but we feel it's important to provide additional bindings to broaden the…
+165,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+166,"This is a major milestone release. Python is fantastic but we feel it's important to provide additional bindings to broaden the reach and application of machine learning. If you have additional languages (R, Go, Rust, Java, C# etc) you'd like to see, please respond!"
+167,"@NICE_Actimize has announced the latest version of its IFM-X platform that delivers one of the industry’s most advanced detection capabilities powered by AI and machine learning.
+
+Learn more &gt;&gt;
+https://t.co/J42hurjqme
+
+#IFMX #fraud #frauddetection #AI #machinelearning https://t.co/RL2EdJcmqG"
+168,"RT @journalismnews: At December's @newsrewired conference, @dmitryshishkin will show how data science, machine learning and historical data…"
+169,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+170,"At December's @newsrewired conference, @dmitryshishkin will show how data science, machine learning and historical data can help journalists look towards the future. https://t.co/ZZR0OaxN5B https://t.co/bpz6wViHtt"
+171,"RT @DILUCAJobs: Machine learning can fill in missing information in public health data, U of A research shows https://t.co/XpucWAggnc #ai"
+172,RT @Nature_NPJ: Machine learning approaches can be used to leverage computationally expensive quantum chemical calculations for the estimat…
+173,"RT @svpino: Here is one of the best resources I've found to learn some of the math behind Machine Learning!
+
+And it's free!
+
+""Introduction…"
+174,"RT @jennifazor: I can only give what I have, I have skill 😎 so part of my 2021 goals is to  teach &amp; train at least 500 people in Machine le…"
+175,"Machine learning can fill in missing information in public health data, U of A research shows https://t.co/XpucWAggnc #ai"
+176,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+177,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+178,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+179,"RT @svpino: Don't start your career in Machine Learning by writing a lot of code. You should start by learning to think about problems. 
+
+I…"
+180,RT @AmazonScience: Interested in artificial intelligence and machine learning? Follow Amazon Science and be the first to hear about the lat…
+181,RT @AWSstartups: Join two AWS #ML experts @alliekmiller &amp; Sean Wilkinson to hear the rundown of the newest AWS #machinelearning releases. Y…
+182,RT @AWSstartups: Join two AWS #ML experts @alliekmiller &amp; Sean Wilkinson to hear the rundown of the newest AWS #machinelearning releases. Y…
+183,"@ippsec Or why Defender/ASR is too dumb to differentiate it’s own wmi actions from a potential attacker. 
+
+It probably has something to do with AI or machine learning...."
+184,Machine learning has a real chance to be groundbreaking in low health resource areas. https://t.co/78xKfYVtU9
+185,"RT @HarbRimah: Reproducible Data Science with Machine Learning
+
+#DataScience #MachineLearning #Python #AI #100DaysOfCode #DEVCommunity #IoT…"
+186,"RT @HarbRimah: Reproducible Data Science with Machine Learning
+
+#DataScience #MachineLearning #Python #AI #100DaysOfCode #DEVCommunity #IoT…"
+187,"RT @HarbRimah: Reproducible Data Science with Machine Learning
+
+#DataScience #MachineLearning #Python #AI #100DaysOfCode #DEVCommunity #IoT…"
+188,"RT @HarbRimah: Reproducible Data Science with Machine Learning
+
+#DataScience #MachineLearning #Python #AI #100DaysOfCode #DEVCommunity #IoT…"
+189,"RT @adjunctprofesor: What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dom…"
+190,"RT @RobinWigg: @Sentieo Battle of the buzzwords. Green is ""sustainability""; yellow is ""big data""; red is ""artificial intelligence""; light b…"
+191,"Why are you not concerned about what you put inside your mind and your body?
+
+Now they are syphoning your essence for machine learning &amp; none of you are even aware of it, just mindlessly consuming anything that's advertised..
+
+After all if it's on TV then it's God, Right?
+02:12"
+192,"RT @reach2ratan: How DeepMap optimizes their video inference workflow with Amazon SageMaker Processing https://t.co/afSTSutMEf
+
+#CyberSecur…"
+193,@annstable_ Related ba ‘to sa Machine Learning? HAHAHA
+194,"5)
+
+Dan fitur unggulannya yaitu Fasih, sebuah fitur yang memungkinan belajar tajwid dimana saja dengan menggunakan bantuan machine learning dengan validasi qari profesional, sehingga bacaan qur'an ikhwah bisa langsung realtime dikoreksi oleh Fasih."
+195,RT @Aditics2: Data Science for Managers [Mindmap] #BigData via https://t.co/UF63LtWPIa https://t.co/bJQWJxFEiB
+196,"RT @svpino: Don't start your career in Machine Learning by writing a lot of code. You should start by learning to think about problems. 
+
+I…"
+197,RT @elonmusk: Deus ex machine learning https://t.co/5ZSYalVczx
+198,"Deep Learning as a Service: #IBM vereinfacht KI!
+IBM senkt die Eintrittsbarriere für Kunden, die in ihrem Unternehmen Machine und Deep Learning nutzen wollen. Lesen Sie mehr: https://t.co/3bi76IObc3 https://t.co/QGMtUY9uf4"
+199,"Got my swags from @GoogleCloud_IN today. Thanks for this wonderful opportunity to be #GoogleCloudReady. Learned awesome things like customizing Google Assistant for building interactive apps, Machine learning models and lot more during this period. https://t.co/8r7GuXMcBx"
+200,me perguntando aqui o que um engenheiro de machine learning faz
+201,STRUCTURED DATA Vs UNSTRUCTURED DATA | MACHINE LEARNING https://t.co/keGhiATTCY via @YouTube
+202,"RT @ValaAfshar: Top technology investments for CIOs and IT:
+
+1. Security
+2. Big data and analytics
+3. Internet of things
+4. Multi-cloud str…"
+203,A Recurrence-Specific Gene-Based Prognosis Prediction Model for Lung Adenocarcinoma through Machine Learning Algorithm https://t.co/nXKA7LKb6V
+204,"RT @ValaAfshar: Top technology investments for CIOs and IT:
+
+1. Security
+2. Big data and analytics
+3. Internet of things
+4. Multi-cloud str…"
+205,What is the biggest farce of the past decade? Machine Learning.
+206,"RT @AIFeeds: #News: Artificial intelligence, machine learning, 5G, IoT will be most important tech in 2021: Study #artificialintelligence #…"
+207,"RT @into_AI: Artificial intelligence, machine learning, 5G, IoT will be most important tech in 2021: Study - On https://t.co/GTthccMrGa #ai…"
+208,"RT @iamChuckRussell: #TechnoCool: Artificial Intelligence and Machine Learning, 5G and IoT will be the Most Important Technologies in 2021,…"
+209,RT @TDataScience: Logistic Regression in Classification model using Python: Machine Learning by @katariVarma  https://t.co/vCuVjrQ4Lw
+210,"RT @Houston__AI: Artificial intelligence, machine learning, 5G, IoT will be most important tech in 2021: Study - Financial Express https://…"
+211,#entrepreneur #entrepreneurship #business #businessdevelopment #news #forbes Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill https://t.co/8ZX4dVS5ci
+212,Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill https://t.co/Ktl9gMNV8E #business #feedly
+213,"RT @oth11: All Machine Learning Algorithms You Should Know in 2021 | by Terence S | Nov, 2020 | Towards Data Science https://t.co/JMWuqQ3C3…"
+214,"RT @AbbasHaidar_: As long as there is a human writing code, there's going to be unsecure code...
+#SAST tools cost hell of money to identify…"
+215,"All Machine Learning Algorithms You Should Know in 2021 | by Terence S | Nov, 2020 | Towards Data Science https://t.co/JMWuqQ3C3e https://t.co/N0bLqGFiJB"
+216,"RT @AIFeeds: #News: Artificial intelligence, machine learning, 5G, IoT will be most important tech in 2021: Study #artificialintelligence #…"
+217,"Agile, GraphQL, Machine Learning, microservicii - https://t.co/2EDrdASXTZ https://t.co/R7xiS3shzA"
+218,The Multiclass Classification of Newspaper Articles with Machine Learning: The Hybrid Binary Snowball Approach https://t.co/Ryv9PvcfeP
+219,RT @AIFeeds: #News: Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill #ML #artificialintelligence #AI #mic…
+220,"@SuhnyllaKler Saluti, the unroll you asked for: @tamaybes: A few months ago, I wrote an economics dissertation on whether machine learning models are getting harder to… https://t.co/mDWMX9yNCQ Talk to you soon. 🤖"
+221,"RT @machine_ml: RT @xaelbot: RT @HarbRimah: Google AI Launches ‘Hum to Search’ https://t.co/6ZQUxc6Fso 
+
+#MachineLearning #DataScience #Pyt…"
+222,"RT @machine_ml: RT @xaelbot: RT @HarbRimah: Google AI Launches ‘Hum to Search’ https://t.co/6ZQUxc6Fso 
+
+#MachineLearning #DataScience #Pyt…"
+223,"#News: Artificial intelligence, machine learning, 5G, IoT will be most important tech in 2021: Study #artificialintelligence #AI #ML https://t.co/2pLfLy4WrO https://t.co/rGGhV0DGAp"
+224,#News: Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill #ML #artificialintelligence #AI #microsoft https://t.co/jhQvKIzVlO https://t.co/LPxcMDWZp2
+225,"According to Google, retail is in a redefining moment with artificial intelligence and machine learning. https://t.co/TRdvKDEMDf"
+226,"RT @machine_ml: RT @xaelbot: RT @HarbRimah: Google AI Launches ‘Hum to Search’ https://t.co/6ZQUxc6Fso 
+
+#MachineLearning #DataScience #Pyt…"
+227,"@julien_c No &amp; tell me how you like it
+""... removes heavy lifting from each step of the machine learning process to make it easier to develop high quality models."". All AWS high-level tools ended for me in: ""easy is not simple"", ""their high-quality is not my fine-control &amp; sharpness reqs"""
+228,"RT @machine_ml: RT @xaelbot: RT @HarbRimah: Google AI Launches ‘Hum to Search’ https://t.co/6ZQUxc6Fso 
+
+#MachineLearning #DataScience #Pyt…"
+229,"RT @rasangarocks: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+
+Link - https://t.co/ytXjwuQbXW
+
+#MachineLearning #ML…"
+230,"RT @rasangarocks: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+
+Link - https://t.co/ytXjwuQbXW
+
+#MachineLearning #ML…"
+231,"RT @TDataScience: In Database Machine Learning — Made Simple by Ben Epstein 
+https://t.co/odHyyYM72U"
+232,RT @gsvasan: The way we train AI is fundamentally flawed https://t.co/ecNpIuPAGh
+233,The way we train AI is fundamentally flawed https://t.co/ecNpIuPAGh
+234,"Enterprises are increasingly moving their ETL workloads to the cloud. Read this blog to learn how to select a data-driven platform that brings together data access, transformation, machine learning, and all operational tasks- https://t.co/FUGoL09liW #analytics #ETL #cloud"
+235,"RT @gallamine: 7 new remote data science, machine learning engineering, and data science manager jobs: 
+https://t.co/Gl1xab3HWT"
+236,"RT @222_skawngur: หลังจากทำงานในบ.อินแจ ดัลมีก็ออกมาตั้งบ.ใหม่เอง ใช้ชื่อว่า ""ชองมยอง คอมปานี"" (ชื่อของพ่อดัลมี) ซึ่งดัลมีเป็นCEO 
+เอาโปรเจ…"
+237,"RT @jennifazor: I can only give what I have, I have skill 😎 so part of my 2021 goals is to  teach &amp; train at least 500 people in Machine le…"
+238,"What's a machine learning algorithm that keeps on giving [to Biden]?
+Synthetic Minority Oversampling Technique.
+
+👀 Dominion Vote Flipping
+Who Wrote SMOTE?
+Guccifer 2 - Alex Lazarevic #ReleaseTheKraken
+⤵️
+https://t.co/N2PLLN2ary
+
+[DS] DemocRAT panic
+They know they've been caught. https://t.co/gtD9oBl6Bi"
+239,"Our new article: ""Tensions and trade-offs of participatory learning in the age of machine learning"" https://t.co/lm01CaTeE4  #Machinelearning #participatorylearning #computationalthinking #mediaeducation"
+240,"This is the right timeline to go on Meetup events. I can find an online event on machine learning almost daily, almost everywhere. The sense of community is much broader and not being limited by local events is excellent, since it adds variety to the type of talks and people!"
+241,"RT @TDataScience: So, your stakeholders want an interpretable Machine Learning model? by @nextgamesol  https://t.co/D9BwLZ27kl"
+242,"RT @HarbRimah: HOW AUTOMATED MACHINE LEARNING ADDRESSES THE CHALLENGES OF TRADITIONAL ML MODELS? https://t.co/JdI3aiGHWY
+
+#AI #MachineLearn…"
+243,RT @gp_pulipaka: Automated Machine Learning Pipelines. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #R…
+244,@moyheen The past two years we've had over 1000 registered attendees @AbujaAi I'm targeting at least 500 for machine learning next year.
+245,"RT @HarbRimah: HOW AUTOMATED MACHINE LEARNING ADDRESSES THE CHALLENGES OF TRADITIONAL ML MODELS? https://t.co/JdI3aiGHWY
+
+#AI #MachineLearn…"
+246,"Upon return from my wonderful parental leave, two exciting grants got accepted:
+https://t.co/O3d9tt4Z2C where we we will work in the context of @samplchallenges 
+and
+https://t.co/PBeWZe1pq0 here, our research aims at machine learning of cell painting profiling data"
+247,Humanizing AI: How to Close the Trust Gap in Healthcare https://t.co/WZopZl4qi6
+248,Urgent need Sr resource who is a Kubernetes (SME) expert working on MLops &amp; Machine Learning environments.  Inbox for info. #kubernetes #hiring #machinelearning #mlops #hotoffthepress #
+249,What are #AI and #ML? Where are these technologies heading? Three experts share their views during this @groundbreakers podcast episode: https://t.co/dyA6eYiZ1O https://t.co/EfyzbOqGCA
+250,"100 % OFF-Complete Course
+Machine Learning made Easy : Hands-on python
+#machinelearning #python
+https://t.co/0ot9Y6oTr9"
+251,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+252,"How AI, and specifically BERT, helps the patent industry @googlecloud https://t.co/vjm5g4QtIU"
+253,"RT @Muoki_Caleb: I miss when I used to download kaggle datasets draw a couple of graphs in the name of EDA, do a linear regression model, g…"
+254,RT @machinelearnflx: Investment Management with Python and Machine Learning https://t.co/1oawjgqUjU  #machinelearning #ad
+255,"RT @RobinWigg: @Sentieo Battle of the buzzwords. Green is ""sustainability""; yellow is ""big data""; red is ""artificial intelligence""; light b…"
+256,"RT @NITJofficial: Inauguration Ceremony of the TEQIP-III sponsored Five-day Online Short-Term Course on ""Recent Advances of Machine Learnin…"
+257,RT @realpython: 🐍🎧 Real Python Podcast — Docker + Python for Data Science and Machine Learning #python #podcast https://t.co/efEZYJQQLR
+258,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+259,"RT @TDataScience: 21 amazing Youtube channels for you to learn AI, Machine Learning, and Data Science for free by @Liberoliber  https://t.c…"
+260,RT @realpython: 🐍🎧 Real Python Podcast — Docker + Python for Data Science and Machine Learning #python #podcast https://t.co/efEZYJQQLR
+261,"RT @RichardEudes: The way we train AI is fundamentally flawed https://t.co/kgiRVQ7oR8 #artificialintelligence, #businessanalytics #ba, #dat…"
+262,"RT @TDataScience: 21 amazing Youtube channels for you to learn AI, Machine Learning, and Data Science for free by @Liberoliber  https://t.c…"
+263,"RT @HarbRimah: Google AI Launches ‘Hum to Search’ https://t.co/mHGCq5mqYr 
+
+#MachineLearning #DataScience #Python #AI #100DaysOfCode #DEVCo…"
+264,this is me having actually read the question for my machine learning assessment https://t.co/D1KCmnKG90
+265,Use cases are increasingly showing the value of using machine learning in clinical care. A recent project is studying breast cancer risk to understand what drives tumor growth. Other endeavors include aneurysm risks &amp; predicting cancer cell progression. https://t.co/XPi1kJgNEB
+266,"RT @machinelearnflx: Python for Data science, Machine Learning and AI (Beginners) https://t.co/GQi8H9SuFj  #machinelearning #ad"
+267,"RT @PrasoonPratham: Here's what your first 30 days of Machine Learning should look like.
+
+(I wish I had this before)
+🧵👇 https://t.co/7LsR7V…"
+268,RT @Datascience__: Machine Learning (McGraw-Hill International Editions Computer Science Series) https://t.co/TMWYi0DwYR #datascience #ad
+269,How Artificial Intelligence and Machine Learning Transforms Video Technology - by @gilad_maayan https://t.co/dNtIiEGRIk #ML #AI #Data #Data
+270,"RT @panderasystems: With Google Cloud, businesses can leverage market and competitor analysis through machine learning at scale. Read more…"
+271,RT @machinelearnflx: Python Coding From Scratch: Matrix Multiplication Without Any Machine Learning Libraries! https://t.co/EpnQ8tnBGV  #Ma…
+272,"With Google Cloud, businesses can leverage market and competitor analysis through machine learning at scale. Read more → https://t.co/BIseOQ8JWi
+
+#googlecloud #cloud #machinelearning #ml #ai #nlp"
+273,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+274,"RT @svpino: Don't start your career in Machine Learning by writing a lot of code. You should start by learning to think about problems. 
+
+I…"
+275,"RT @williamalves85: @O_its_OH @Joshxlakeshow ""I was a plumber, child. A good one.""
+""I was a fireman. Saved a few lives.""
+""I was a machine l…"
+276,"Si bien machine learning se ha transformado en un buzz word, su impacto en la industria es innegable. Ejemplos notables @Tesla @awscloud @NetflixResearch
+
+Dada la falta de brain power y creatividad, hay que atraer/capacitar fuerte a profesionales de Cs naturales y Humanidades. https://t.co/CKlYGsDdMP"
+277,"RT @williamalves85: @O_its_OH @Joshxlakeshow ""I was a plumber, child. A good one.""
+""I was a fireman. Saved a few lives.""
+""I was a machine l…"
+278,"Maven Wave’s first open-source project, data-describe, solves common exploratory #data analysis challenges such as repetitive tasks, data size limitations, and privacy issues with machine learning data. Learn more: https://t.co/iuUnHbMBIG"
+279,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+280,"Machine Learning Engineer (f/m/d) 
+
+https://t.co/0Q9l1icxiV #job #hiring #career"
+281,Da #AI e #MachineLearning assist anti-frode alle #telco https://t.co/fN4l9GpFzV https://t.co/y93PK84JPJ
+282,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+283,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+284,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+285,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+286,RAPIDS 0.16 delivered exciting innovations in explainable #machinelearning and #automl. Learn more about recent RAPIDS advancements with #TPOT and #SHAP. https://t.co/yLlnBg62jJ
+287,"Not only You have to become A Learning-Machine, You have to become an Application-Machine even more! 
+
+#quotes #quote #quoteoftheday #quotestoliveby #lifecoach #LifeChangingTips #lifechanging"
+288,"@Sentieo Battle of the buzzwords. Green is ""sustainability""; yellow is ""big data""; red is ""artificial intelligence""; light blue is ""machine learning""; and dark blue is ""ESG"". https://t.co/ADKpIIo9N6"
+289,"RT @EuropeanSeed: [REGISTER] For our upcoming Seed World Innovation Webinar: 
+
+Innovation in Plant Breeding: Advancing machine learning for…"
+290,"In Asia Pacific (APAC), adoption of artificial intelligence (AI) and machine learning (ML) in financial markets is accelerating. #aiml https://t.co/j59MEtJ51i https://t.co/p7IscHAJ0m"
+291,RT @gp_pulipaka: Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java…
+292,RT @gp_pulipaka: Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java…
+293,I'm bombarded by Machine Learning posts on Twitter. Lol. Gotta love this Twitter feature.
+294,RT @gp_pulipaka: Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java…
+295,RT @gp_pulipaka: Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java…
+296,RT @gp_pulipaka: Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java…
+297,RT @gp_pulipaka: Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java…
+298,Google AI Launches 'Hum to Search': A New Machine Learning System That Helps To Find A Song By Humming #MachineLearning #learning via https://t.co/bDTgBUIWtG https://t.co/ubesCAGedX
+299,Amazing machine learning https://t.co/Um0dVGectD
+300,"Contentyze is hiring!
+
+WHO: Mid/Senior Machine Learning Engineer and DevOps (two different people ;)).
+
+WHAT: Contentyze (https://t.co/kbu3MUcRkt) is a content generation platform. You need to have experience with BERT, Transformers, Kubernetes, large ML…https://t.co/SkRgBObDzI"
+301,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+302,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+303,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+304,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+305,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+306,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+307,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+308,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+309,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+310,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+311,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+312,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+313,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+314,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+315,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+316,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+317,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+318,"RT @jennifazor: I can only give what I have, I have skill 😎 so part of my 2021 goals is to  teach &amp; train at least 500 people in Machine le…"
+319,Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill https://t.co/TNX6syorTm via @VL_solution #Entrepreneur https://t.co/Ll3c81ciMm
+320,/ / at first I had this idea where my oc is a machine like katheryne from the guild and the electro vision being source of her energy and life and just her being all fluffy and learning new things from humans but then I thought... what if she's from khaen'riah.
+321,"RT @GHahsanHabib02: “Glue code” in Python
+
+#Python is often described as a “glue language,” meaning it can let disparate code (typically li…"
+322,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+323,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+324,RT @TDataScience: How to Use Pyspark For Your Machine Learning Project by François St-Amant https://t.co/KEUqacbLNY
+325,"Na toll..🙄
+
+#KuenstlicheIntelligenz 
+https://t.co/zjSyxMcwfC"
+326,"Llevo varios años trabajando en el sector de la tecnología, la programación, Big Data, IoT, Machine Learning, Inteligencia Artificial, Realidad Aumentada y CrowSourcing.
+
+Sinceramente, me pongo a pensar y me da miedo, por lo que estoy haciendo en mi trabajo. ⬇️"
+327,"RT @svpino: Don't start your career in Machine Learning by writing a lot of code. You should start by learning to think about problems. 
+
+I…"
+328,"RT @PrasoonPratham: Here's what your first 30 days of Machine Learning should look like.
+
+(I wish I had this before)
+🧵👇 https://t.co/7LsR7V…"
+329,"RT @databrokers1: Also a part of the new $ocean 🖼️ Collection of Annotated Stock Images for Commercial Use &amp; Machine Learning 🧠 ""The Burnin…"
+330,"Are you confused about which one to choose between Machine Learning Engineer and Data Scientist for your career role? Then this article will help you in clearing your doubts. Read more to find out the best for you.
+
+Read More 
+https://t.co/wAhxxUwIwe https://t.co/g8bEtEdyns"
+331,"Also a part of the new $ocean 🖼️ Collection of Annotated Stock Images for Commercial Use &amp; Machine Learning 🧠 ""The Burning Sun of Rio de Janeiro"" 🔥🌞 Maybe this helps a bit through the winter. #brazil #RiodeJaneiro https://t.co/ph7zn96YJh https://t.co/4h88pwQifP"
+332,"References of not pulled from the post, with the really important one in **s:
+
+*https://t.co/g1P7waH3NA* &lt;- https://t.co/XR9OEb30eu &lt;- https://t.co/QLZGoBo9ka
+
+https://t.co/VSSYuQ2HId
+
+*https://t.co/vk8TJbKMqp*
+
+*https://t.co/uBBiFLzRLv*
+
+I'd be pretty worried w/soc media timing. https://t.co/ebuwVF9gJI"
+333,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+334,"ADDENDUM 11/23/20:
+
+Pulled from CHD via NVIC, pay attention:
+
+*https://t.co/g1P7waH3NA* &lt;- https://t.co/XR9OEb30eu &lt;- https://t.co/QLZGoBo9ka
+
+https://t.co/VSSYuQ2HId
+
+*https://t.co/vk8TJbKMqp*
+
+*https://t.co/uBBiFLzRLv*
+
+The 1st ref was published SPRING 2019, BEFORE EVENT 201."
+335,"RT @dsivakumar: I've seen this in algorithms, computational complexity, broader theoretical CS, Web search, information retrieval, web-base…"
+336,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+337,RT @TDataScience: Train your Machine Learning Model 150x Faster with cuML by @KhuyenTran16  https://t.co/vBIIigGdLZ
+338,"PCS Beratungscontor introduces their ""Ready-2-Run"" solution for machine learning with SAP Data Intelligence in this new blog. https://t.co/BapUG2ezpn https://t.co/xYeReRlpgg"
+339,Grabの機械学習モデルのserving 基盤 Catwalk S3にTensorFlowのファイルを配置するとフェッチしてk8s上のTF Servingでデプロイ可能になっている。各種モニタリング機構はGrab内の監視機構と連携できるようになっている / “Catwalk: Serving Machine Learning Models at Scale” https://t.co/74RmpdmvTy
+340,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+341,"RT @PrasoonPratham: Our one month of machine learning has ended and we've learnt quite a bit and that is awesome! 
+
+I wish you all the best…"
+342,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+343,"RT @PrasoonPratham: These set of 12 videos in 12 days will take your machine learning skills from zero to 1, it really is a great course to…"
+344,"RT @PrasoonPratham: Machine learning foundations by google developers, I can't recommend this course enough, it helped get started with mac…"
+345,"RT @PrasoonPratham: Step 3 : We're now about 17 days into our machine learning journey, here's the course you have to take next.
+
+👇"
+346,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+347,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+348,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+349,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+350,"RT @Cyberarms: Drones &amp; machine learning are helping beachgoers get live updates to alert them whenever sharks are in the water
+https://t.c…"
+351,"@CasewareIDEA Webinar
+IDEA Lab: Add-Ons You Need to Have
+Powered by latest technologies (p.e.machine learning). Learn about our latest plugins for advanced analytics.
+Registar Now! November 25, 2020 (Eastern Time)
+10AM ( https://t.co/acCVYVCFRV ) &amp;
+8PM ( https://t.co/bevdUTrzvW ) https://t.co/njOjOnbaQv"
+352,"RT @PrasoonPratham: Step 1 
+
+Your first 10 days will be spent learning Python from this tutorial
+
+👉www.​youtube.​com/watch?v=rfscVS0vtbw
+
+B…"
+353,RT @jamesvgingerich: This #MachineLearning-Focused VC Firm Just Added A Third Woman Investment Partner. (Forbes) #WomenInTech https://t.co/…
+354,RT @imsoumyarendra: JUST IN: Amazon Web Services and Drone Federation of India (@dronefed) have partnered to identify solutions by drone ap…
+355,"❤️https://t.co/OJqdS9woOg broadcasts Twitter's most shared #dataviz content in FREE realtime reports and weekly digests. Seen this? https://t.co/fVu749fJ0S 
+
+(link first spotted in a tweet from @DanielAKeane10)
+#datavisualisation"
+356,This #MachineLearning-Focused VC Firm Just Added A Third Woman Investment Partner. (Forbes) #WomenInTech https://t.co/i2CMIYW2uo https://t.co/8fhdRpegHi
+357,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+358,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+359,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+360,"#Digitalisierung - KI bewertet Frauen häufiger nach Aussehen - ""Automatische Bilderkennung kann zwar korrekt sein, aber trotzdem Vorurteile reproduzieren. Das zeigt eine Auswertung kommerzieller KI-Systeme."" - von Sebastian Grüner https://t.co/6qcVcOomk4"
+361,"#FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. 
+
+https://t.co/zbEq5DliHi
+
+#CodeNewbies #100DaysOfCode #developer #webdevelopment #WomenWhoCode https://t.co/BrWBphZOFj"
+362,"RT @PrasoonPratham: Also keep these points in mind.
+
+&gt; Machine learning is a vast field, the point of this thread is to help you get starte…"
+363,"RT @PrasoonPratham: What you are going to look at now is a curriculum I wish I had followed. 
+
+It took me 2 years to get into machine learn…"
+364,"Hello everybody,
+
+I have problem with @qwiklabs
+
+""Create ML Models with #BigQueryML: Challenge""
+https://t.co/8otT3eOrxa
+
+""Task 5: Use the subscriber type machine learning model to predict average trip durations""
+
+Do you have the same problem?"
+365,"RT @PrasoonPratham: Before we begin with the curriculum, make sure you throw these myths out of your mind.
+
+&gt; Machine learning does not req…"
+366,"RT @Chr_Zettl: Job offer: #Researcher in scientific #MachineLearning at the
+#Cluster of #Excellence ""Machine Learning - New Perspectives fo…"
+367,"RT @PrasoonPratham: Here's what your first 30 days of Machine Learning should look like.
+
+(I wish I had this before)
+🧵👇 https://t.co/7LsR7V…"
+368,"Check out this book -Machine Learning with Python StepByStep
+https://t.co/y1p0kzo4Gr
+
+@TwitterBooks @TheBookMaven @bookforum @bookpage @BookRiot @Booksreport @ElectricLit @GalleyCat @goodreads @GuardianBooks @LitChat @HuffPostBooks @latimesbooks @thelithub @The_Millions #book https://t.co/STLMAJU5Sa"
+369,"RT @NPR: Using machine learning and AI, researchers behind a $3.3 million project funded by the EU hope to document — and later recreate —…"
+370,"Drones &amp; machine learning are helping beachgoers get live updates to alert them whenever sharks are in the water
+https://t.co/8ij1bLsKP7"
+371,"RT @EvidentlyAI: Unit testing is often overlooked in ML. 
+
+You can test your:
+🛢 Data pipelines
+🖥 Model outputs
+🔗 Integration
+
+@v_vashishta…"
+372,"RT @OracleDatabase: The possibilities are endless. 
+
+Make #machinelearning and #datascience projects simpler with our cloud-based technolog…"
+373,RT @_andy_lopez_: Visual representation of machine learning! #MachineLearning #holberton #devlife https://t.co/ApdEdCm7yM
+374,RT @_andy_lopez_: Visual representation of machine learning! #MachineLearning #holberton #devlife https://t.co/ApdEdCm7yM
+375,RT @jajtayl: Looking back - it should be fairly intuitive that you can't really train #deeplearning models on samples of data. #NeuralNetwo…
+376,RT @jajtayl: Looking back - it should be fairly intuitive that you can't really train #deeplearning models on samples of data. #NeuralNetwo…
+377,"RT @GHahsanHabib02: “Glue code” in Python
+
+#Python is often described as a “glue language,” meaning it can let disparate code (typically li…"
+378,RT @jajtayl: Looking back - it should be fairly intuitive that you can't really train #deeplearning models on samples of data. #NeuralNetwo…
+379,"“Glue code” in Python
+
+#Python is often described as a “glue language,” meaning it can let disparate code (typically libraries with C language interfaces) interoperate. Its use in data science and machine learning is in this vein, but that’s just one incarnation of the general"
+380,"Yg ngaco tu Kasparov si supervisornya series ""Queens Gambit""
+
+Kalah dari komputer Deep Blue tahun 97 (sebelum2nya dia menang)
+Dia baru bisa terima kekalahannya, klo gak salah tahun 2012 apa 2014 gitu ya 😂
+
+Pertandingan ini yg jadi cikal bakal AI machine learning"
+381,RT @gp_pulipaka: Automated Machine Learning Pipelines. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #R…
+382,RT @Aditics2: Data Science for Managers [Mindmap] #BigData via https://t.co/UF63LtWPIa https://t.co/bJQWJxFEiB
+383,RT @Aditics2: Data Science for Managers [Mindmap] #BigData via https://t.co/UF63LtWPIa https://t.co/bJQWJxFEiB
+384,Data Science for Managers [Mindmap] #BigData via https://t.co/UF63LtWPIa https://t.co/bJQWJxFEiB
+385,"RT @CapgeminiIndia: Researchers have developed #AI technology that brings together imaging, processing, machine learning and memory in one…"
+386,"RT @CapgeminiIndia: Researchers have developed #AI technology that brings together imaging, processing, machine learning and memory in one…"
+387,"RT @lior_gazit: Characterizing quantum advantage in machine learning by understanding the power of data
+
+#NLP #MachineLearning
+#AI
+
+https:/…"
+388,"RT @lior_gazit: Characterizing quantum advantage in machine learning by understanding the power of data
+
+#NLP #MachineLearning
+#AI
+
+https:/…"
+389,"RT @lior_gazit: Characterizing quantum advantage in machine learning by understanding the power of data
+
+#NLP #MachineLearning
+#AI
+
+https:/…"
+390,"1. Proses transaksi dalam POS
+2. Proses pemberian diskon
+3. Proses validasi fraud
+4. Estimasi kerugian fraud. 
+
+Ingat, tidak semua masalah harus diselesaikan dengan Machine Learning. Business process yang baik dapat menyelesaikan banyak masalah yang ada."
+391,RT @im_a_developer: How to create a chatbot in Python https://t.co/1nx4cFBwm8 #python #machine-learning #artificialintelligence #data-scien…
+392,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+393,RT @Siyasaran3: DATA SCIENCE VS MACHINE LEARNING - SASVBA - The Best Educational Hub - DATA SCIENCE VS MACHINE LEARNING - SASVBA - The Best…
+394,RT @gp_pulipaka: Free eBook: Mastering #Azure Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Ja…
+395,"RT @omarsar0: Most of us start our machine learning journeys while doing something else.
+
+I remember feeling discouraged at times because I…"
+396,Machine Learning Approaches to Analyzing Adverse Events Following Durable LVAD Implantation. https://t.co/LVrypWMxCo https://t.co/RGmu0XJK1a
+397,@loopioinc Insights Selected to Join Impact Radius Marketplace https://t.co/fjv6v1l38d #Martech #Tech #Technology #Marketing #B2B #Sales
+398,"RT @manu_msr: What is a Bernoulli Distribution?
+
+#DataScience https://t.co/z6pAw1uc6t"
+399,@PrasoonPratham @hackernoon has a whole bunch of stories of ML https://t.co/OZf1nC24yl
+400,"What is a Bernoulli Distribution?
+
+#DataScience https://t.co/z6pAw1uc6t"
+401,""" Most conclude that if the algorithm had only used the right data .. then the bias never would have happened.
+
+But the question isn’t if a machine learning model will systematically discriminate against people, it’s who, when, and how. "" 
+
+https://t.co/XAucYMCVIO"
+402,RT @gp_pulipaka: Google's #MachineLearning Solution Architecture. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats…
+403,"RT @gallamine: 7 new remote data science, machine learning engineering, and data science manager jobs: 
+https://t.co/Gl1xab3HWT"
+404,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+405,"7 new remote data science, machine learning engineering, and data science manager jobs: 
+https://t.co/Gl1xab3HWT"
+406,RT @math_rachel: Question: what real-world examples have you seen of contestability being built into a machine learning system? https://t.c…
+407,"@lexfridman can you podcast Seth Lloyd?
+maybe some quantum machine learning topics..
+https://t.co/dKBLSQfzRI"
+408,I ❤️ machine learning https://t.co/KyJdvyza6r
+409,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+410,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+411,@noxyvereor I’m still brushing up on the math needed for my machine learning phase
+412,RT @gp_pulipaka: Google's #MachineLearning Solution Architecture. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats…
+413,RT @gp_pulipaka: Google's #MachineLearning Solution Architecture. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats…
+414,RT @gp_pulipaka: Google's #MachineLearning Solution Architecture. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats…
+415,RT @gp_pulipaka: Google's #MachineLearning Solution Architecture. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats…
+416,"@ellaworsdale @AyeshaRahimCCIO @Asifmbachlani @DrG_NHS @Psycle_Doc @marcus_baw @colinoscopy62 @PhilHornerHoBI 6. don’t be daunted by jargon: ‘machine learning’, ‘parallel processing’ ‘R’ - stick to the basics to begin with: what do you want to see?"
+417,"RT @YouAccel: Machine Learning - Fundamentals
+90% OFF - Regular ($199.00) - Now Only $19.00
+
+[Register] - https://t.co/U5iUt82vNR
+
+Python F…"
+418,Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill https://t.co/Hf08TnxmPi https://t.co/hmAQNnGnNe
+419,"O que acho massa das aula do MIT, nesta temática de Machine Learning e Deep Learning, é que todos os slides são feitos em equipe. O slide de Deep Learning é o mesmo que o prof. de Machine Learning usou mas só que com os adicionais. Claramente, um trabalho conjunto."
+420,RT @AGROWN1: Barton Breeze Introduces Artificial Intelligence And Machine Learning Methods For Choosing Indoor Hydroponic Farm Kits https:/…
+421,"RT @PrasoonPratham: Here's what your first 30 days of Machine Learning should look like.
+
+(I wish I had this before)
+🧵👇 https://t.co/7LsR7V…"
+422,RT @gp_pulipaka: Free eBook: Mastering #Azure Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Ja…
+423,RT @gp_pulipaka: Free eBook: Mastering #Azure Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Ja…
+424,RT @AGROWN1: Barton Breeze Introduces Artificial Intelligence And Machine Learning Methods For Choosing Indoor Hydroponic Farm Kits https:/…
+425,RT @gp_pulipaka: Free eBook: Mastering #Azure Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Ja…
+426,RT @gp_pulipaka: Automated Machine Learning Pipelines. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #R…
+427,RT @gp_pulipaka: Automated Machine Learning Pipelines. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #R…
+428,RT @gp_pulipaka: Automated Machine Learning Pipelines. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #R…
+429,RT @gp_pulipaka: Automated Machine Learning Pipelines. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #R…
+430,RT @DD_Bun_: Preparing for Machine Learning Interview Questions in R: Prepare for your upcoming machine learning interview by working throu…
+431,"RT @HarbRimah: Google AI Launches ‘Hum to Search’ https://t.co/mHGCq5mqYr 
+
+#MachineLearning #DataScience #Python #AI #100DaysOfCode #DEVCo…"
+432,RT @DoktrNick: Woohoo! The paper by Simon Thomas from my lab on interpretable machine learning methods for skin cancer imaging is out! A be…
+433,"RT @dylanrecon89: Machine learning text-generating models can write like humans, but they don't have common sense https://t.co/wcvS4HdOT3 #…"
+434,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+435,"RT @dylanrecon89: Machine learning text-generating models can write like humans, but they don't have common sense https://t.co/wcvS4HdOT3 #…"
+436,"KI = Künstliche Idioten.
+
+Machine Learning: KI bewertet Frauen häufiger nach Aussehen https://t.co/KZbO6cTOTT via @golem"
+437,RT @SunilPandita77: @NICE_Actimize has announced the latest version of its IFM-X platform that delivers one of the industry’s most advanced…
+438,"RT @ReflectionAI: Smarter AI Technology in a New Light-Powered Chip
+
+Researchers have developed AI technology that brings together imaging,…"
+439,"RT @blue_metrix: How And Why You Should Use AI And Machine Learning To Enhance Business Intelligence
+#DataScience #AdvancedAnalytics #ML #A…"
+440,"@NICE_Actimize has announced the latest version of its IFM-X platform that delivers one of the industry’s most advanced detection capabilities powered by AI and machine learning.
+
+Learn more &gt;&gt;
+https://t.co/gPYT2utQw0
+
+#IFMX #fraud #frauddetection #AI #machinelearning https://t.co/m1KIveArdu"
+441,"Smarter AI Technology in a New Light-Powered Chip
+
+Researchers have developed AI technology that brings together imaging, processing, machine learning, and memory in one electronic chip, powered by light.
+#ai #artificialintelligence #machinelearning
+https://t.co/oDUX86mpJl"
+442,"How And Why You Should Use AI And Machine Learning To Enhance Business Intelligence
+#DataScience #AdvancedAnalytics #ML #AI #BusinessIntelligence
+https://t.co/yDL057xUid"
+443,"RT @dorigo: On 11/25 @6PM CET I will lecture ITLisboa on handling systematic uncertainties with Machine Learning, see https://t.co/69zxowpA…"
+444,"RT @dorigo: On 11/25 @6PM CET I will lecture ITLisboa on handling systematic uncertainties with Machine Learning, see https://t.co/69zxowpA…"
+445,"It seems every machine learning framework builds its own scale up platform.
+Guys - just stop and use kubernetes. It's a pain for real production use cases"
+446,https://t.co/EOOr4COeUv
+447,"RT @KevinClarity: “Demystifying Quantum Machine Learning” by @shekhartz
+https://t.co/gTRbI4M0eT
+
+#Machinelearning #100DaysOfCode #IoT #IIoT…"
+448,"RT @KevinClarity: “Demystifying Quantum Machine Learning” by @shekhartz
+https://t.co/gTRbI4M0eT
+
+#Machinelearning #100DaysOfCode #IoT #IIoT…"
+449,"RT @KevinClarity: “Demystifying Quantum Machine Learning” by @shekhartz
+https://t.co/gTRbI4M0eT
+
+#Machinelearning #100DaysOfCode #IoT #IIoT…"
+450,RT @LostinOblivion5: @PrasoonPratham do you have any resource where i can learn how to use Machine learning in Cyber Security ? ?????
+451,"Beyond COVID-19, retail looks to transform with AI/ML @googlecloud https://t.co/Pp0lObKF3t @googlecloud"
+452,RT @fahimmoledina7: Machine Learning Predicts How Cancer Patients Will Respond to Therapy #ArtificialIntelligence #learning via https://t.c…
+453,RT @bbrunaud: Is Machine Learning responsible for the downfall of society?. Content recommendation engines are creating alternative realiti…
+454,Machine Learning / AI Internship https://t.co/ViiiXVISoW  via @goodfellow_ian
+455,"Unit testing is often overlooked in ML. 
+
+You can test your:
+🛢 Data pipelines
+🖥 Model outputs
+🔗 Integration
+
+@v_vashishta on why we need unit tests 👇🏼
+https://t.co/a1ZjU5oAkc"
+456,RT @fahimmoledina7: Machine Learning Predicts How Cancer Patients Will Respond to Therapy #ArtificialIntelligence #learning via https://t.c…
+457,RT @bbrunaud: Is Machine Learning responsible for the downfall of society?. Content recommendation engines are creating alternative realiti…
+458,@PrasoonPratham do you have any resource where i can learn how to use Machine learning in Cyber Security ? ?????
+459,"RT @ExperianDataLab: In this episode of our #DataTalk podcast, we talked with Chakri Cherukuri at Bloomberg about ways machine learning is…"
+460,RT @bbrunaud: Is Machine Learning responsible for the downfall of society?. Content recommendation engines are creating alternative realiti…
+461,"RT @rdherrera15: #DataAnalytics #ArtificialIntelligence #DigitalTransformation #MachineLearning #DragonAnalytics #IIN3007 
+We can’t build a…"
+462,"RT @RichardEudes: The way we train AI is fundamentally flawed https://t.co/kgiRVQ7oR8 #artificialintelligence, #businessanalytics #ba, #dat…"
+463,"RT @rdherrera15: #DataAnalytics #ArtificialIntelligence #DigitalTransformation #MachineLearning #DragonAnalytics #IIN3007 
+We can’t build a…"
+464,"RT @TechINDpoliticS: machine-learning model to help people with lower or no-vision run freely.
+.
+.
+.
+#TechINDpolitics #google #projectguide…"
+465,"RT @MarcGBQ: Machine Learning predicts thermostable enzyme variants, MD+aMD rationalize the molecular basis behind it! Fantastic and fun wo…"
+466,@GoyardMarley An awesome example of Machine Learning. There are 2 algorithms competing against each other. One to make the face and one trying to detect fake faces. So the one making the faces continues to get better as it figures out what is right and what is wrong.
+467,"RT @NPR: Using machine learning and AI, researchers behind a $3.3 million project funded by the EU hope to document — and later recreate —…"
+468,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+469,Machine Learning: #KI bewertet Frauen häufiger nach Aussehen https://t.co/ZcDqqbfa1N
+470,RT @pythonbot_: How Lyft Uses PyTorch to Power Machine Learning for Their Self-Driving Cars https://t.co/uo41YKNFnA  #Pytorch
+471,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+472,"RT @svpino: Here is one of the best resources I've found to learn some of the math behind Machine Learning!
+
+And it's free!
+
+""Introduction…"
+473,"RT @TechINDpoliticS: machine-learning model to help people with lower or no-vision run freely.
+.
+.
+.
+#TechINDpolitics #google #projectguide…"
+474,2nd International Conference on Artificial Intelligence and Machine Learning (CAIML 2021) https://t.co/rywjmRv3U5
+475,"RT @AhmadMustafaAn1: 5 steps for supervised machine learning
+1. Collecting Labeled Data
+2. Choosing the Performance Metrics
+3. Choosing the…"
+476,"RT @PrasoonPratham: From my little experience, I can tell that Machine learning is not what people think is :  
+
+►  Lots of code and
+►  Jus…"
+477,"Artificial intelligence, machine learning, 5G, IoT will be most important tech in 2021: Study - On https://t.co/GTthccMrGa #ai #intoAInews"
+478,RT @HBAkirmak: #MachineLearning weekend continued. Back to #NLP. There's a pretrained GPT-2 model in AWS Marketplace which you can instantl…
+479,"machine-learning model to help people with lower or no-vision run freely.
+.
+.
+.
+#TechINDpolitics #google #projectguideline #blind #run #india #instagram #love #photography #mumbai #indianpolitics #politics #kerala #uttarpradesh #trek #delhi #andhrapradesh #tamilnadu #travel"
+480,"AI and Machine Learning Can Repurpose Humans, Not Replace Them - Meanwhile, emerging technologi https://t.co/XhfCJF8zdp #ai #intoAInews"
+481,"RT @ValaAfshar: Top technology investments for CIOs and IT:
+
+1. Security
+2. Big data and analytics
+3. Internet of things
+4. Multi-cloud str…"
+482,"RT @rzembo: Machine learning yields a breakthrough in the study of stellar nurseries
+
+#MachineLearning #AI #Science #Astronomy via @physorg…"
+483,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+484,Here are 12 of the coolest machine learning startups of 2020. #artificialintelligence https://t.co/2DhzsTLkPJ https://t.co/PDCqCAwhVj
+485,Preparing for Machine Learning Interview Questions in R: Prepare for your upcoming machine learning interview by working through these practice questions that span across important topics in machine learning. https://t.co/uEezucKMiC
+486,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+487,"RT @betanalpha: It's the weekend so I'm going to rant a little bit about degenerate inferences, why they're so common in machine learning,…"
+488,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+489,"RT @svpino: Here is one of the best resources I've found to learn some of the math behind Machine Learning!
+
+And it's free!
+
+""Introduction…"
+490,"RT @RichardEudes: The way we train AI is fundamentally flawed https://t.co/kgiRVQ7oR8 #artificialintelligence, #businessanalytics #ba, #dat…"
+491,"RT @AnalyticsFrance: #Intelligentchatbots - The future of machine learning techniques
+
+ https://t.co/4PZE8b6Np1 
+
+#Blog #Elinsys #MachineLe…"
+492,"RT @svpino: Don't start your career in Machine Learning by writing a lot of code. You should start by learning to think about problems. 
+
+I…"
+493,RT @TDataScience: How I Built and Deployed a Fun Serverless Machine Learning App by @ahmed_besbes_  https://t.co/LrVbjVu9ol
+494,"RT @betanalpha: It's the weekend so I'm going to rant a little bit about degenerate inferences, why they're so common in machine learning,…"
+495,"Si trabajas en el sector de servicios a empresas o eres desempleado fórmate sin coste en Inteligencia Artificial, Big Data, Machine Learning, Python, Business Intelligence o ITIL. Matricula abierta hasta el 31 de Octubre https://t.co/wsKksgnPPh"
+496,"RT @manu_msr: Python Coding From Scratch: Matrix Multiplication Without Any Machine Learning Libraries!
+
+#DataScience https://t.co/653NxhT5…"
+497,"@Laramaxinecross @otheranthony @realcarlitosway @dark1x That's optimistic of you. Ps4/Xbone launched way back in 2013, the hardware was underpowered at the time, Moore's Law has been slowing down since, and Machine Learning is earmarked to pick up the slack which the PS5 &amp; Series X can leverage."
+498,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+499,"""[D]rive initiatives to improve the efficiency and efficacy of our digital technologies including IT automation, artificial intelligence, machine learning and cloud technologies.""
+
+It's like C*mmings's fecking blog."
+500,RT @AWSstartups: Join two AWS #ML experts @alliekmiller &amp; Sean Wilkinson to hear the rundown of the newest AWS #machinelearning releases. Y…
+501,Integrate machine learning and artificial intelligence to power your game player insights. Unlock your organization’s insights with Google BigQuery and Looker #google #alphabet #ML #AI #googlecloud #BigQuery #Looker https://t.co/5tWv8z1EdH
+502,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+503,RT @HBAkirmak: #MachineLearning weekend continued. Back to #NLP. There's a pretrained GPT-2 model in AWS Marketplace which you can instantl…
+504,"#TechnoCool: Artificial Intelligence and Machine Learning, 5G and IoT will be the Most Important Technologies in 2021, According to new IEEE Study - PRNewswire
+
+#tech #technology #datascience #neuralnetworks #ai #ml #agi
+
+Read More Here:
+https://t.co/f2nH8emIry"
+505,"RT @222_skawngur: หลังจากทำงานในบ.อินแจ ดัลมีก็ออกมาตั้งบ.ใหม่เอง ใช้ชื่อว่า ""ชองมยอง คอมปานี"" (ชื่อของพ่อดัลมี) ซึ่งดัลมีเป็นCEO 
+เอาโปรเจ…"
+506,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+507,"Python Coding From Scratch: Matrix Multiplication Without Any Machine Learning Libraries!
+
+#DataScience https://t.co/653NxhT59q"
+508,RT @TDataScience: How I Built and Deployed a Fun Serverless Machine Learning App by @ahmed_besbes_  https://t.co/LrVbjVu9ol
+509,"RT @svpino: 10 questions that spark conversations, make you think, and give you a solid foundation of practical Machine Learning.
+
+🧵👇"
+510,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+511,"RT @tamaybes: A few months ago, I wrote an economics dissertation on whether machine learning models are getting harder to find. Here’s a s…"
+512,"RT @svpino: Don't start your career in Machine Learning by writing a lot of code. You should start by learning to think about problems. 
+
+I…"
+513,RT @IntuitMachine: The state of machine learning practice: https://t.co/A4pesHh9c8
+514,"Half of the semaphores in any given city are redundant. But they are not useless.
+
+Sometimes is better to have an overparameterized model with constraints (aka regularization) than a simpler model with the exact number of needed parameters.
+
+And this is a machine learning tweet."
+515,"RT @NPR: Using machine learning and AI, researchers behind a $3.3 million project funded by the EU hope to document — and later recreate —…"
+516,RT @FrancoisCointe: Vendée Globe : Alex Thomson mène sa course sous le signe de la Data et du Machine Learning https://t.co/B27l5z07Z9 &amp; ht…
+517,"The possibilities are endless. 
+
+Make #machinelearning and #datascience projects simpler with our cloud-based technologies: https://t.co/wdX7RewEu7 https://t.co/rvm01YvgHG"
+518,RT @LeMagIT: Vendée Globe : Alex Thomson mène sa course sous le signe de la Data et du Machine Learning https://t.co/eLRJVbXDo6 &amp; https://t…
+519,"How DeepMap optimizes their video inference workflow with Amazon SageMaker Processing https://t.co/afSTSutMEf
+
+#CyberSecurity #digital #Hackers #infosec @reach2ratan #malware #cloud #cloudsecurity #dataprotection #Privacy #infosec #informationsecurity #cloudcomputing… https://t.co/D1kQR7zEuG"
+520,[Course Video] Data Science and Machine Learning: Lab Set Up &amp; Installation https://t.co/WGAkBrxMvl https://t.co/hNljTooGZJ
+521,"RT @ExperianDataLab: In this episode of our #DataTalk podcast, we talked with Chakri Cherukuri at Bloomberg about ways machine learning is…"
+522,"In this episode of our #DataTalk podcast, we talked with Chakri Cherukuri at Bloomberg about ways machine learning is used in financial decisions. List now: https://t.co/cDKSZcZpx3 https://t.co/HcsDV6Si0l"
+523,"New Collaboration Brings the Power of Enterprise No-code platform, #Cloud and #AI /Machine Learning to the Retirement Services market https://t.co/3nAAN8KsRb"
+524,RT @FrancoisCointe: Vendée Globe : Alex Thomson mène sa course sous le signe de la Data et du Machine Learning https://t.co/B27l5z07Z9 &amp; ht…
+525,"All Machine Learning Algorithms You Should Know in 2021 | by Terence S | Nov, 2020 | Towards Data Science https://t.co/WBx10wJs2H"
+526,"RT HackersSlackers ""Lynx Roundup, November 23rd 2020
+
+Unexpected scientific insights into COVID-19 from machine learning! Information in micrographs of biological cells! New Spark 3 array functions.
+
+ #Roundup
+
+https://t.co/wgGhezlVDN https://t.co/id1ycpUudp"""
+527,RT @TDataScience: All Machine Learning Algorithms You Should Know in 2021  https://t.co/0Yl057FAHu
+528,RT @IntuitMachine: The state of machine learning practice: https://t.co/A4pesHh9c8
+529,"So far it has good impact and it is promoting Good marketing to get optimized results using analytics and machine learning.
+
+Read more 👉 https://t.co/HDBVvpS2AN
+
+ #ArtificialIntelligence #AmazingConcept #AiMarketing #MarketingGame #BlankNikePresto #RequireHumanInterference https://t.co/X5v6G85l57"
+530,"RT @PrasoonPratham: From my little experience, I can tell that Machine learning is not what people think is :  
+
+►  Lots of code and
+►  Jus…"
+531,"Are you interested in machine learning? #ArtificialIntelligence techniques are increasingly being used to draw conclusions in medicine; it's essential to be able to parse strong #machinelearning papers from weaker ones. Take a look.
+
+https://t.co/xvRTELeGWr"
+532,"RT @omarsar0: Has #100DaysOfMLCode actually worked for anyone?
+
+Learning about machine learning is an extremely bumpy road. 
+
+In my experie…"
+533,The way we train AI is fundamentally flawed | MIT Technology Review #fintechPortugal #fintechpartners #ftp #Fintech #Portugal #GiveFirst #Trust https://t.co/Bc0Ohh8CMd
+534,"#Machine Learning# Prediction of Diabetic Patients #Follow-Up Patterns at Family Medicine Clinic of Tertiary Health Care Provider, Riyadh, Saudi Arabia https://t.co/2ypjKjPdPm"
+535,"The way we train AI is fundamentally flawed
+The process used to build most of the machine-learning models we use today can't tell if they will work in the real world or not—and that’s a problem. 
+
+#fintechPortugal #fintechpartners…https://t.co/fn2w7q33kT https://t.co/vajRmojokr"
+536,RT @willman20: How Machine Learning Works for Social Good https://t.co/kTja8vXQIi #DataScience #MachineLearning #ML https://t.co/lCUMildGVJ
+537,RT @willman20: How Machine Learning Works for Social Good https://t.co/kTja8vXQIi #DataScience #MachineLearning #ML https://t.co/lCUMildGVJ
+538,"@swamisez @HedgeyeDDale @KeithMcCullough @gsbalaraman @lballabio I used to be think i was very good at Maths when i was younger, but the more i discover what others are capable of, especially some quants with machine learning &amp; algos, i feel so little lol... Thanks for the link man, i'll ask my wife to order this book for my birthday"
+539,"RT @222_skawngur: หลังจากทำงานในบ.อินแจ ดัลมีก็ออกมาตั้งบ.ใหม่เอง ใช้ชื่อว่า ""ชองมยอง คอมปานี"" (ชื่อของพ่อดัลมี) ซึ่งดัลมีเป็นCEO 
+เอาโปรเจ…"
+540,"RT @Datascience__: AI, machine learning, and blockchain are key for healthcare innovation https://t.co/OvueSo6Szw  #MachineLearning"
+541,"RT @svpino: Don't start your career in Machine Learning by writing a lot of code. You should start by learning to think about problems. 
+
+I…"
+542,"RT @mallyvai: DeepSpeare - TensorFlow'd Shakespeare.  Shall I compare thee to a cyborg's day?
+
+Github repo:
+https://t.co/f3LgUQCYKr
+
+https:…"
+543,"RT @omarsar0: Has #100DaysOfMLCode actually worked for anyone?
+
+Learning about machine learning is an extremely bumpy road. 
+
+In my experie…"
+544,"RT @svpino: Here is one of the best resources I've found to learn some of the math behind Machine Learning!
+
+And it's free!
+
+""Introduction…"
+545,"RT @222_skawngur: หลังจากทำงานในบ.อินแจ ดัลมีก็ออกมาตั้งบ.ใหม่เอง ใช้ชื่อว่า ""ชองมยอง คอมปานี"" (ชื่อของพ่อดัลมี) ซึ่งดัลมีเป็นCEO 
+เอาโปรเจ…"
+546,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+547,RT @Paula_Piccard: Machine Learning Solution Architecture #MachineLearning #learning  https://t.co/mU1pCELT5P
+548,RT @im_a_developer: How to create a chatbot in Python https://t.co/1nx4cFBwm8 #python #machine-learning #artificialintelligence #data-scien…
+549,"RT @Newcoupon01: Free Coupon Discount - Complete Machine Learning and Data Science: Zero to Mastery
+Link -&gt; https://t.co/Bz9wL9PpK1
+
+#udemy…"
+550,RT @imsoumyarendra: JUST IN: Amazon Web Services and Drone Federation of India (@dronefed) have partnered to identify solutions by drone ap…
+551,RT @serik0411: Machine Learning for Business #UX #learning #machinelearning via https://t.co/bQq9jqbHuf https://t.co/4dea5rjCkb
+552,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+553,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+554,Machine Learning: An Applied Mathematics Introduction https://t.co/CdglcMcSAB #datascience #ad
+555,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+556,"Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill: Many BI job offerings want someone who can deploy predictive models that actively impact the company, instead of passive analytics, like dashboards. https://t.co/1p5emD3T47"
+557,"Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill
+
+https://t.co/BrKgLfiLHc https://t.co/Wb3pfM23y9"
+558,RT @imsoumyarendra: JUST IN: Amazon Web Services and Drone Federation of India (@dronefed) have partnered to identify solutions by drone ap…
+559,Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill https://t.co/Aqq6v241AT https://t.co/5Eu49N70XQ
+560,Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill https://t.co/bzdRfknGv2 https://t.co/7HHrx267uT
+561,How Lyft Uses PyTorch to Power Machine Learning for Their Self-Driving Cars https://t.co/uo41YKNFnA  #Pytorch
+562,RT @IntuitMachine: The state of machine learning practice: https://t.co/A4pesHh9c8
+563,@S_Bucaille @aslxne https://t.co/xuUffUGfxQ
+564,"At #SC20, @graphcoreai's Simon Knowles discussed the future of AI and gave some fascinating insights into how we can train tomorrow's superhuman machine learning models efficiently.
+
+Watch his talk here 🤖👇
+
+#DeepLearning #MachineLearning #IPU #AI
+https://t.co/eQujAIyS1L"
+565,"RT @omarsar0: Has #100DaysOfMLCode actually worked for anyone?
+
+Learning about machine learning is an extremely bumpy road. 
+
+In my experie…"
+566,"Has #100DaysOfMLCode actually worked for anyone?
+
+Learning about machine learning is an extremely bumpy road. 
+
+In my experience, 100 days easily turn into 1000+ days and you still feel like you are just getting started.
+
+Oh, and by the way, things change regularly in the field."
+567,AI-generated brutalist buildings feature in hypnotic Moullinex music videos https://t.co/zrrlL8iGYG v. @michaelbhaskar
+568,"RT @USTglobal: Interested in #AI, data science &amp; analytics? Our Chief Architect for AI &amp; Machine Learning @adnanmasood will be speaking at…"
+569,"RT @AbozeBrain: I just published an article on building an SMS spam detection web application using Python, machine learning and Vonage API…"
+570,"AI and Machine Learning Can Repurpose Humans, Not Replace Them https://t.co/EiGr2CPNUJ"
+571,RT @The__Leadership: Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill https://t.co/0Xte7PBtSS #GrowthHack…
+572,"Data Science 2020: Data Science &amp; Machine Learning in Python - https://t.co/fDQWrBlyuV
+-
+ #datascience #python #science #machinelearning"
+573,RT @HiddenWires: What will be the most important technologies in 2021? Survey states that 25% of respondents think AI and machine learning…
+574,"What will be the most important technologies in 2021? Survey states that 25% of respondents think AI and machine learning will have greatest impact on global pandemic recovery https://t.co/177CtCYGo4
+
+#IEEE #remoteworking #IoT #AI #5G #machinelearning #cybersecurity #Covid19 https://t.co/KNB1s2rpTr"
+575,"How to Explain your Machine Learning Predictions with SHAP Values | by Chetan Ambi | Towards AI | Nov, 2020 | Medium https://t.co/lszRC8t8Tl"
+576,@Samsung your team servicing washing machine is always on learning mode in India. Why should a customer suffer due to malpractice in the company and policy was changed so no service centre stores any spares.  Please investigate this corruption within. Who changed policy and why.
+577,RT @IJRMktg: AI is becoming an increasingly important part of Marketing. Ma and Sun overview the most common methods of machine learning an…
+578,"RT @sachinjainphd: Practical strategies to minimize #bias in #MachineLearning 
+
+https://t.co/ZzoON5j1wh
+
+#ArtificialIntelligence #DeepLearn…"
+579,"RT @byLilyV: Complete #Python #Developer in 2020: Zero to Mastery
+How to become a #Python3 Developer and get hired
+Build 12+ projects
+learn…"
+580,"RT @byLilyV: Complete #Python #Developer in 2020: Zero to Mastery
+How to become a #Python3 Developer and get hired
+Build 12+ projects
+learn…"
+581,"RT @ipfconline1: Orchestrating #MachineLearning Models on Kubernetes in #DevOps Space 
+
+https://t.co/RLd9FUkxXF v/ @AI_oodles 
+#AI
+Cc @Deep…"
+582,RT @Kvindvr: @CryptoNews_Indo @SnapBotsIO Snap Innovations is an Artificial Intelligence research company that focuses on the fields of Mac…
+583,RT @kdnuggets: Overview of Different Approaches to Deploying #MachineLearning Models in Production #KDN https://t.co/t0dIpD9dgn
+584,"5-Minute Machine Learning. Principal component analysis (PCA) is… | by Andre Violante | Nov, 2020 | Towards Data Science https://t.co/g519DI6WQb"
+585,RT @machinelearnflx: Deciphering the Menace of Machine Learning on Social System https://t.co/85YPbUr0Ls  #MachineLearning
+586,"RT @MarcGBQ: Machine Learning predicts thermostable enzyme variants, MD+aMD rationalize the molecular basis behind it! Fantastic and fun wo…"
+587,"RT @svpino: Here is one of the best resources I've found to learn some of the math behind Machine Learning!
+
+And it's free!
+
+""Introduction…"
+588,"RT @byLilyV: Complete #Python #Developer in 2020: Zero to Mastery
+How to become a #Python3 Developer and get hired
+Build 12+ projects
+learn…"
+589,"RT @mysixthfinger: Machine learning yields a breakthrough in the study of stellar nurseries
+
+#Astronomy #Space #MachineLearning #AI via @ph…"
+590,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+591,"RT @byLilyV: Complete #Python #Developer in 2020: Zero to Mastery
+How to become a #Python3 Developer and get hired
+Build 12+ projects
+learn…"
+592,"RT @byLilyV: Complete #Python #Developer in 2020: Zero to Mastery
+How to become a #Python3 Developer and get hired
+Build 12+ projects
+learn…"
+593,"RT @LIFE_Lebanon: Apply now to Online Specialisation Courses in:
+- Machine Learning
+- Web React
+- Blockchain
+Finalise your enrolment to ben…"
+594,"Alexis Networks (@alexisnetworks) offers hands-free fraud detection and prediction solutions - fully automated - 100% unlabelled data and 100% unsupervised machine learning.
+
+📢 Check out Alexis Networks at https://t.co/jGEO5Vvvw8"
+595,"RT @byLilyV: Complete #Python #Developer in 2020: Zero to Mastery
+How to become a #Python3 Developer and get hired
+Build 12+ projects
+learn…"
+596,"RT @NPR: Using machine learning and AI, researchers behind a $3.3 million project funded by the EU hope to document — and later recreate —…"
+597,"@NICE_Actimize has announced the latest version of its IFM-X platform that delivers one of the industry’s most advanced detection capabilities powered by AI and machine learning.
+
+Learn more &gt;&gt;
+https://t.co/FLX4oq7IMK
+
+#IFMX #fraud #frauddetection #AI #machinelearning https://t.co/cygH8mlARB"
+598,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+599,"RT @mysixthfinger: Machine learning yields a breakthrough in the study of stellar nurseries
+
+#Astronomy #Space #MachineLearning #AI via @ph…"
+600,"RT @mysixthfinger: Machine learning yields a breakthrough in the study of stellar nurseries
+
+#Astronomy #Space #MachineLearning #AI via @ph…"
+601,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+602,"RT @LaForge_AI: All Machine Learning Algorithms You Should Know in 2021
+
+#machinelearning #AI #DataScience #GetMoreInsights
+https://t.co/RJ…"
+603,"Apply now to Online Specialisation Courses in:
+- Machine Learning
+- Web React
+- Blockchain
+Finalise your enrolment to benefit from the LIFE/ASFARI scholarship. Deadline is 1 December. Don’t miss your chance!
+https://t.co/An3zE5GxCM
+#defineyourfuture https://t.co/g0AwJ5zpEk"
+604,"RT @LaForge_AI: All Machine Learning Algorithms You Should Know in 2021
+
+#machinelearning #AI #DataScience #GetMoreInsights
+https://t.co/RJ…"
+605,"Complete #Python #Developer in 2020: Zero to Mastery
+How to become a #Python3 Developer and get hired
+Build 12+ projects
+learn #Web #Development
+#Machine #Learning + more
+https://t.co/vRkg9EK8Sw
+#CodeNewbies #100DaysOfCode #webdevelopment #WomenWhoCode #online #courses https://t.co/4qyPVE4BFR"
+606,#EMNLP2020 Scaling Systematic Literature Reviews with Machine Learning Pipelines. (arXiv:2010.04665v1 [cs\.CL]) https://t.co/VaBISrN5vV
+607,"@jrwr @nickblack @nootsploit machine learning in Bash
+
+now THAT is something that I need to get on"
+608,"RT @NPR: Using machine learning and AI, researchers behind a $3.3 million project funded by the EU hope to document — and later recreate —…"
+609,"RT @jennifazor: I can only give what I have, I have skill 😎 so part of my 2021 goals is to  teach &amp; train at least 500 people in Machine le…"
+610,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+611,RT @Thycotic: 401 Access Denied hosts @joe_carson and @CybraryIT's Mike Gruen welcomed @Shift5co CEO @jalospinoso back to the podcast to di…
+612,RT @NICELtd: @NICE_Actimize has announced the latest version of its IFM-X platform that delivers one of the industry’s most advanced detect…
+613,RT @NICE_CX: @NICE_Actimize has announced the latest version of its IFM-X platform that delivers one of the industry’s most advanced detect…
+614,"RT @CatherineAdenle: Machine Learning for Cybersecurity 101. All you need to know. When it comes to keeping data safe ... 
+
+#cybersecurity…"
+615,"RT @LaForge_AI: All Machine Learning Algorithms You Should Know in 2021
+
+#machinelearning #AI #DataScience #GetMoreInsights
+https://t.co/RJ…"
+616,RT @TDataScience: All Machine Learning Algorithms You Should Know in 2021  https://t.co/0Yl057FAHu
+617,"RT @jennifazor: I can only give what I have, I have skill 😎 so part of my 2021 goals is to  teach &amp; train at least 500 people in Machine le…"
+618,RT @EdKwedar: How to Create A Train/Test Split for Your #MachineLearning Model? #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RS…
+619,"RT @rasangarocks: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+
+Link - https://t.co/ytXjwuQbXW
+
+#MachineLearning #ML…"
+620,RT @CEO_dalmi: dalmi's business plan is called tarzan remember dosan use tarzan to help her understand machine learning 🤧 #StartUpEp12 http…
+621,"RT @rasangarocks: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+
+Link - https://t.co/ytXjwuQbXW
+
+#MachineLearning #ML…"
+622,"@iamdevloper He literally just gave a list of buzzwods from previous years. Could go even earlier with: Client/Server, Cloud, IoT, Machine Learning, Big Data."
+623,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+624,"@NICE_Actimize has announced the latest version of its IFM-X platform that delivers one of the industry’s most advanced detection capabilities powered by AI and machine learning. 
+
+Learn more &gt;&gt;
+https://t.co/3sKDVJN1KF
+
+#IFMX #fraud #frauddetection #AI #machinelearning https://t.co/FchRBRktpZ"
+625,"@NICE_Actimize has announced the latest version of its IFM-X platform that delivers one of the industry’s most advanced detection capabilities powered by AI and machine learning.
+
+Learn more &gt;&gt;
+https://t.co/P8ywSP5zlq
+
+#IFMX #fraud #frauddetection #AI #machinelearning https://t.co/iXqbY4HrgG"
+626,"RT @ruben_arce_s: #MachineLearning and Algorithms
+
+@ruben_arce_s
+
+#AI #5G #IoT #IT 
+#Digital #DataScientist
+#digitaltransformation
+#DeepLea…"
+627,RT @CEO_dalmi: dalmi's business plan is called tarzan remember dosan use tarzan to help her understand machine learning 🤧 #StartUpEp12 http…
+628,"Advanced Machine Learning dersinden bir sayfa. Bir makaleyi bu kadar kısa ve ustaca anlatabilmek mükemmel cidden.
+
+Karşılaştırma adına makaledeki görseli de yanına ekliyorum.
+
+Makale linki: https://t.co/kSvlrDGqm3 https://t.co/Wn2IXYJUeo"
+629,"RT @ruben_arce_s: #MachineLearning and Algorithms
+
+@ruben_arce_s
+
+#AI #5G #IoT #IT 
+#Digital #DataScientist
+#digitaltransformation
+#DeepLea…"
+630,RT @The__Leadership: Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill https://t.co/0Xte7PBtSS #GrowthHack…
+631,Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill https://t.co/0Xte7PBtSS #GrowthHacking #Leadership #Startup #BusinessGrowth #Entrepreneur #SmallBusiness #Marketing
+632,"RT @ormacheatuco: #AI.com
+
+#Artificial #Intelligence
+#LL.com
+#Domain for sale:  https://t.co/xcdI92tKHF
+
+#Algorithm; #Chatbots 
+#Cluster. .…"
+633,"RT @Houston__AI: Artificial intelligence, machine learning, 5G, IoT will be most important tech in 2021: Study - Financial Express https://…"
+634,"RT @ormacheatuco: #AI.com
+
+#Artificial #Intelligence
+#LL.com
+#Domain for sale:  https://t.co/xcdI92tKHF
+
+#Algorithm; #Chatbots 
+#Cluster. .…"
+635,"Inteligencia artificial (también aplica para Big data, ciencias de la computación, etc)
+https://t.co/JxJfxuNh1f"
+636,"RT @stpiindia: #AI &amp; #ML can play a pivotal role in transforming logistic sector by automating warehouse operations, increasing productivit…"
+637,"RT @makneta: @Arvind_0602 is starting his next #100DaysOfCode round &amp; he'll learn not only web dev but also Machine Learning.
+I want to joi…"
+638,"RT @makneta: @Arvind_0602 is starting his next #100DaysOfCode round &amp; he'll learn not only web dev but also Machine Learning.
+I want to joi…"
+639,RT @AIRCCFP: 2nd International Conference on Natural Language Processing and Machine Learning (NLPML 2021) https://t.co/H8ODJjxDF2
+640,"Artificial intelligence, machine learning, 5G, IoT will be most important tech in 2021: Study - Financial Express https://t.co/I2ssDMjfUM #Houston #ArtificialIntelligence #AI"
+641,"often than rarer words [rank &gt; 10,000].
+As such, typical machine learning models do not learn meaningful concepts related to these relatively rarer words, which are nevertheless important to understand language."
+642,"Modelli di machine learning e loro addestramento, dalle prestazioni in laboratorio a quelle nel mondo reale https://t.co/UXGxGIXwaV"
+643,RT @SubkrishnaRao: The Rewired robotics-focused venture studio has sold its stake in London-based enterprise machine learning company Seldo…
+644,The Rewired robotics-focused venture studio has sold its stake in London-based enterprise machine learning company Seldon. #robotics https://t.co/PYtTxJDRma https://t.co/8XhYiZqUs2
+645,"@JohnMeuser I'm interested in examples of a well-integrated system where some parts are electronic/mechatronic/machine learning etc. and some parts are biological tissues/cells, and they all function together."
+646,"RT @ruben_arce_s: #MachineLearning and Algorithms
+
+@ruben_arce_s
+
+#AI #5G #IoT #IT 
+#Digital #DataScientist
+#digitaltransformation
+#DeepLea…"
+647,"RT @rasangarocks: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+
+Link - https://t.co/ytXjwuQbXW
+
+#MachineLearning #ML…"
+648,"RT @ipfconline1: Orchestrating #MachineLearning Models on Kubernetes in #DevOps Space 
+
+https://t.co/RLd9FUkxXF v/ @AI_oodles 
+#AI
+Cc @Deep…"
+649,"RT @ruben_arce_s: #MachineLearning and Algorithms
+
+@ruben_arce_s
+
+#AI #5G #IoT #IT 
+#Digital #DataScientist
+#digitaltransformation
+#DeepLea…"
+650,"RT @GoogleAI: Curious about what drives Hum to Search, the new feature in Google Search that allows you to find a song just by humming it?…"
+651,"RT @GoogleAI: Curious about what drives Hum to Search, the new feature in Google Search that allows you to find a song just by humming it?…"
+652,"@LukeLPearson Fucken tech bros. Put machine learning onto everything no matter how bad an idea it is in so many cases.
+Yes, it likely does what they say with the accuracy they say.
+No, it's not useful at all. If the metrics are there they should be in the hands of social workers, NOT cops /"
+653,Deciphering the Menace of Machine Learning on Social System https://t.co/85YPbUr0Ls  #MachineLearning
+654,RT @IntuitMachine: The state of machine learning practice: https://t.co/A4pesHh9c8
+655,RT @IntuitMachine: The state of machine learning practice: https://t.co/A4pesHh9c8
+656,"RT @svpino: Don't start your career in Machine Learning by writing a lot of code. You should start by learning to think about problems. 
+
+I…"
+657,Elements of a Viable Machine Learning Algorithm https://t.co/QPlSbxYO8U [@DataScienceCtrl]
+658,"@RexChapman Aliens are at this moment machine learning from our social media habits and going, nah, something not right here."
+659,"RT @sjoerdapp: 💯✨ Artificial intelligence, machine learning, 5G, IoT will be most important tech in 2021: Study - Financial Express https:/…"
+660,"RT @elainebeare: Artificial Intelligence and #MachineLearning, 5G and #IoT will be the Most Important #Technologies in 2021via @iotbusiness…"
+661,"RT @sjoerdapp: 💯✨ Artificial intelligence, machine learning, 5G, IoT will be most important tech in 2021: Study - Financial Express https:/…"
+662,"RT @RogerAttick: When machine learning knows too much about you... We know there’s a cost when models predict incorrectly, but is there als…"
+663,"RT @AbozeBrain: I just published an article on building an SMS spam detection web application using Python, machine learning and Vonage API…"
+664,"RT @elainebeare: Artificial Intelligence and #MachineLearning, 5G and #IoT will be the Most Important #Technologies in 2021via @iotbusiness…"
+665,"RT @RogerAttick: When machine learning knows too much about you... We know there’s a cost when models predict incorrectly, but is there als…"
+666,RT @saqibali_ca: #MachineLearning picks out hidden vibrations from earthquake data | MIT News | Massachusetts Institute of Technology  http…
+667,#MachineLearning picks out hidden vibrations from earthquake data | MIT News | Massachusetts Institute of Technology  https://t.co/4GhX2jFMmd H/T: @wearethinkit
+668,"RT @AnalyticsFrance: #Intelligentchatbots - The future of machine learning techniques
+
+ https://t.co/4PZE8b6Np1 
+
+#Blog #Elinsys #MachineLe…"
+669,"RT @ValaAfshar: Top technology investments for CIOs and IT:
+
+1. Security
+2. Big data and analytics
+3. Internet of things
+4. Multi-cloud str…"
+670,"RT @adhoc_networks: I just published Machine learning Algo https://t.co/BmUu922a6o
+
+#technicalblog #blogstory #ml #ai #aws #adhocnw #adhocn…"
+671,"RT @AnalyticsFrance: #Intelligentchatbots - The future of machine learning techniques
+
+ https://t.co/4PZE8b6Np1 
+
+#Blog #Elinsys #MachineLe…"
+672,"RT @adhoc_networks: I just published Machine learning Algo https://t.co/BmUu922a6o
+
+#technicalblog #blogstory #ml #ai #aws #adhocnw #adhocn…"
+673,"RT @ipfconline1: Orchestrating #MachineLearning Models on Kubernetes in #DevOps Space 
+
+https://t.co/RLd9FUkxXF v/ @AI_oodles 
+#AI
+Cc @Deep…"
+674,"RT @Eli_Krumova: #MachineLearning #CheatSheet: Classical equations, diagrams &amp; tricks in #ML 🔖🎯
+⬇️
+https://t.co/CJcP5K3npx
+v/ @soulmachine…"
+675,"RT @Eli_Krumova: #MachineLearning #CheatSheet: Classical equations, diagrams &amp; tricks in #ML 🔖🎯
+⬇️
+https://t.co/CJcP5K3npx
+v/ @soulmachine…"
+676,"@Milhouse_Van_Ho Not a coincidence. Legault here talked about training labour slack back into IT (AI, machine learning). He calls it ""4.0 industrial"" and the ""pandemic is forcing us to..."""
+677,5 Most Useful Machine Learning Tools every lazy full-stack data scientist should use #Learning via https://t.co/XO8NXk3RYC https://t.co/iG1ONr4s9g
+678,"RT @Eli_Krumova: #MachineLearning #CheatSheet: Classical equations, diagrams &amp; tricks in #ML 🔖🎯
+⬇️
+https://t.co/CJcP5K3npx
+v/ @soulmachine…"
+679,Mathematical Optimization #DeepLearning #learning  https://t.co/bp1Xe3eyZ7
+680,"RT @jennifazor: I can only give what I have, I have skill 😎 so part of my 2021 goals is to  teach &amp; train at least 500 people in Machine le…"
+681,"RT @jennifazor: I can only give what I have, I have skill 😎 so part of my 2021 goals is to  teach &amp; train at least 500 people in Machine le…"
+682,RT @VentureBeat: Practical strategies to minimize bias in machine learning https://t.co/1X2bAxQhLQ
+683,"RT @jennifazor: I can only give what I have, I have skill 😎 so part of my 2021 goals is to  teach &amp; train at least 500 people in Machine le…"
+684,"@o_dafydd @stevefaulkner then use *waves vaguely* ""machine learning"""
+685,"RT @Fabriziobustama: What is Machine Learning and what are its benefits
+By @somagnews 
+#AI #4IR #ITsecurity #Bigdata  #ArtificialIntelligen…"
+686,RT @willman20: How Machine Learning Works for Social Good https://t.co/kTja8vXQIi #DataScience #MachineLearning #ML https://t.co/lCUMildGVJ
+687,"RT @Fabriziobustama: What is Machine Learning and what are its benefits
+By @somagnews 
+#AI #4IR #ITsecurity #Bigdata  #ArtificialIntelligen…"
+688,RT @willman20: How Machine Learning Works for Social Good https://t.co/kTja8vXQIi #DataScience #MachineLearning #ML https://t.co/lCUMildGVJ
+689,"RT @Fabriziobustama: What is Machine Learning and what are its benefits
+By @somagnews 
+#AI #4IR #ITsecurity #Bigdata  #ArtificialIntelligen…"
+690,RT @willman20: How Machine Learning Works for Social Good https://t.co/kTja8vXQIi #DataScience #MachineLearning #ML https://t.co/lCUMildGVJ
+691,RT @elonmusk: Deus ex machine learning https://t.co/5ZSYalVczx
+692,"RT @svpino: Don't start your career in Machine Learning by writing a lot of code. You should start by learning to think about problems. 
+
+I…"
+693,"RT @makneta: @Arvind_0602 is starting his next #100DaysOfCode round &amp; he'll learn not only web dev but also Machine Learning.
+I want to joi…"
+694,"RT @makneta: @Arvind_0602 is starting his next #100DaysOfCode round &amp; he'll learn not only web dev but also Machine Learning.
+I want to joi…"
+695,Tracking historical changes in trustworthiness using machine learning analyses of facial cues in paintings | Nature Communications https://t.co/YUnooAYjQY  #MachineLearning
+696,"RT @svpino: Here is one of the best resources I've found to learn some of the math behind Machine Learning!
+
+And it's free!
+
+""Introduction…"
+697,"Dagli: Faster and easier machine learning on the JVM, without the tech debt
+
+https://t.co/risZ5wWfw4"
+698,"RT @PrasoonPratham: From my little experience, I can tell that Machine learning is not what people think is :  
+
+►  Lots of code and
+►  Jus…"
+699,"Quantum computing and vector machine learning... two of my favorite topics.
+
+https://t.co/iE80skG2Nt"
+700,"RT @makneta: @Arvind_0602 is starting his next #100DaysOfCode round &amp; he'll learn not only web dev but also Machine Learning.
+I want to joi…"
+701,"RT @omarsar0: Most of us start our machine learning journeys while doing something else.
+
+I remember feeling discouraged at times because I…"
+702,"Lynx Roundup, November 23rd 2020
+
+Unexpected scientific insights into COVID-19 from machine learning! Information in micrographs of biological cells! New Spark 3 array functions.
+
+ #Roundup
+
+https://t.co/CKwTvOcYd6 https://t.co/LwyVVTfn75"
+703,RT @Deep__AI: Read about Gram-Schmidt Process https://t.co/WsFkLJHTnW #Vector #GramSchmidtProcess
+704,"@Arvind_0602 is starting his next #100DaysOfCode round &amp; he'll learn not only web dev but also Machine Learning.
+I want to join him and learn a bit of ml, too. 
+
+In that thread, I got plenty of good resources about starting with #MachineLearning and Natural Language Processing. https://t.co/Mt67XihkSa"
+705,Read about Gram-Schmidt Process https://t.co/WsFkLJHTnW #Vector #GramSchmidtProcess
+706,"▶️Analyses on reliability and treatment-induced attrition  suggested that measurement issues likely have not hidden true effects
+▶️Also, I used machine-learning approaches by 
+@Susan_Athey  et al. to assess whether effects might be hidden in subgroups https://t.co/1qWPwuAwlm"
+707,"RT @jennifazor: I can only give what I have, I have skill 😎 so part of my 2021 goals is to  teach &amp; train at least 500 people in Machine le…"
+708,"@KristianMedK @amstradsen En komplett AI må inneholde den statistiske/matematiske beslutningsmodellen kjent som AI, hvor datagrunnlaget endres ved hjelp av Machine Learning. Machine Learning og AI er to distinktive deler av det komplette produktet."
+709,RT @SQLShack: Comparing models in #Azure #MachineLearning with @dineshasanka74 https://t.co/671fsJmmPc
+710,Comparing models in #Azure #MachineLearning with @dineshasanka74 https://t.co/671fsJmmPc
+711,"RT @byLilyV: Complete #Python #Developer in 2020: Zero to Mastery
+How to become a #Python3 Developer and get hired
+Build 12+ projects
+learn…"
+712,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+713,RT @IntuitMachine: The state of machine learning practice: https://t.co/A4pesHh9c8
+714,RT @AmazonScience: Interested in artificial intelligence and machine learning? Follow Amazon Science and be the first to hear about the lat…
+715,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+716,"RT @PrasoonPratham: From my little experience, I can tell that Machine learning is not what people think is :  
+
+►  Lots of code and
+►  Jus…"
+717,"RT @222_skawngur: หลังจากทำงานในบ.อินแจ ดัลมีก็ออกมาตั้งบ.ใหม่เอง ใช้ชื่อว่า ""ชองมยอง คอมปานี"" (ชื่อของพ่อดัลมี) ซึ่งดัลมีเป็นCEO 
+เอาโปรเจ…"
+718,"RT @PrasoonPratham: From my little experience, I can tell that Machine learning is not what people think is :  
+
+►  Lots of code and
+►  Jus…"
+719,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+720,"“Regulation must be informed by good science: hence the importance of research in AI governance, risk management and safety, particularly to address the challenge of aligning AI with societal values that will change over time” Kok Yam Tam @SmartNationSG https://t.co/t96vwc0NlD"
+721,Las ventajas que supone el Machine Learning en la automatización industrial #BSDAlcoi Somos Expertos en Control y Automatización Industrial https://t.co/tzuZ4iA6Xc
+722,RT @iLearn2Primary: Year 6 Machine Learning &amp; Artificial Intelligence Pupil Activity Pack for school/home access. Includes introduction vid…
+723,"RT @elintech_system: #Intelligentchatbots - The future of machine learning techniques
+
+https://t.co/lPVD7lSIAA
+
+#Blog #Elinsys #MachineLear…"
+724,"RT @SamVanhoutte: I will be presenting on Time Series analytics in #Azure today at @update_conf.  
+I will cover Time Series Insights, Strea…"
+725,"@aryxnsharma @Adron +1, I believe that machine learning is not just about training neural nets, things like collecting and processing the data require common sense and creativity."
+726,130 Machine Learning Projects Solved and Explained by Aman Kharwal https://t.co/zLjAvuD2Hy
+727,"AI is becoming an increasingly important part of Marketing. Ma and Sun overview the most common methods of machine learning and set out a research agenda in 5 aspects of Marketing: method, data, usage, issue, and theory.
+
+#machinelearning #marketing #data
+
+https://t.co/4JRdIizvIL"
+728,@nategentile7 Prueba algo de Machine Learning. Utilizar Keras sería una prueba fácil de hacer y se vería el rendimiento ;)
+729,"The Department of Veterans Affairs has turned to machine-learning to help identify vets at risk of taking their own lives.
+https://t.co/7p8cIqsmnx"
+730,"@Definews_Info @ReefDeFi @StaFi_Protocol This will help Reef users to hedge against market volatility by making the staked assets liquid, while still earning the DeFi rewards that are available through Reef’s machine learning and AI powered DeFi Smart Yield Farming engine."
+731,RT @_GroundReality: 3 ways criminals use AI in cybersecurity attacks. Bad actors use machine learning to break passwords more quickly and b…
+732,"RT @PrasoonPratham: From my little experience, I can tell that Machine learning is not what people think is :  
+
+►  Lots of code and
+►  Jus…"
+733,How Automated Machine Learning Addresses the Challenges of Traditional ML Models? | Analytics Insight https://t.co/iT1Z6Hz72m #DL #AI #ML #DeepLearning  #ArtificialIntelligence #MachineLearning #ComputerVision #AutonomousVehicles #NeuroMorphic
+734,"💡  #ArtificialIntelligence is intelligence that is demonstrated in a machine. The goal is to create machines or programs that can work, react, and respond like a human. This can include speech recognition, learning, planning, and problem-solving. 
+
+#CodeIT_WotW https://t.co/z42eZ69gmz"
+735,"""Technologies like machine learning -- and the  analytics that can result from its use--are now essential,"" Forbes reports. Read the article for insights and contact us to discuss how Sacsto can help. https://t.co/3k4M2hVFnb"
+736,"@Definews_Info @ReefDeFi @StaFi_Protocol This will help Reef users to hedge against market volatility by making the staked assets liquid, while still earning the DeFi rewards that are available through Reef’s machine learning and AI powered DeFi Smart Yield Farming engine."
+737,RT @DD_NaNa_: 6 Machine Learning Concepts for Beginners https://t.co/WwfRkmvDGn #MachineLearning
+738,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+739,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+740,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+741,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+742,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+743,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+744,"Orchestrating #MachineLearning Models on Kubernetes in #DevOps Space 
+
+https://t.co/RLd9FUkxXF v/ @AI_oodles 
+#AI
+Cc @DeepLearn007 @SpirosMargaris @andi_staub @StephaneNappo @antgrasso @mirko_ross @HaroldSinnott @JeroenBartelse https://t.co/mFA6RAOzXU"
+745,Hearing The World Through Machine Learning https://t.co/gtZNvXyolI
+746,Machine Learning for Time Series Data in Python: This course focuses on feature engineering and machine learning for time series data. https://t.co/QCgsigRbaV
+747,"RT @tamaybes: A few months ago, I wrote an economics dissertation on whether machine learning models are getting harder to find. Here’s a s…"
+748,"This is what I’m talking about. Fuck your machine learning. Finally, the future. 24hr pizza vending machine in Bedminster. https://t.co/ssU8ZmULon"
+749,RT @AmazonScience: Interested in artificial intelligence and machine learning? Follow Amazon Science and be the first to hear about the lat…
+750,"RT @apeisback: @e6madeit nah in chemistry but my aim is to get into machine learning again, I did a course in data science couple months ag…"
+751,RT @neurology_live: A recent study published in Neurology has suggested that machine learning models used to predict delayed ischemic #stro…
+752,"RT @svpino: Here is one of the best resources I've found to learn some of the math behind Machine Learning!
+
+And it's free!
+
+""Introduction…"
+753,"RT @byLilyV: #FEATURED #COURSES
+The #Data #Science Course 2020: Complete #DataScience Bootcamp
+In demand skills: #Statistical #analysis
+#Py…"
+754,"RT @Ayoolafelix: How to become a Data Analyst, Data Scientist or Machine Learning Engineer before the end of 2020.
+
+1/ Apply for DataCamp 1…"
+755,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+756,"RT @stpiindia: #AI &amp; #ML can play a pivotal role in transforming logistic sector by automating warehouse operations, increasing productivit…"
+757,RT @cybersecboardrm: Demystifying Quantum Machine Learning #Cybersecurity #learning #security  https://t.co/IacXInjEj4
+758,"RT @svpino: Don't start your career in Machine Learning by writing a lot of code. You should start by learning to think about problems. 
+
+I…"
+759,"Our girls' cricket programme continues to grow. With four all weather outdoor nets, bowling machine as well as indoor nets, we have fabulous facilities and it is great to see girls enjoying learning the game and working hard at their skills all year round! #cricket #thisgirlcan https://t.co/SXOZIbqINM"
+760,RT @crowdsourcegh: Explore Machine Learning (ML) with Crowdsource is a Google program to get started with Machine Learning and understand t…
+761,"RT @ValaAfshar: Top technology investments for CIOs and IT:
+
+1. Security
+2. Big data and analytics
+3. Internet of things
+4. Multi-cloud str…"
+762,"RT @ValaAfshar: Top technology investments for CIOs and IT:
+
+1. Security
+2. Big data and analytics
+3. Internet of things
+4. Multi-cloud str…"
+763,@PrasoonPratham Common sense is a misnomer. Machine learning is just math. Math that can be used effectively or ineffectively to automate decision making via computers instead of humans... albeit it still requires regular human involvement to be effective or ethical.
+764,Machine learning explained in two sentences. Awesome. https://t.co/IXiXJxbWQ1
+765,RT @CEO_dalmi: dalmi's business plan is called tarzan remember dosan use tarzan to help her understand machine learning 🤧 #StartUpEp12 http…
+766,"RT @jennifazor: I can only give what I have, I have skill 😎 so part of my 2021 goals is to  teach &amp; train at least 500 people in Machine le…"
+767,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+768,How Machine Learning Works for Social Good - KDnuggets https://t.co/8vrPmGbLPw #machinelearning
+769,"AI and Machine Learning Can Repurpose Humans, Not Replace Them - ABA Banking Journal #IntelligentAutomation 
+https://t.co/JnD23xBvkA"
+770,RT @brendantierney: What @chipro learned from looking at 200 machine learning tools https://t.co/ZLTt2cuxGK #Machinelearning #ArtificialInt…
+771,"RT @d4hio: RT @BOECKBX: What a wonderful use of Machine Learning
+
+to help parents understand their babies – in this talk with Roberto Ianno…"
+772,"Eye exam could lead to early Parkinson's disease diagnosis:
+A simple #eye exam combined with powerful artificial intelligence (AI) machine learning #technology could provide early detection of Parkinson's disease
+https://t.co/ByO3fxKLOP"
+773,"https://t.co/aVohruAOKx 
+
+#imageclassification #convolutionalneuralnetworks #deeplearning #keras #tensorflow"
+774,"A recent study published in Neurology has suggested that machine learning models used to predict delayed ischemic #stroke and functional outcomes significantly outperformed standard models when used in subarachnoid hemorrhage care. 
+
+https://t.co/UxywDKp8eq"
+775,What @chipro learned from looking at 200 machine learning tools https://t.co/ZLTt2cuxGK #Machinelearning #ArtificialIntelligence #DataMining #MLOps #ML #AI https://t.co/ioohVCCcoa
+776,"Folks👋, we're back with Words of Wisdom from Robofied. Today we have: Ian Goodfellow, Director of Machine Learning, Apple.
+
+👉 Telegram Group: https://t.co/ssCvX81913
+
+#ML #AI #DL #tech #analytics #data #artificialintelligence #machinelearning #datascience #python https://t.co/pXx04uwCYt"
+777,FOXG1 Research Foundation to Pioneer a Machine Learning Approach to Accelerate Rare Disease Research with Support From the Chan Zuckerberg Initiative https://t.co/uiakhBaXzh
+778,"RT @ValaAfshar: Top technology investments for CIOs and IT:
+
+1. Security
+2. Big data and analytics
+3. Internet of things
+4. Multi-cloud str…"
+779,"RT @MLforKids: Machine Learning for Kids: helping kids learn about ML by letting them train models and make things with them
+Info at https:…"
+780,RT @odsc: Join the newly launched Ai+ Training monthly subscription service to take advantage of hours of training content on machine learn…
+781,"RT @stpiindia: #AI &amp; #ML can play a pivotal role in transforming logistic sector by automating warehouse operations, increasing productivit…"
+782,"🤖🤖🤖AI and Machine Learning Can Repurpose Humans, Not Replace Them - ABA Banking Journal https://t.co/7RJ0JrQ7Hw #CuttingEdge #MachineLearning #ML https://t.co/bc4ffrD6j7"
+783,RT @TDataScience: All Machine Learning Algorithms You Should Know in 2021  https://t.co/0Yl057FAHu
+784,RT @im_a_developer: How to create a chatbot in Python https://t.co/1nx4cFBwm8 #python #machine-learning #artificialintelligence #data-scien…
+785,"From my little experience, I can tell that Machine learning is not what people think is :  
+
+►  Lots of code and
+►  Just math
+
+Not true!
+
+Machine learning is actually more about common sense, using which you can find solutions to a given problem."
+786,"Machine Learning Levarage The Power oF Data to Provide Unique Experiences!
+#machinelearning #DataAnalytics #IoTtrends #webdevelopment https://t.co/mZiAzqtXPc"
+787,"RT @svpino: Here is one of the best resources I've found to learn some of the math behind Machine Learning!
+
+And it's free!
+
+""Introduction…"
+788,Hotpoint totally useless to keep messaging you now starting week 4 with a machine that does not work and the automated text keeps saying it is still learning
+789,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+790,"Artículo descarga libre: Rethinking Human-Machine Learning in Industry 4.0: How Does the Paradigm Shift Treat the Role of Human Learning? 
+
+Fazel Ansaria,b,*, Selim Erola, Wilfried Sihna,b  
+(PDF) Rethinking Human-Machine Learning…https://t.co/xDZfffXXa3 https://t.co/g74IW0hn23"
+791,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+792,"Top Google AI, Machine Learning Tools for Everyone #MachineLearning #learning via https://t.co/ZkGZHy7Db6 https://t.co/Ej3QaP7aLI"
+793,Machine Learning Solution Architecture #MachineLearning #learning via https://t.co/DvgZikb3vz https://t.co/V7GPSdLxlw
+794,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+795,"@e6madeit nah in chemistry but my aim is to get into machine learning again, I did a course in data science couple months ago and I enjoyed it so hopefully I can get back into it but rn I’m tryna improve my python code"
+796,"Hello, Connections!
+I have successfully completed my semester-5 Project: US Presidential Elections 2020 Result Prediction Using Sentiment Analysis on Twitter Data of the course: Artificial Intelligence and Machine Learning along with my teammates Avinash Kumar, Aditya Singh."
+797,"#FEATURED #COURSES
+The #Data #Science Course 2020: Complete #DataScience Bootcamp
+In demand skills: #Statistical #analysis
+#Python with #NumPy
+#pandas
+#matplotlib and #Seaborn
+#Tableau
+#Machine #Learning
+#DeepLearning with #TensorFlow
+https://t.co/PaHDf4fIL2 https://t.co/snt6dm6Ml0"
+798,"Permission model for Machine Learning APIs · Issue #72 - In his talk, @cynthia raises t https://t.co/BLwiJQeC2Q·-issue-72/ #machinelearning #intoAInews"
+799,"For machine learning projects connect with me on upwork
+https://t.co/SfFBypLFvh
+
+#uwpork #machinelearning #deeplearning #Supervisedlearning #unsupervisedlearning #machinelearningalgorithms"
+800,"I'll be sharing the ones that I find useful for machine learning work here (will likely include @GoogleColab, @Code, @IntelliJidea / @PyCharm, @GoogleDocs, etc.).
+
+First up: converting a full cell in a Colab notebook from code to text (quicker than commenting out):
+
+ ⌘/Ctrl+M M https://t.co/70XUEKynfM"
+801,"RT @ipfconline1: Top 10 #MachineLearning Books That You Should Read Before You Start With It 
+
+https://t.co/e22BW0Wkpj via @laconicml 
+#AI…"
+802,"RT @MMC_Global: According to @OliverWyman, #machinelearning can improve demand forecasting by 40% — learn how it be an advantage during #CO…"
+803,RT @CEO_dalmi: dalmi's business plan is called tarzan remember dosan use tarzan to help her understand machine learning 🤧 #StartUpEp12 http…
+804,@apeisback you doing machine learning or sumn
+805,"I miss when I used to download kaggle datasets draw a couple of graphs in the name of EDA, do a linear regression model, get an accuracy of 0.98,  add machine learning engineer to my LinkedIn and day dream about working in a FAANG. 
+Nowadays ni machozi tu https://t.co/GNyQBhK3u3"
+806,"RT @care_risk: #mustread #recommendedreading article on how artificial intelligence in #banking and #marketing is used, and how the bank of…"
+807,"AI and Machine Learning Can Repurpose Humans, Not Replace Them - Meanwhile, emerging https://t.co/zBUExfY0TB #machinelearning #intoAInews"
+808,ioneer a Machine Learning Approach to Accelerate Rare … -  https://t.co/jEw3Xi7vZd #machinelearning #intoAInews
+809,"🐹🐹🐹 AI and Machine Learning Can Repurpose Humans, Not Replace Them - ABA Banking Journal https://t.co/7RJ0JrQ7Hw #CuttingEdge #AI 🎲 ➡︎ 🎰 #ML https://t.co/rZ1vWi0z4s"
+810,"💯✨ Artificial intelligence, machine learning, 5G, IoT will be most important tech in 2021: Study - Financial Express https://t.co/lb6YESeWfw #CuttingEdge #AI &amp; #ML https://t.co/DejU3e6Qr5"
+811,"RT @brad_e_: @dr_xenia @ApitiusHofmann @Bonn @schirmermd @WilhelmBraun Hi, Dr. Xenia!
+programming skills (Matlab, Python) 
+Yes.
+Stochastic…"
+812,"RT @Arnab132: How machine learning was used to decode ancient Chinese cave
+
+#MachineLearning #ArtificialIntelligence #ML #AI #ancient #TOI…"
+813,"RT @byLilyV: Complete #Python #Developer in 2020: Zero to Mastery
+How to become a #Python3 Developer and get hired
+Build 12+ projects
+learn…"
+814,Oferta Trabajo: Senior Machine Learning Scientist / Experto en Aprendizaje Automático https://t.co/3z5hmPMSAh
+815,"RT @ValaAfshar: Top technology investments for CIOs and IT:
+
+1. Security
+2. Big data and analytics
+3. Internet of things
+4. Multi-cloud str…"
+816,"RT @byLilyV: Complete #Python #Developer in 2020: Zero to Mastery
+How to become a #Python3 Developer and get hired
+Build 12+ projects
+learn…"
+817,"@dr_xenia @ApitiusHofmann @Bonn @schirmermd @WilhelmBraun Hi, Dr. Xenia!
+programming skills (Matlab, Python) 
+Yes.
+Stochastic network models/machine learning
+Stochastic *simulations*... yes; machine learning, yes.
+Testing new pathomechanisms (according to your great work)
+Master's thesis was developing a pipeline of ~this under Martin."
+818,RT @AWSstartups: Join two AWS #ML experts @alliekmiller &amp; Sean Wilkinson to hear the rundown of the newest AWS #machinelearning releases. Y…
+819,"In the last five years, #data has significantly strengthened the position of precision farming, providing vital knowledge of where, how, and when to seed fields. Learn, how #datascience and #machinelearning reimagine the entire #agriculture industry: https://t.co/1EPLRb432m https://t.co/YTDQnbFT4D"
+820,"RT @222_skawngur: หลังจากทำงานในบ.อินแจ ดัลมีก็ออกมาตั้งบ.ใหม่เอง ใช้ชื่อว่า ""ชองมยอง คอมปานี"" (ชื่อของพ่อดัลมี) ซึ่งดัลมีเป็นCEO 
+เอาโปรเจ…"
+821,RT @javascriptflx: The Machine Learning Certification Course ($94.99 to Free) #JavaScript #MachineLearning #Python #100DaysOfCode #CloudCom…
+822,RT @javascriptflx: The Machine Learning Certification Course ($94.99 to Free) #JavaScript #MachineLearning #Python #100DaysOfCode #CloudCom…
+823,RT @javascriptflx: The Machine Learning Certification Course ($94.99 to Free) #JavaScript #MachineLearning #Python #100DaysOfCode #CloudCom…
+824,"AI, machine learning, and blockchain are key for healthcare innovation https://t.co/OvueSo6Szw  #MachineLearning"
+825,"Learn how to predict which patients are at risk of developing a disease with machine learning on real world data from an electronic health record. https://t.co/ANebeg5R5d 
+ 
+#DeltaLake"
+826,"RT @awscloud: How can you harness the power of open data, IoT, machine learning and AI for the benefit of your city?"
+827,"RT @miguelmalvarez: @SignalHQ has several open roles in #product and #technology, including a Machine Learning Engineer to help us drive th…"
+828,RT @_GroundReality: 3 ways criminals use AI in cybersecurity attacks. Bad actors use machine learning to break passwords more quickly and b…
+829,"BE QUICK, APPLICATIONS CLOSE TODAY!
+Opportunity available: Machine Learning Development Engineer (KTP Associate) – University of Surrey
+https://t.co/a1EoFNjU8x"
+830,RT @AWSstartups: Join two AWS #ML experts @alliekmiller &amp; Sean Wilkinson to hear the rundown of the newest AWS #machinelearning releases. Y…
+831,"While not a perfect comp, if $TDOC at $30 billion mkt cap is bringing AI/machine learning to doctors to improve health care outcomes &amp; lower costs, what’s $IPOC @clover_health at $3 billion worth bringing AI to health insurance to improve health care outcomes &amp; lower costs?"
+832,A comparison of machine learning methods for survival analysis of high-dimensional clinical data for dementia prediction https://t.co/RHM56GnzGV #MachineLearning #NatureJournal #AI https://t.co/xxUAStCKAs
+833,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+834,"RT @jennifazor: I can only give what I have, I have skill 😎 so part of my 2021 goals is to  teach &amp; train at least 500 people in Machine le…"
+835,"Miss the webinar about Utility Meter Data and Machine Learning? View the recording and learn about the experiences deploying @awscloud services to deliver timely business insights for customers by unlocking smart meter data answers.
+
+Access the recording: https://t.co/H43Xk49DrU https://t.co/61cWltKhY3"
+836,"Machine learning techniques for filtering noisy heart rate data and extract clean pattern (r,tensorflow,keras,h2o,caret) #datascience #machinelearning #stackoverflow https://t.co/929V7kIkvH"
+837,"RT @hinsonan: Which machine learning framework do you prefer?
+
+#MachineLearning #ArtificialIntelligence 
+#AI 
+#keras 
+#fastai"
+838,5 Most Useful Machine Learning Tools every lazy full-stack data scientist should use #Learning via https://t.co/cKvLxAJqUW https://t.co/Zz5x1q5yMO
+839,"RT @stpiindia: The light-powered #AI chip developed by a team of researchers at @RMIT to combine imaging, processing, machine learning &amp; me…"
+840,RT @IBAevents: Join us for 'Fighting bias in the age of machine learning and artificial intelligence' at IBA 2020 - Virtually Together Conf…
+841,RT @javascriptflx: The Machine Learning Certification Course ($94.99 to Free) #JavaScript #MachineLearning #Python #100DaysOfCode #CloudCom…
+842,RT @javascriptflx: The Machine Learning Certification Course ($94.99 to Free) #JavaScript #MachineLearning #Python #100DaysOfCode #CloudCom…
+843,"""Predictive analytics integrates machine learning with business intelligence to forecast future events from historical and real-time data..""
+#SupplyChain #BigData 
+https://t.co/qOn1En7ERT
+by @ExpHealthcare"
+844,RT @javascriptflx: The Machine Learning Certification Course ($94.99 to Free) #JavaScript #MachineLearning #Python #100DaysOfCode #CloudCom…
+845,RT @javascriptflx: The Machine Learning Certification Course ($94.99 to Free) #JavaScript #MachineLearning #Python #100DaysOfCode #CloudCom…
+846,RT @tevysuji: Dalmi business plan “Tarzan” based on Dosan’s metaphor about machine learning ❤️😍 https://t.co/hRiY3AVpDR
+847,"RT @NancyTr83158469: 📚Top 5 #Free Machine Learning and Deep Learning #ebooks Everyone should read - KDnuggets
+
+#MachineLearning #Python #De…"
+848,"RT @NancyTr83158469: 📚Top 5 #Free Machine Learning and Deep Learning #ebooks Everyone should read - KDnuggets
+
+#MachineLearning #Python #De…"
+849,"RT @NancyTr83158469: 📚Top 5 #Free Machine Learning and Deep Learning #ebooks Everyone should read - KDnuggets
+
+#MachineLearning #Python #De…"
+850,"RT @hinsonan: Which machine learning framework do you prefer?
+
+#MachineLearning #ArtificialIntelligence 
+#AI 
+#keras 
+#fastai"
+851,RT @couponfree01: Udemy Free Discount - A-Z Machine Learning &amp; Data Science - Azure Machine Learning #udemycoupon -&gt; https://t.co/slVcGGL62…
+852,"RT @hinsonan: Which machine learning framework do you prefer?
+
+#MachineLearning #ArtificialIntelligence 
+#AI 
+#keras 
+#fastai"
+853,"RT @dorigo: On 11/25 @6PM CET I will lecture ITLisboa on handling systematic uncertainties with Machine Learning, see https://t.co/69zxowpA…"
+854,RT @TDataScience: All Machine Learning Algorithms You Should Know in 2021  https://t.co/0Yl057FAHu
+855,"RT @hinsonan: Which machine learning framework do you prefer?
+
+#MachineLearning #ArtificialIntelligence 
+#AI 
+#keras 
+#fastai"
+856,"@Tata_Crucible A. Machine Learning
+
+#TechTalk 
+#TataCrucibleCorporateQuiz2020 
+#GetSetQuiz"
+857,RT @couponfree01: Udemy Free Discount - A-Z Machine Learning &amp; Data Science - Azure Machine Learning #udemycoupon -&gt; https://t.co/slVcGGL62…
+858,"RT @NancyTr83158469: 📚Top 5 #Free Machine Learning and Deep Learning #ebooks Everyone should read - KDnuggets
+
+#MachineLearning #Python #De…"
+859,RT @couponfree01: Udemy Free Discount - A-Z Machine Learning &amp; Data Science - Azure Machine Learning #udemycoupon -&gt; https://t.co/slVcGGL62…
+860,RT @couponfree01: Udemy Free Discount - A-Z Machine Learning &amp; Data Science - Azure Machine Learning #udemycoupon -&gt; https://t.co/slVcGGL62…
+861,RT @couponfree01: Udemy Free Discount - A-Z Machine Learning &amp; Data Science - Azure Machine Learning #udemycoupon -&gt; https://t.co/slVcGGL62…
+862,"RT @NancyTr83158469: 📚Top 5 #Free Machine Learning and Deep Learning #ebooks Everyone should read - KDnuggets
+
+#MachineLearning #Python #De…"
+863,"RT @NancyTr83158469: 📚Top 5 #Free Machine Learning and Deep Learning #ebooks Everyone should read - KDnuggets
+
+#MachineLearning #Python #De…"
+864,"With some operators delaying #5G deployments, many operators are turning to us to leverage their existing #4G infrastructure using breakthrough #MachineLearning technology. Read to learn live results: https://t.co/cUPfpNGrQh #RAN https://t.co/mnbBbdMT9t"
+865,"RT @TPIndiaOfficial: High-Tech making waves in the industry? Don’t get left behind. Partner with TP, to optimize your finance strategy, bac…"
+866,RT @BrankoBoro: Demystifying Quantum Machine Learning #MachineLearning #learning via https://t.co/JTOOTycanK https://t.co/cMRjU9mlX4
+867,"RT @Carlillo: Why learn #JavaScript?Because you can build
+
+1. Frontend apps: Vanilla/#Angular/#react
+2. Backend apps: node/deno
+3. Mobile a…"
+868,"RT @stpiindia: #AI &amp; #ML can play a pivotal role in transforming logistic sector by automating warehouse operations, increasing productivit…"
+869,Demystifying Quantum Machine Learning #MachineLearning #learning via https://t.co/JTOOTycanK https://t.co/cMRjU9mlX4
+870,"The use of #AI and machine learning (#ML), technologies that help people and organizations handle customer personalization and communication, data analytics and processing, and a host of other applications continues to grow.  https://t.co/6ByMAimjrP"
+871,"RT @omarsar0: Most of us start our machine learning journeys while doing something else.
+
+I remember feeling discouraged at times because I…"
+872,RT @IntuitMachine: The state of machine learning practice: https://t.co/A4pesHh9c8
+873,"RT @Arvind_0602: From tomorrow I will start my #100DaysOfCode, but this time I will start learning machine learning as a newbie.
+And I will…"
+874,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+875,"RT @PrasoonPratham: Data cleaning is a very important part of machine learning, recently I came across @trymito which was a game changer.…"
+876,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+877,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+878,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+879,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+880,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+881,RT @marcusborba: All Machine Learning Algorithms You Should Know in 2021. #AI #DeepLearning #BigData #Analytics #Python #RStats #JavaScript…
+882,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+883,"RT @PermanentEquity: What other people are obsessing over:
+Cryptocurrency
+Autonomous Driving
+Drones
+Machine Learning
+
+Us:
+HVAC
+Doors
+Meat
+B…"
+884,RT @EdKwedar: How to Create A Train/Test Split for Your #MachineLearning Model? #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RS…
+885,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+886,"On 11/25 @6PM CET I will lecture ITLisboa on handling systematic uncertainties with Machine Learning, see https://t.co/69zxowpAVr (zoom). And on 11/24@3PM I will lecture on same topic at IDAO (https://t.co/A3lXMwDc8y)- https://t.co/pl6MT3XXv4 #MachineLearning https://t.co/yPovzHzOL5"
+887,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+888,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+889,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+890,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+891,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+892,"RT @couponed_code: Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #An…"
+893,"Machine Learning Deep Learning Model Deployment 
+@udemy Udemy Promo Discount
+
+https://t.co/mz5AngC2RJ
+
+#DeepLearning #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Coding #100DaysofCode #100DaysOfMLCode #udemycoupon https://t.co/jMy2zQDZje"
+894,"RT @NIshaja75041724: Best machine learning course Certification Courses in Delhi.,SASVBA Provides Best Best machine learning course Trainin…"
+895,"Data preparation is the most required process before feeding the data into the machine learning model for predicting outcomes. See here the 6 most important steps for data preparation.
+
+To learn Data Science and ML visit here-
+https://t.co/BB5SkW4otT
+#DataScience #MachineLearning https://t.co/8yzdMRMCAV"
+896,"RT @NIshaja75041724: Best machine learning course Certification Courses in Delhi.,SASVBA Provides Best Best machine learning course Trainin…"
+897,"RT @NIshaja75041724: Best machine learning course Certification Courses in Delhi.,SASVBA Provides Best Best machine learning course Trainin…"
+898,RT @_NuhuIbrahim: I am making progress learning Data Science and Machine Learning. I am tempted to start writing articles but I am worried…
+899,RT @CEO_dalmi: dalmi's business plan is called tarzan remember dosan use tarzan to help her understand machine learning 🤧 #StartUpEp12 http…
+900,"RT @omarsar0: Most of us start our machine learning journeys while doing something else.
+
+I remember feeling discouraged at times because I…"
+901,"RT @NIshaja75041724: Data Analytics Certification Courses in Delhi.,SASVBA Provides Best Data Analytics Training in Delhi/NCR with Latest D…"
+902,"RT @GoogleAI: Curious about what drives Hum to Search, the new feature in Google Search that allows you to find a song just by humming it?…"
+903,RT @_GroundReality: 3 ways criminals use AI in cybersecurity attacks. Bad actors use machine learning to break passwords more quickly and b…
+904,"RT @ruben_arce_s: A Brief History of Machine Learning https://t.co/9r59Ew266M 
+@ruben_arce_s
+#DigitalTransformation #MachineLearning #BigDa…"
+905,@omarsar0 Pls keep me in ur machine learning course students list
+906,"RT @ruben_arce_s: A Brief History of Machine Learning https://t.co/9r59Ew266M 
+@ruben_arce_s
+#DigitalTransformation #MachineLearning #BigDa…"
+907,"RT @ruben_arce_s: A Brief History of Machine Learning https://t.co/9r59Ew266M 
+@ruben_arce_s
+#DigitalTransformation #MachineLearning #BigDa…"
+908,RT @TDataScience: All Machine Learning Algorithms You Should Know in 2021  https://t.co/0Yl057FAHu
+909,"RT @stpiindia: #AI &amp; #ML can play a pivotal role in transforming logistic sector by automating warehouse operations, increasing productivit…"
+910,RT @DavidKieran2: New initiatives by the VA to use machine learning to identify veterans at risk for suicide draws on sort of epidemiologic…
+911,"RT @milocamj: Machine Learning Market 2020 | Worldwide Opportunities, Driving Forces, Future Potential 2026: International Business Machine…"
+912,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+913,"RT @omarsar0: Most of us start our machine learning journeys while doing something else.
+
+I remember feeling discouraged at times because I…"
+914,"RT @betanalpha: It's the weekend so I'm going to rant a little bit about degenerate inferences, why they're so common in machine learning,…"
+915,Machine Learning Solution Architecture #Learning #machinelearning via https://t.co/7WzLoIJPlY https://t.co/4P23pmqmIy
+916,RT @im_a_developer: How to create a chatbot in Python https://t.co/1nx4cFBwm8 #python #machine-learning #artificialintelligence #data-scien…
+917,@MJx_Music Rage Against the Machine Learning
+918,"RT @omarsar0: Most of us start our machine learning journeys while doing something else.
+
+I remember feeling discouraged at times because I…"
+919,Machine Learning Can Use Tweets to Automatically Spot Critical Security Flaws https://t.co/IdF0r3Ns25
+920,"RT @omarsar0: Most of us start our machine learning journeys while doing something else.
+
+I remember feeling discouraged at times because I…"
+921,"RT @svpino: Here is one of the best resources I've found to learn some of the math behind Machine Learning!
+
+And it's free!
+
+""Introduction…"
+922,"Most of us start our machine learning journeys while doing something else.
+
+I remember feeling discouraged at times because I didn't find enough time, but I kept pushing by reading papers and coding a bit every single day.
+
+One thing I remember from the experience: it takes time."
+923,"RT @Ayoolafelix: How to become a Data Analyst, Data Scientist or Machine Learning Engineer before the end of 2020.
+
+1/ Apply for DataCamp 1…"
+924,"In 2018, @ZSLconservation deployed acoustic recording devices in the Dja Faunal Reserve. Learn how using #MachineLearning to classify gunshots can protect wildlife → https://t.co/uG3kaVxnZD https://t.co/uPjvC4Nmc1"
+925,"RT @ValaAfshar: Top technology investments for CIOs and IT:
+
+1. Security
+2. Big data and analytics
+3. Internet of things
+4. Multi-cloud str…"
+926,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+927,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+928,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+929,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+930,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+931,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+932,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+933,"Machine Learning x End Times
+Technology x Theology
+
+At nagsabay pa nga yung mga webinars na inaabangan ko lol https://t.co/3lvzGtAEIr"
+934,"RT @reach2ratan: Amazon Augmented AI is now a HIPAA eligible service https://t.co/lOh3OZrZYN
+
+#CyberSecurity #digital #Hackers #infosec @re…"
+935,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+936,"RT @reach2ratan: Amazon Augmented AI is now a HIPAA eligible service https://t.co/lOh3OZrZYN
+
+#CyberSecurity #digital #Hackers #infosec @re…"
+937,"""ACCEPTED: invitation to attend dial-in call at 10:30 regarding Machine Learning Insights in Data Processing. Time to set phone to mute and pretend to take notes"" https://t.co/A4yPdryt1n"
+938,"RT @DD_Wen_: Machine Learning for Signal Processing: Data Science, Algorithms, and Computational Statistics #MachineLearning https://t.co/4…"
+939,"RT @DD_Wen_: Machine Learning for Signal Processing: Data Science, Algorithms, and Computational Statistics #MachineLearning https://t.co/4…"
+940,"Amazon Augmented AI is now a HIPAA eligible service https://t.co/lOh3OZrZYN
+
+#CyberSecurity #digital #Hackers #infosec @reach2ratan #malware #cloud #cloudsecurity #dataprotection #Privacy #infosec #informationsecurity #cloudcomputing #AWSSecurity #AWSCloud #AWS https://t.co/g1Fk3kQoye"
+941,"RT @DeepLearn007: My Article: Making #AI #MachineLearning Work for You
+
+https://t.co/gbj6dLqlh3
+
+@SpirosMargaris @Xbond49 @psb_dc @jblefevr…"
+942,"Read the full story: https://t.co/LTsrJsqYLf
+
+The 2020 edition of #GITEX is happening LIVE, in-person, 6-10 Dec 2020, Dubai World Trade Centre. Get your conference pass today: 👉 https://t.co/wfjo0jgZlV 
+#Dell #tech #conference #exhibitor #DWTC #Dubai #UAE"
+943,"#GITEX2020 will kick-off on a high note with @DellTech on stage. 🤩 Principal Technologist, Raed Ali Hijer leads an interactive discussion on the Artificial Intelligence track for accelerating machine learning &amp; AI across a range of industries. https://t.co/k9Nlfyaong"
+944,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+945,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+946,RT @eraser: Tech E Training :: Artificial Intelligence &amp; Data Scientist with Machine Learning Demo Session. #Video https://t.co/25Rptr5EUL…
+947,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+948,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+949,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+950,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+951,RT @eraser: Tech E Training :: Artificial Intelligence &amp; Data Scientist with Machine Learning Demo Session. #Video https://t.co/25Rptr5EUL…
+952,RT @aicanedo: 10 Free Must-Read #DataScience and #MachineLearning #EBooks in 2020 https://t.co/ffxB72eBnY #Python #AI #100DaysOfCode #DEVCo…
+953,"25 Best NLP Datasets for Machine Learning Projects
+
+We combed the web to create a collection of datasets for natural language processing. It covers text, audio speech, and sentiment analysis.
+
+#machinelearning #NLProc #datasets
+https://t.co/syiDGlu9t5"
+954,RT @eraser: Tech E Training :: Artificial Intelligence &amp; Data Scientist with Machine Learning Demo Session. #Video https://t.co/25Rptr5EUL…
+955,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+956,"@chidinmaekile It can get me a sewing machine.. Just finished learning how to sew some months ago 🙏🙏
+#9PaymentServiceBank"
+957,"RT @ipfconline1: 50 Million Artificial Neurons to Facilitate #MachineLearning Research 
+
+https://t.co/KFzWguT4Q3 by 
+@SandiaLabs via @techx…"
+958,RT @aicanedo: 10 Free Must-Read #DataScience and #MachineLearning #EBooks in 2020 https://t.co/ffxB72eBnY #Python #AI #100DaysOfCode #DEVCo…
+959,Python Coding From Scratch: Matrix Multiplication Without Any Machine Learning Libraries! https://t.co/EpnQ8tnBGV  #MachineLearning
+960,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+961,RT @aicanedo: 10 Free Must-Read #DataScience and #MachineLearning #EBooks in 2020 https://t.co/ffxB72eBnY #Python #AI #100DaysOfCode #DEVCo…
+962,RT @aicanedo: 10 Free Must-Read #DataScience and #MachineLearning #EBooks in 2020 https://t.co/ffxB72eBnY #Python #AI #100DaysOfCode #DEVCo…
+963,RT @aicanedo: 10 Free Must-Read #DataScience and #MachineLearning #EBooks in 2020 https://t.co/ffxB72eBnY #Python #AI #100DaysOfCode #DEVCo…
+964,RT @aicanedo: 10 Free Must-Read #DataScience and #MachineLearning #EBooks in 2020 https://t.co/ffxB72eBnY #Python #AI #100DaysOfCode #DEVCo…
+965,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+966,RT @aicanedo: 10 Free Must-Read #DataScience and #MachineLearning #EBooks in 2020 https://t.co/ffxB72eBnY #Python #AI #100DaysOfCode #DEVCo…
+967,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+968,RT @elonmusk: Deus ex machine learning https://t.co/5ZSYalVczx
+969,"Understanding Artificial Intelligence, Machine Learning, Deep Learning and Data Science https://t.co/5042e4tRBy #datascience"
+970,"Machine learning engine @15gifts are hiring for many new roles, from project managers to developers - so we caught up with them to find out more about company life and what their team loves most about their jobs. 
+
+Have a read! https://t.co/Oqz9T3pJj3 https://t.co/bns3ZhIfvD"
+971,"All modeling, machine learning or otherwise, will have bias.  The important thing is recognizing it and mitigating it. https://t.co/69bJczFbSy"
+972,RT @complidata: The primary shortcoming of rule-based surveillance systems is that most—up to 98%—of the alerts generated are “false positi…
+973,"RT @bilalkhann16: Learn python if you want to explore Machine Learning, Data Science."
+974,"Best machine learning course Certification Courses in Delhi.,SASVBA Provides Best Best machine learning course Training in Delhi/NCR with Latest Development Environment and Frameworks.  https://t.co/alJQcMrltO
+https://t.co/F1qlNxK1Lu  #best_machine_learning_course_online
+#best_ https://t.co/kXoaN8njtx"
+975,RT @crowdsourcegh: Explore Machine Learning (ML) with Crowdsource is a Google program to get started with Machine Learning and understand t…
+976,"RT @drsrinathsridha: I am looking for PhD students to join my group in Fall 2021 @BrownCSDept
+
+If you are interested in 3D computer vision…"
+977,"RT @asiawebmediaa: WhatsApp me at:+91-8178624855
+Experience between 0-30 years India, Gulf
+Data Scientist, Data Management, Artificial Inte…"
+978,"Some excellent comments here about the possibilities #MachineLearning holds for us: ""Intelligent machines will become ubiquitous, doing our chores and freeing us up for creative, value-added tasks."" #ML #ArtificialIntelligence #AI https://t.co/ymQ2m51QXl"
+979,RT @aicanedo: 10 Free Must-Read #DataScience and #MachineLearning #EBooks in 2020 https://t.co/ffxB72eBnY #Python #AI #100DaysOfCode #DEVCo…
+980,RT @aicanedo: 10 Free Must-Read #DataScience and #MachineLearning #EBooks in 2020 https://t.co/ffxB72eBnY #Python #AI #100DaysOfCode #DEVCo…
+981,RT @aicanedo: 10 Free Must-Read #DataScience and #MachineLearning #EBooks in 2020 https://t.co/ffxB72eBnY #Python #AI #100DaysOfCode #DEVCo…
+982,RT @aicanedo: 10 Free Must-Read #DataScience and #MachineLearning #EBooks in 2020 https://t.co/ffxB72eBnY #Python #AI #100DaysOfCode #DEVCo…
+983,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+984,"RT @byLilyV: #FEATURED #COURSES
+
+#Machine #Learning A-Z™: Hands-On #Python &amp; #R In #Data #Science
+
+Learn to create Machine Learning Algorit…"
+985,"RT @ValaAfshar: Top technology investments for CIOs and IT:
+
+1. Security
+2. Big data and analytics
+3. Internet of things
+4. Multi-cloud str…"
+986,"Data Analytics Certification Courses in Delhi.,SASVBA Provides Best Data Analytics Training in Delhi/NCR with Latest Development Environment and Frameworks.  ExcelR is the Best Data Analytics -
+https://t.co/ugrksMD8fB
+https://t.co/F1qlNxK1Lu https://t.co/tiugK6gTaD"
+987,"At KlaasX, we not only introduce you to the basics of Artificial Intelligence, but also take you through all the advance concepts of Machine Learning, Probabilistic Reasoning, Logic, Planning, Natural Language Processing and so much more. 
+
+Come, learn with us now! https://t.co/T3Eb1vCeeZ"
+988,"RT @Ulysses03160053: I can offer services in the following areas 1/3
+All kinds of Regression Analysis
+Machine learning Algorithms
+Data visu…"
+989,"Video Interview: Reem AlShammari from Kuwait Oil Co. offers insight on the use of AI, machine learning and blockchain in building a resilient cyber framework, with 
+@AsiaSecEditor Watch: https://t.co/dKnu1NRiAI
+#Risk #ISMGNews https://t.co/nbU0J0dwKl"
+990,"RT @asiawebmediaa: WhatsApp me at:+91-8178624855 or FOLLOW me
+Experience between 0-30, India &amp; Gulf, sectors Like
+-------------------------…"
+991,"$FORD https://t.co/qBItONZPbg Forward Industries, Inc. The machine learning model judges this stock s value should remain flat in the coming days and has a negative long term outlook #finance #investor #goals"
+992,"RT @asiawebmediaa: WhatsApp me at:+91-8178624855 or FOLLOW me
+Experience between 0-30, India &amp; Gulf, sectors Like
+-------------------------…"
+993,"RT @mockingjay_45: [Attention]
+If you have any of the below listed expertise with at least 4 years of industry experience, hit me up for a…"
+994,"Artificial Intelligence and #MachineLearning, 5G and #IoT will be the Most Important #Technologies in 2021via @iotbusinessnews #AI #5G https://t.co/rwunRWRg0w https://t.co/e3F3NxVn64"
+995,🐹🐹🐹 FOXG1 Research Foundation to Pioneer a Machine Learning Approach to Accelerate Rare Disease Research with Support From the Chan Zuckerberg Initiative - PRNewswire https://t.co/JUdZlnQ2Lq #CuttingEdge #AI 🎲 ➡︎ 🎰 #ML https://t.co/4jGvOqApAY
+996,The way we train AI is fundamentally flawed #Learning via https://t.co/pwflzXGpiN https://t.co/w9kCeb59ai
+997,RT @CEO_dalmi: dalmi's business plan is called tarzan remember dosan use tarzan to help her understand machine learning 🤧 #StartUpEp12 http…
+998,"RT @PrasoonPratham: My most favourite Machine learning tools : 
+
+- Google colab
+- Kaggle
+- TensorFlow
+- Pytorch
+- SciKit Learn
+- Pandas
+- M…"
+999,"RT @_NoneType: @cool_summit_07 @PrasoonPratham It totally depends on how your data is. Feature engineering, scaling, outlier treatment defi…"
