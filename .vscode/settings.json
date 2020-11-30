@@ -1,13 +1,3 @@
-{
-    "editor.fontSize": 14,
-    "terminal.integrated.fontSize": 16,
-    "window.zoomLevel": 0.5,
-
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.formatOnSave": true,
-    "workbench.colorTheme": "Tokyo Night",
-    "editor.fontFamily": "Hack",
-    "python.pythonPath": "C:\\Users\\Roy\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
-    "jupyter.jupyterServerType": "local",
-    
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:15209f30345e5a2ed8e55e6fe226e0016c00d41fc07ebe6ce88ace96a875983f
+size 417
